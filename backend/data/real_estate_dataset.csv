@@ -1,0 +1,2001 @@
+id,location,property_type,square_footage,bedrooms,bathrooms,property_age,metro_distance,schools_nearby,hospitals_nearby,price_per_sqft,total_price
+1,Begumpet,Standalone Own Building,1508,4,3,5,3.9,4,3,30020,45030710
+2,Gachibowli,Villa/Apt,2532,4,3,1,2.4,8,5,26940,68212000
+3,Banjara Hills,Villa/Apt,2839,3,2,1,2.5,6,5,37460,106349000
+4,Gachibowli,Standalone Own Building,3415,4,4,4,5.2,7,6,34190,116759000
+5,Madhapur,Standalone Own Building,3398,4,3,29,7.3,2,2,26880,91338000
+6,Jubilee Hills,Standalone Own Building,3718,4,3,6,1.2,6,1,54890,204081000
+7,Jubilee Hills,Gated Community,2613,3,4,8,5.7,6,4,37650,98379000
+8,Madhapur,Villa/Apt,1180,2,1,2,3.1,2,7,25900,30562000
+9,Jubilee Hills,Gated Community,1765,3,2,26,4.9,4,7,36270,64017000
+10,Kukatpally,Gated Community,3109,5,4,2,1.1,7,1,13680,42531000
+11,Banjara Hills,Standalone Own Building,2433,4,4,21,3.4,5,7,46140,112259000
+12,Kukatpally,Gated Community,2649,4,4,4,3.4,2,4,13060,34596000
+13,Madhapur,Villa/Apt,1540,3,3,1,0.9,3,3,27780,42781000
+14,Jubilee Hills,Villa/Apt,2757,4,5,9,1.9,6,6,39480,108846000
+15,Begumpet,Standalone Own Building,1737,2,2,17,6.5,7,6,27420,47629000
+16,Madhapur,Gated Community,1935,3,3,17,2.6,8,1,25530,49401000
+17,Jubilee Hills,Standalone Own Building,3771,5,4,45,2.3,2,2,40310,152009000
+18,Gachibowli,Standalone Own Building,2493,4,4,7,5.1,6,7,34810,86781000
+19,Jubilee Hills,Gated Community,2217,4,4,4,1.5,1,1,41940,92981000
+20,Gachibowli,Standalone Own Building,1370,3,3,0,5.6,3,4,32610,44676000
+21,Kukatpally,Gated Community,3983,4,4,0,7.0,6,2,13860,55204000
+22,Jubilee Hills,Gated Community,3411,4,4,1,1.5,4,5,43520,148447000
+23,Gachibowli,Standalone Own Building,3908,5,6,15,6.5,3,1,30610,119624000
+24,Jubilee Hills,Villa/Apt,2221,3,2,6,1.0,8,6,41790,92816000
+25,Madhapur,Standalone Own Building,3843,4,4,13,5.0,7,3,34360,132045000
+26,Madhapur,Gated Community,1642,2,2,1,7.3,5,3,27710,45500000
+27,Kukatpally,Gated Community,2687,3,2,7,2.3,3,1,13900,37349000
+28,Banjara Hills,Villa/Apt,1935,3,4,8,5.8,5,1,35090,67899000
+29,Begumpet,Standalone Own Building,2374,3,3,6,3.0,2,7,31770,75422000
+30,Kukatpally,Villa/Apt,1123,2,2,2,2.1,2,2,13180,14801000
+31,Banjara Hills,Gated Community,2628,3,3,1,4.1,4,2,37670,98997000
+32,Banjara Hills,Gated Community,1881,3,3,0,5.4,7,4,36730,69089000
+33,Madhapur,Standalone Own Building,1912,4,4,19,2.1,2,6,35500,67876000
+34,Jubilee Hills,Gated Community,2135,4,4,20,3.3,6,5,36840,78653000
+35,Kukatpally,Standalone Own Building,1829,4,4,0,3.2,3,4,17460,31934000
+36,Kukatpally,Standalone Own Building,2012,3,3,11,0.7,2,1,16210,32615000
+37,Banjara Hills,Standalone Own Building,5234,6,6,10,3.2,5,7,47650,249400000
+38,Banjara Hills,Gated Community,1806,3,3,0,1.5,6,6,40100,72421000
+39,Gachibowli,Gated Community,1488,3,4,1,2.1,3,2,28040,41724000
+40,Madhapur,Gated Community,2974,4,5,17,6.5,8,3,25710,76462000
+41,Madhapur,Standalone Own Building,4348,5,5,17,5.0,3,4,33540,145832000
+42,Jubilee Hills,Standalone Own Building,2593,3,3,4,4.3,5,2,50080,129857000
+43,Jubilee Hills,Gated Community,3000,4,5,0,3.1,5,1,43870,131610000
+44,Madhapur,Gated Community,2666,4,4,0,2.1,8,7,32060,85472000
+45,Kukatpally,Standalone Own Building,4954,6,6,3,6.7,1,4,16760,83029000
+46,Banjara Hills,Villa/Apt,1188,2,3,18,3.9,7,5,32270,38337000
+47,Madhapur,Standalone Own Building,5351,6,5,26,7.3,6,7,29400,157319000
+48,Banjara Hills,Gated Community,2611,4,5,6,5.2,1,5,36210,94544000
+49,Jubilee Hills,Gated Community,3732,4,4,1,3.9,5,1,43030,160588000
+50,Begumpet,Standalone Own Building,4995,6,6,12,3.8,4,6,27750,138611000
+51,Gachibowli,Gated Community,1994,3,3,8,7.4,7,1,25230,50309000
+52,Kukatpally,Gated Community,1964,3,3,0,4.1,5,6,13380,26278000
+53,Banjara Hills,Villa/Apt,3193,4,4,0,1.8,1,6,37080,118396000
+54,Jubilee Hills,Villa/Apt,2438,3,3,14,5.8,8,6,37730,91986000
+55,Jubilee Hills,Standalone Own Building,2874,3,3,0,5.9,8,3,52000,149448000
+56,Kukatpally,Gated Community,2101,4,4,1,6.9,5,6,13120,27565000
+57,Begumpet,Villa/Apt,1029,2,2,9,7.4,1,3,20630,21228000
+58,Madhapur,Gated Community,4236,5,5,3,3.3,1,5,28170,119328000
+59,Kukatpally,Villa/Apt,2900,3,3,0,7.2,5,4,12500,36250000
+60,Jubilee Hills,Gated Community,2793,3,2,6,3.6,6,3,42380,118367000
+61,Madhapur,Gated Community,3659,4,3,0,5.7,5,6,28650,104830000
+62,Kukatpally,Standalone Own Building,1843,3,3,8,3.1,3,3,17110,31534000
+63,Madhapur,Gated Community,2277,4,5,17,1.4,8,1,27170,61866000
+64,Gachibowli,Standalone Own Building,2859,4,4,3,6.4,8,3,33950,97063000
+65,Jubilee Hills,Standalone Own Building,4909,5,5,1,2.0,3,5,53110,260717000
+66,Jubilee Hills,Standalone Own Building,1988,3,2,6,2.0,2,1,55400,110135000
+67,Banjara Hills,Gated Community,2819,3,4,15,1.3,2,4,35980,101428000
+68,Kukatpally,Gated Community,1861,3,3,3,4.8,7,6,14870,27673000
+69,Banjara Hills,Standalone Own Building,3849,5,5,7,1.5,2,6,48850,188024000
+70,Madhapur,Standalone Own Building,2267,3,2,3,1.8,2,6,39450,89433000
+71,Kukatpally,Gated Community,1622,3,3,8,3.4,3,2,13720,22254000
+72,Jubilee Hills,Standalone Own Building,3554,4,4,43,4.0,1,5,39180,139246000
+73,Jubilee Hills,Standalone Own Building,1976,4,3,7,3.1,4,7,51930,102614000
+74,Begumpet,Gated Community,3866,4,5,4,5.5,6,1,23040,89073000
+75,Gachibowli,Villa/Apt,1457,3,3,1,7.2,4,7,25350,36935000
+76,Kukatpally,Gated Community,1623,3,4,2,4.6,6,2,14860,24118000
+77,Madhapur,Standalone Own Building,3719,4,3,0,1.1,7,6,36550,135929000
+78,Gachibowli,Standalone Own Building,5185,6,6,1,7.1,1,2,32950,170846000
+79,Kukatpally,Standalone Own Building,4259,4,3,1,6.2,3,6,18670,79516000
+80,Madhapur,Standalone Own Building,4765,5,5,5,3.0,3,5,37570,179021000
+81,Madhapur,Standalone Own Building,4931,5,5,23,4.8,3,6,30400,149902000
+82,Begumpet,Gated Community,2151,3,3,5,4.1,7,3,22980,49430000
+83,Jubilee Hills,Standalone Own Building,3994,4,4,14,5.4,1,6,48690,194468000
+84,Kukatpally,Standalone Own Building,4560,5,5,15,1.4,7,4,17760,80986000
+85,Madhapur,Gated Community,2604,3,3,1,6.8,6,6,29110,75802000
+86,Gachibowli,Gated Community,4054,4,4,4,6.3,7,4,25110,101796000
+87,Begumpet,Gated Community,1369,3,3,2,0.8,3,5,24740,33869000
+88,Banjara Hills,Villa/Apt,3152,4,3,1,1.9,7,1,34650,109217000
+89,Jubilee Hills,Gated Community,2241,4,3,9,4.0,3,7,38340,85920000
+90,Gachibowli,Villa/Apt,3212,4,4,15,6.1,3,4,21410,68769000
+91,Madhapur,Standalone Own Building,1319,2,2,3,1.9,2,5,37430,49370000
+92,Madhapur,Villa/Apt,1914,4,5,4,1.6,7,1,25510,48826000
+93,Gachibowli,Gated Community,2180,3,3,2,7.9,3,2,23590,51426000
+94,Jubilee Hills,Gated Community,2568,4,4,4,4.8,4,1,39090,100383000
+95,Kukatpally,Standalone Own Building,4914,6,6,38,6.3,7,5,13480,66241000
+96,Gachibowli,Gated Community,1995,3,3,5,4.4,5,3,26090,52050000
+97,Kukatpally,Villa/Apt,3698,5,5,19,7.1,6,5,11430,42268000
+98,Gachibowli,Standalone Own Building,1632,3,3,18,2.9,3,4,32370,52828000
+99,Begumpet,Gated Community,2153,4,4,0,6.3,5,6,24440,52619000
+100,Kukatpally,Standalone Own Building,4654,5,6,15,1.1,6,3,17140,79770000
+101,Gachibowli,Standalone Own Building,2266,4,4,2,3.0,3,6,35010,79333000
+102,Begumpet,Gated Community,1834,3,2,14,1.1,4,1,22540,41338000
+103,Madhapur,Villa/Apt,1460,2,1,13,6.6,8,2,22120,32295000
+104,Madhapur,Gated Community,1842,4,4,2,4.0,8,2,29180,53750000
+105,Banjara Hills,Gated Community,1979,3,3,2,4.6,7,3,37550,74311000
+106,Begumpet,Gated Community,4104,4,4,1,4.2,3,3,23720,97347000
+107,Begumpet,Standalone Own Building,3461,4,4,4,3.3,5,3,30540,105699000
+108,Madhapur,Gated Community,1588,2,1,20,0.3,4,3,26900,42717000
+109,Begumpet,Gated Community,2993,4,3,19,5.8,7,5,20510,61386000
+110,Kukatpally,Gated Community,2844,4,5,6,5.3,1,5,13110,37285000
+111,Madhapur,Villa/Apt,2110,3,3,0,5.6,3,2,25490,53784000
+112,Gachibowli,Gated Community,3160,4,4,4,6.5,6,7,26910,85036000
+113,Gachibowli,Villa/Apt,2056,3,3,5,7.6,4,5,21290,43772000
+114,Madhapur,Gated Community,2550,3,4,3,3.6,2,6,28970,73874000
+115,Banjara Hills,Standalone Own Building,1448,2,1,6,3.9,4,7,48630,70416000
+116,Gachibowli,Standalone Own Building,2466,4,4,0,5.3,8,6,35710,88061000
+117,Madhapur,Standalone Own Building,5017,5,4,4,1.2,3,2,37680,189041000
+118,Kukatpally,Standalone Own Building,3324,5,6,9,6.8,2,1,16110,53550000
+119,Gachibowli,Villa/Apt,1506,3,2,0,4.7,1,1,23750,35768000
+120,Begumpet,Villa/Apt,2734,4,3,4,4.6,1,5,21040,57523000
+121,Gachibowli,Villa/Apt,3091,4,4,8,2.2,4,6,22630,69949000
+122,Begumpet,Gated Community,2266,3,3,0,6.4,2,1,23120,52390000
+123,Kukatpally,Standalone Own Building,2220,3,3,0,4.1,5,4,18140,40271000
+124,Banjara Hills,Villa/Apt,3738,4,5,4,5.5,3,2,34820,130157000
+125,Kukatpally,Gated Community,3620,4,3,1,2.7,5,1,14200,51404000
+126,Begumpet,Standalone Own Building,3783,4,5,32,3.7,7,7,25430,96202000
+127,Banjara Hills,Gated Community,3198,4,3,0,2.6,1,1,38250,122324000
+128,Banjara Hills,Standalone Own Building,1069,3,2,3,1.1,1,2,51730,55299000
+129,Begumpet,Standalone Own Building,5259,6,5,3,5.4,6,1,28100,147778000
+130,Madhapur,Standalone Own Building,3451,4,5,36,7.3,4,3,27450,94730000
+131,Banjara Hills,Standalone Own Building,2428,3,3,11,3.2,6,2,46120,111979000
+132,Begumpet,Gated Community,2394,3,3,7,1.9,2,7,24490,58629000
+133,Jubilee Hills,Villa/Apt,1343,3,4,3,4.2,6,3,39370,52874000
+134,Jubilee Hills,Villa/Apt,1820,4,3,1,1.2,1,4,37180,67668000
+135,Madhapur,Standalone Own Building,2074,3,2,6,4.1,7,3,39090,81073000
+136,Kukatpally,Standalone Own Building,5030,6,5,6,0.3,7,1,17350,87270000
+137,Madhapur,Standalone Own Building,1932,4,4,8,3.4,8,5,36960,71407000
+138,Banjara Hills,Gated Community,2964,3,4,7,4.3,1,1,37160,110142000
+139,Banjara Hills,Standalone Own Building,3256,4,4,2,2.7,8,2,52230,170061000
+140,Gachibowli,Gated Community,1625,2,1,0,4.8,2,6,28390,46134000
+141,Kukatpally,Standalone Own Building,1956,3,3,12,0.5,6,1,17790,34797000
+142,Banjara Hills,Gated Community,3048,5,5,9,2.7,3,7,39330,119878000
+143,Gachibowli,Gated Community,2565,4,3,0,3.7,5,1,26990,69229000
+144,Begumpet,Standalone Own Building,5730,5,4,15,5.0,3,4,29030,166342000
+145,Jubilee Hills,Villa/Apt,3549,5,4,6,1.4,7,7,39640,140682000
+146,Jubilee Hills,Gated Community,3621,5,5,3,2.7,4,6,42500,153892000
+147,Gachibowli,Gated Community,2473,4,5,3,3.9,3,2,27040,66870000
+148,Begumpet,Standalone Own Building,3460,5,5,1,5.5,8,6,30370,105080000
+149,Begumpet,Standalone Own Building,4610,5,4,20,3.5,8,7,27250,125622000
+150,Gachibowli,Gated Community,1817,3,4,1,6.6,7,1,25530,46388000
+151,Begumpet,Gated Community,1961,3,2,4,2.7,6,1,23880,46829000
+152,Gachibowli,Standalone Own Building,3436,5,4,1,2.3,5,7,35450,121806000
+153,Kukatpally,Villa/Apt,2174,4,3,0,2.2,2,1,13810,30023000
+154,Madhapur,Villa/Apt,1003,2,2,16,2.6,1,3,24220,24293000
+155,Gachibowli,Gated Community,2478,4,3,0,4.2,8,2,27490,68120000
+156,Jubilee Hills,Gated Community,4236,4,4,3,5.3,6,7,42720,180962000
+157,Begumpet,Gated Community,2497,4,5,5,0.5,8,1,24700,61676000
+158,Kukatpally,Gated Community,1923,4,4,6,1.1,4,2,13900,26730000
+159,Begumpet,Gated Community,2663,4,5,3,2.7,6,3,24260,64604000
+160,Kukatpally,Gated Community,3339,4,4,0,4.2,1,5,13440,44876000
+161,Gachibowli,Gated Community,2260,3,2,2,3.6,2,3,25030,56568000
+162,Madhapur,Gated Community,2796,3,3,11,4.0,6,4,25650,71717000
+163,Madhapur,Gated Community,2766,4,4,7,7.2,5,5,25120,69482000
+164,Jubilee Hills,Standalone Own Building,3560,5,4,26,1.3,5,5,45520,162051000
+165,Gachibowli,Standalone Own Building,2313,3,3,7,4.2,4,6,33030,76398000
+166,Kukatpally,Standalone Own Building,2708,3,2,11,1.6,5,7,17340,46957000
+167,Madhapur,Standalone Own Building,5546,5,5,7,0.6,2,7,37360,207199000
+168,Begumpet,Gated Community,3419,5,4,1,4.7,2,1,22040,75355000
+169,Kukatpally,Standalone Own Building,4414,4,4,1,4.8,1,7,17470,77113000
+170,Madhapur,Standalone Own Building,3960,5,4,1,0.5,7,3,39990,158360000
+171,Jubilee Hills,Gated Community,2732,3,4,0,4.5,3,2,44270,120946000
+172,Gachibowli,Gated Community,2999,4,3,0,7.1,2,7,25400,76175000
+173,Madhapur,Gated Community,2287,3,3,5,3.5,4,2,28570,65340000
+174,Madhapur,Standalone Own Building,3530,4,4,11,2.0,2,3,32860,115996000
+175,Begumpet,Gated Community,2149,4,3,19,4.9,7,1,19810,42572000
+176,Jubilee Hills,Gated Community,2332,4,3,2,5.9,3,6,39890,93023000
+177,Banjara Hills,Villa/Apt,3233,4,4,4,4.1,2,7,33050,106851000
+178,Begumpet,Gated Community,2519,3,2,0,1.9,5,2,23140,58290000
+179,Jubilee Hills,Gated Community,3442,4,5,12,1.8,6,3,38220,131553000
+180,Madhapur,Gated Community,2265,4,4,4,4.8,6,2,28000,63420000
+181,Kukatpally,Standalone Own Building,1603,3,2,11,2.8,4,2,17170,27524000
+182,Madhapur,Villa/Apt,1299,3,4,4,4.7,6,6,25860,33592000
+183,Gachibowli,Standalone Own Building,2562,3,2,1,8.7,4,4,31040,79524000
+184,Begumpet,Gated Community,2106,4,4,0,4.9,5,3,24980,52608000
+185,Banjara Hills,Standalone Own Building,4181,4,3,45,1.3,8,7,41830,174891000
+186,Begumpet,Standalone Own Building,1865,3,3,1,5.3,4,1,29900,55764000
+187,Kukatpally,Gated Community,2095,4,4,3,1.2,4,7,14540,30461000
+188,Gachibowli,Standalone Own Building,2563,3,3,13,7.4,6,7,30580,78377000
+189,Banjara Hills,Standalone Own Building,4076,4,4,2,1.1,2,5,46320,188800000
+190,Begumpet,Villa/Apt,3429,4,3,4,3.6,4,7,21430,73483000
+191,Madhapur,Villa/Apt,2238,4,4,18,1.3,8,1,24520,54876000
+192,Madhapur,Villa/Apt,2760,3,3,15,2.1,8,5,24810,68476000
+193,Gachibowli,Gated Community,1944,4,4,12,2.7,4,1,26030,50602000
+194,Gachibowli,Standalone Own Building,1350,3,3,16,2.7,1,5,28610,38624000
+195,Gachibowli,Villa/Apt,3515,5,5,2,4.9,5,6,24540,86258000
+196,Kukatpally,Standalone Own Building,2743,3,3,22,5.9,8,1,15200,41694000
+197,Begumpet,Gated Community,3751,4,3,3,1.1,5,5,24450,91712000
+198,Begumpet,Gated Community,2789,3,2,0,4.6,1,1,23800,66378000
+199,Gachibowli,Standalone Own Building,2281,4,4,6,2.1,5,3,31560,71988000
+200,Madhapur,Standalone Own Building,4779,5,5,10,1.9,6,6,37290,178209000
+201,Madhapur,Standalone Own Building,3160,5,6,0,1.5,5,5,39480,124757000
+202,Kukatpally,Villa/Apt,1474,3,3,7,4.2,5,1,11370,16759000
+203,Madhapur,Gated Community,3644,5,5,1,3.6,8,1,28930,105421000
+204,Kukatpally,Villa/Apt,1590,2,3,6,2.5,5,6,12280,19525000
+205,Gachibowli,Gated Community,2631,3,3,0,7.2,6,1,26210,68959000
+206,Begumpet,Standalone Own Building,2438,3,3,20,7.5,4,7,27660,67435000
+207,Begumpet,Gated Community,2266,3,3,0,4.8,4,4,23410,53047000
+208,Kukatpally,Standalone Own Building,3323,4,4,0,4.5,7,4,19670,65363000
+209,Madhapur,Villa/Apt,1576,3,3,0,0.7,5,4,28590,45058000
+210,Kukatpally,Gated Community,3306,4,4,0,2.7,7,1,14320,47342000
+211,Madhapur,Gated Community,4667,6,6,3,4.9,8,7,28710,133990000
+212,Banjara Hills,Gated Community,3500,4,4,5,1.9,5,2,38630,135205000
+213,Jubilee Hills,Villa/Apt,1558,3,4,11,1.9,1,5,33870,52769000
+214,Gachibowli,Gated Community,1747,2,2,4,5.1,1,4,25000,43675000
+215,Madhapur,Standalone Own Building,4031,5,6,0,0.7,6,6,39860,160676000
+216,Jubilee Hills,Standalone Own Building,4984,5,5,14,3.2,5,6,50210,250247000
+217,Banjara Hills,Standalone Own Building,4985,5,5,5,2.7,7,7,49350,246010000
+218,Banjara Hills,Gated Community,4178,4,5,0,3.1,8,6,41630,173930000
+219,Jubilee Hills,Gated Community,2422,4,4,2,1.6,2,5,40520,98139000
+220,Jubilee Hills,Standalone Own Building,4586,6,6,1,5.3,2,3,52350,240077000
+221,Madhapur,Standalone Own Building,2856,3,2,29,6.4,2,2,28250,80682000
+222,Gachibowli,Gated Community,2881,4,3,4,7.6,2,3,24210,69749000
+223,Jubilee Hills,Standalone Own Building,4058,4,3,21,5.4,4,6,44980,182529000
+224,Jubilee Hills,Gated Community,4402,5,4,0,3.3,8,4,42840,188582000
+225,Banjara Hills,Gated Community,3430,4,4,20,2.0,2,4,38200,131026000
+226,Kukatpally,Gated Community,2837,4,4,14,4.1,2,4,13150,37307000
+227,Jubilee Hills,Villa/Apt,3131,4,5,0,2.0,8,5,41080,128621000
+228,Kukatpally,Villa/Apt,1650,3,4,11,1.1,3,6,12000,19800000
+229,Kukatpally,Standalone Own Building,6232,6,6,1,5.2,3,1,17450,108748000
+230,Banjara Hills,Villa/Apt,1467,2,3,2,2.5,6,2,36090,52944000
+231,Begumpet,Villa/Apt,2326,3,3,10,6.6,6,2,19530,45427000
+232,Jubilee Hills,Standalone Own Building,1634,3,3,23,4.7,2,2,42860,70033000
+233,Madhapur,Gated Community,3370,5,5,0,5.6,2,2,29620,99819000
+234,Jubilee Hills,Standalone Own Building,3706,4,4,45,1.4,8,7,44460,164769000
+235,Jubilee Hills,Standalone Own Building,1539,3,3,14,5.5,1,7,47550,73179000
+236,Kukatpally,Standalone Own Building,4925,6,6,0,1.5,2,6,19470,95890000
+237,Madhapur,Gated Community,4305,4,4,0,5.6,2,6,28090,120927000
+238,Jubilee Hills,Villa/Apt,1614,3,3,9,1.1,7,6,36950,59637000
+239,Kukatpally,Standalone Own Building,4733,5,5,7,1.0,6,1,18590,87986000
+240,Banjara Hills,Gated Community,2085,4,4,2,4.7,4,3,39200,81732000
+241,Begumpet,Standalone Own Building,1593,2,2,0,4.5,8,6,33430,53254000
+242,Begumpet,Gated Community,1547,3,3,0,1.0,5,1,25430,39340000
+243,Begumpet,Gated Community,2544,3,3,3,5.9,1,3,22920,58308000
+244,Begumpet,Gated Community,2764,4,4,7,2.0,7,4,23560,65120000
+245,Gachibowli,Gated Community,4077,5,5,4,6.4,6,6,25230,102863000
+246,Jubilee Hills,Standalone Own Building,2904,3,2,3,5.9,5,5,49650,144184000
+247,Madhapur,Standalone Own Building,2085,4,3,0,1.9,3,4,37650,78500000
+248,Banjara Hills,Standalone Own Building,4300,4,4,3,5.7,1,5,49100,211130000
+249,Madhapur,Villa/Apt,2151,3,3,0,3.5,7,6,26510,57023000
+250,Jubilee Hills,Gated Community,3112,5,5,1,4.4,1,5,42060,130891000
+251,Banjara Hills,Gated Community,3459,4,5,1,4.3,1,7,39120,135316000
+252,Madhapur,Standalone Own Building,3354,4,5,5,2.6,1,7,38680,129733000
+253,Madhapur,Villa/Apt,2203,4,3,0,1.4,3,4,25940,57146000
+254,Madhapur,Gated Community,2573,4,5,10,5.3,4,3,25580,65817000
+255,Gachibowli,Villa/Apt,2757,3,3,10,2.5,5,6,23680,65286000
+256,Begumpet,Gated Community,1594,3,4,5,1.9,8,3,25960,41380000
+257,Kukatpally,Standalone Own Building,4855,5,5,0,3.1,8,7,18100,87876000
+258,Madhapur,Standalone Own Building,3553,4,4,29,2.7,2,4,31560,112133000
+259,Madhapur,Standalone Own Building,4564,6,6,8,4.3,7,4,34850,159055000
+260,Jubilee Hills,Villa/Apt,1502,3,3,0,1.5,6,6,39990,60065000
+261,Gachibowli,Standalone Own Building,1883,3,2,18,4.6,4,5,31360,59051000
+262,Gachibowli,Gated Community,4567,6,5,5,3.1,1,5,26100,119199000
+263,Madhapur,Standalone Own Building,2203,4,4,17,5.4,2,1,32030,70562000
+264,Madhapur,Gated Community,1959,4,4,1,4.5,5,3,28730,56282000
+265,Jubilee Hills,Gated Community,3127,4,4,9,3.3,7,5,40080,125330000
+266,Banjara Hills,Villa/Apt,2475,4,3,5,4.0,6,5,34240,84744000
+267,Kukatpally,Gated Community,1526,3,3,0,7.3,3,3,13430,20494000
+268,Madhapur,Standalone Own Building,4047,4,4,6,4.1,6,7,36690,148484000
+269,Gachibowli,Gated Community,3609,5,5,10,7.4,4,7,22460,81058000
+270,Begumpet,Standalone Own Building,1733,3,3,18,6.7,3,7,26480,45890000
+271,Madhapur,Gated Community,3918,4,4,6,5.5,6,2,28100,110096000
+272,Banjara Hills,Standalone Own Building,2535,4,4,2,5.8,7,3,47960,121579000
+273,Banjara Hills,Gated Community,3477,5,4,8,4.8,8,1,37850,131604000
+274,Kukatpally,Villa/Apt,2237,3,3,0,3.2,6,7,13260,29663000
+275,Banjara Hills,Villa/Apt,3351,4,5,4,2.5,8,1,34750,116447000
+276,Madhapur,Gated Community,3042,4,3,3,2.4,4,2,29330,89222000
+277,Begumpet,Gated Community,3804,4,4,1,4.9,5,5,23260,88481000
+278,Madhapur,Standalone Own Building,3561,4,5,6,3.5,2,4,34640,123353000
+279,Kukatpally,Standalone Own Building,3852,5,5,8,4.0,5,3,17370,66909000
+280,Kukatpally,Standalone Own Building,2987,3,2,9,0.7,4,1,17170,51287000
+281,Jubilee Hills,Gated Community,1544,3,2,1,4.7,5,4,41540,64138000
+282,Banjara Hills,Standalone Own Building,2271,4,4,15,5.5,5,3,44070,100083000
+283,Begumpet,Standalone Own Building,3730,4,4,10,5.4,2,7,29250,109102000
+284,Jubilee Hills,Gated Community,2924,4,4,18,4.5,6,1,36900,107896000
+285,Madhapur,Standalone Own Building,2539,4,4,5,3.6,2,6,35620,90439000
+286,Kukatpally,Standalone Own Building,4640,5,5,5,5.5,1,1,17020,78973000
+287,Madhapur,Gated Community,3189,4,4,16,1.2,3,4,27090,86390000
+288,Begumpet,Standalone Own Building,3709,4,4,0,0.6,5,1,32370,120060000
+289,Madhapur,Standalone Own Building,3734,4,5,18,5.4,6,2,32800,122475000
+290,Banjara Hills,Gated Community,2142,4,4,7,5.4,2,4,37990,81375000
+291,Gachibowli,Standalone Own Building,2124,3,4,8,2.5,7,6,33630,71430000
+292,Gachibowli,Standalone Own Building,2780,3,3,13,3.6,1,6,33740,93797000
+293,Madhapur,Gated Community,3671,5,5,10,4.7,8,5,29060,106679000
+294,Gachibowli,Standalone Own Building,1524,2,1,6,7.2,7,4,32560,49621000
+295,Begumpet,Standalone Own Building,2557,3,2,1,4.8,2,3,30160,77119000
+296,Madhapur,Standalone Own Building,4348,5,5,11,2.2,1,7,34820,151397000
+297,Gachibowli,Villa/Apt,2467,3,2,0,6.4,3,6,24420,60244000
+298,Gachibowli,Standalone Own Building,4080,4,5,32,6.3,6,6,27510,112241000
+299,Jubilee Hills,Gated Community,2648,4,4,13,4.4,1,3,39540,104702000
+300,Kukatpally,Villa/Apt,1527,3,2,18,7.5,8,3,11100,16950000
+301,Jubilee Hills,Gated Community,2729,3,3,23,2.0,3,5,36950,100837000
+302,Begumpet,Villa/Apt,3433,4,5,8,1.5,8,6,21240,72917000
+303,Madhapur,Gated Community,1815,4,4,4,0.4,2,4,29780,54051000
+304,Gachibowli,Villa/Apt,1503,3,2,2,7.9,8,3,22800,34268000
+305,Gachibowli,Villa/Apt,687,2,1,27,8.7,1,1,18070,12414000
+306,Kukatpally,Standalone Own Building,2641,4,5,30,4.5,6,1,14150,37370000
+307,Madhapur,Standalone Own Building,3598,4,3,25,1.0,2,3,32530,117043000
+308,Jubilee Hills,Standalone Own Building,1336,2,3,3,5.8,5,3,48280,64502000
+309,Gachibowli,Villa/Apt,1326,3,4,11,4.8,6,4,24210,32102000
+310,Kukatpally,Villa/Apt,2086,3,3,2,4.6,6,4,12160,25366000
+311,Jubilee Hills,Villa/Apt,1916,3,3,0,4.6,5,2,39670,76008000
+312,Kukatpally,Gated Community,2421,3,3,16,3.1,5,6,14090,34112000
+313,Banjara Hills,Standalone Own Building,3894,4,3,0,3.2,8,3,52880,205915000
+314,Banjara Hills,Standalone Own Building,2387,4,4,5,4.8,2,2,45700,109086000
+315,Banjara Hills,Standalone Own Building,6394,5,4,14,3.7,8,1,44460,284277000
+316,Gachibowli,Gated Community,3188,4,4,4,3.9,8,2,24470,78010000
+317,Begumpet,Gated Community,1739,3,3,7,1.5,1,1,22650,39388000
+318,Gachibowli,Standalone Own Building,1999,3,3,1,2.9,5,6,35180,70325000
+319,Banjara Hills,Standalone Own Building,2104,4,3,1,4.8,8,7,50860,107009000
+320,Gachibowli,Gated Community,2106,3,3,2,8.3,1,3,24410,51407000
+321,Kukatpally,Gated Community,3514,4,4,4,5.4,1,1,13290,46701000
+322,Madhapur,Gated Community,2100,3,2,19,5.4,3,4,25030,52563000
+323,Kukatpally,Gated Community,2811,3,3,4,0.8,6,7,14490,40731000
+324,Madhapur,Villa/Apt,3131,4,4,0,4.3,6,5,25590,80122000
+325,Madhapur,Standalone Own Building,3940,4,3,15,2.4,8,1,32590,128405000
+326,Kukatpally,Standalone Own Building,1471,2,3,10,5.1,7,7,17060,25095000
+327,Kukatpally,Standalone Own Building,2292,3,3,39,0.8,5,2,13450,30827000
+328,Jubilee Hills,Villa/Apt,1250,3,3,7,3.1,3,1,34340,42925000
+329,Jubilee Hills,Gated Community,2022,3,3,20,4.0,7,3,36000,72792000
+330,Banjara Hills,Villa/Apt,1623,2,2,5,4.2,6,5,35810,58120000
+331,Kukatpally,Gated Community,2108,3,3,12,7.1,2,1,11760,24790000
+332,Banjara Hills,Villa/Apt,2544,4,3,5,4.5,1,5,33600,85478000
+333,Madhapur,Standalone Own Building,2829,4,4,18,1.7,8,6,34500,97600000
+334,Begumpet,Standalone Own Building,1057,3,2,13,6.9,4,7,27230,28782000
+335,Kukatpally,Standalone Own Building,3327,5,5,2,5.4,8,7,17230,57324000
+336,Jubilee Hills,Villa/Apt,2550,3,2,1,2.4,8,2,39060,99603000
+337,Kukatpally,Gated Community,2942,3,4,10,6.1,3,4,12510,36804000
+338,Begumpet,Gated Community,1893,4,4,8,4.1,3,6,23350,44202000
+339,Madhapur,Gated Community,2023,3,4,6,6.0,5,2,26650,53913000
+340,Madhapur,Standalone Own Building,3813,4,4,10,7.0,4,2,32410,123579000
+341,Gachibowli,Standalone Own Building,2360,4,3,6,8.5,7,1,32500,76700000
+342,Kukatpally,Gated Community,2893,3,2,1,0.8,2,4,14850,42961000
+343,Kukatpally,Gated Community,1689,2,2,1,4.0,7,1,14220,24018000
+344,Gachibowli,Standalone Own Building,4450,5,5,24,8.7,4,6,27990,124556000
+345,Begumpet,Villa/Apt,1221,2,2,4,1.7,6,5,20490,25018000
+346,Madhapur,Villa/Apt,2934,4,4,5,1.5,5,7,27190,79775000
+347,Jubilee Hills,Standalone Own Building,1948,3,3,13,3.6,6,6,48980,95413000
+348,Banjara Hills,Standalone Own Building,1950,4,3,4,1.5,4,2,54030,105358000
+349,Jubilee Hills,Standalone Own Building,2636,3,2,32,4.1,5,1,42930,113163000
+350,Gachibowli,Gated Community,2599,4,4,1,5.5,3,5,26610,69159000
+351,Madhapur,Standalone Own Building,3391,4,4,1,5.3,7,5,38090,129163000
+352,Gachibowli,Villa/Apt,1456,3,3,0,7.5,1,3,25260,36779000
+353,Madhapur,Gated Community,1993,3,3,4,6.3,1,6,26060,51938000
+354,Kukatpally,Gated Community,2149,4,4,1,6.5,5,7,13500,29012000
+355,Gachibowli,Villa/Apt,3111,4,3,12,4.7,1,4,22130,68846000
+356,Kukatpally,Gated Community,4360,4,4,27,2.0,5,3,11910,51928000
+357,Banjara Hills,Gated Community,2767,4,4,2,1.2,7,3,39310,108771000
+358,Begumpet,Standalone Own Building,4466,5,5,9,1.0,8,7,31210,139384000
+359,Gachibowli,Gated Community,2552,3,3,8,2.1,3,4,25490,65050000
+360,Kukatpally,Standalone Own Building,2047,4,4,23,5.8,3,5,15560,31851000
+361,Madhapur,Gated Community,1801,3,3,1,1.8,3,1,29080,52373000
+362,Jubilee Hills,Standalone Own Building,2745,4,4,2,1.4,2,2,56060,153885000
+363,Madhapur,Gated Community,2029,4,4,16,4.9,1,6,25000,50725000
+364,Jubilee Hills,Standalone Own Building,3764,4,4,3,4.3,7,7,55610,209316000
+365,Jubilee Hills,Standalone Own Building,3783,4,4,0,2.3,6,5,57360,216993000
+366,Begumpet,Standalone Own Building,3206,4,4,3,6.8,3,7,29860,95731000
+367,Jubilee Hills,Gated Community,1559,2,3,2,4.7,8,5,42500,66258000
+368,Begumpet,Villa/Apt,1526,2,2,0,0.5,3,5,23070,35205000
+369,Jubilee Hills,Gated Community,1954,3,3,5,4.8,8,7,43630,85253000
+370,Kukatpally,Gated Community,2654,4,5,5,4.5,5,5,13560,35988000
+371,Kukatpally,Gated Community,1948,4,5,15,2.8,5,7,13920,27116000
+372,Jubilee Hills,Villa/Apt,3610,5,5,7,4.0,3,3,35650,128696000
+373,Begumpet,Standalone Own Building,5144,6,5,10,7.3,6,2,28730,147787000
+374,Madhapur,Gated Community,3385,4,3,0,4.5,1,5,28140,95254000
+375,Gachibowli,Gated Community,3826,5,6,12,6.1,1,6,23050,88189000
+376,Madhapur,Standalone Own Building,3978,4,4,12,0.8,2,6,35690,141975000
+377,Jubilee Hills,Gated Community,2737,4,5,6,2.9,7,7,43100,117965000
+378,Banjara Hills,Standalone Own Building,2113,4,4,9,5.7,5,6,46320,97874000
+379,Gachibowli,Gated Community,2932,4,4,4,7.5,7,4,24750,72567000
+380,Jubilee Hills,Gated Community,1516,3,2,3,3.6,5,6,42720,64764000
+381,Jubilee Hills,Standalone Own Building,4438,4,4,3,5.9,2,6,49520,219770000
+382,Begumpet,Gated Community,1590,3,3,0,6.3,3,4,22330,35505000
+383,Gachibowli,Gated Community,2090,3,2,1,8.1,1,7,25800,53922000
+384,Begumpet,Gated Community,3066,4,4,1,2.8,2,3,23950,73431000
+385,Kukatpally,Villa/Apt,874,2,2,6,4.3,6,3,11970,10462000
+386,Madhapur,Standalone Own Building,4284,4,4,5,4.0,8,5,38890,166605000
+387,Madhapur,Villa/Apt,1808,4,5,8,2.3,7,6,26080,47153000
+388,Begumpet,Standalone Own Building,4610,5,5,23,4.6,6,7,25640,118200000
+389,Gachibowli,Gated Community,2217,3,3,11,7.6,6,4,24370,54028000
+390,Madhapur,Standalone Own Building,2119,4,3,3,0.3,7,2,38800,82217000
+391,Kukatpally,Standalone Own Building,2856,3,2,6,6.9,5,7,17950,51265000
+392,Jubilee Hills,Standalone Own Building,2178,4,4,6,4.8,8,7,48000,104544000
+393,Madhapur,Villa/Apt,2638,3,3,1,0.5,5,7,27220,71806000
+394,Madhapur,Standalone Own Building,3656,4,4,1,4.8,6,1,35260,128911000
+395,Gachibowli,Gated Community,3254,5,4,15,6.9,3,2,23710,77152000
+396,Gachibowli,Gated Community,1728,3,2,6,6.0,7,6,24600,42509000
+397,Kukatpally,Gated Community,1624,2,2,2,2.7,2,7,13720,22281000
+398,Banjara Hills,Gated Community,2739,4,3,2,4.1,5,3,35450,97098000
+399,Begumpet,Standalone Own Building,2847,4,4,4,3.4,3,2,29920,85182000
+400,Jubilee Hills,Standalone Own Building,2397,4,3,45,3.7,4,2,38700,92764000
+401,Begumpet,Gated Community,2507,3,3,6,5.7,8,2,23020,57711000
+402,Jubilee Hills,Standalone Own Building,1757,3,3,6,5.3,4,2,51860,91118000
+403,Gachibowli,Gated Community,2073,3,2,3,7.1,3,2,25480,52820000
+404,Madhapur,Villa/Apt,2805,3,3,0,5.2,2,2,25750,72229000
+405,Madhapur,Gated Community,2264,3,2,1,0.4,3,2,28710,64999000
+406,Banjara Hills,Villa/Apt,2041,4,4,4,5.7,8,7,36070,73619000
+407,Banjara Hills,Standalone Own Building,2544,3,3,2,5.5,2,1,46230,117609000
+408,Kukatpally,Gated Community,3600,4,5,9,5.7,8,5,13140,47304000
+409,Kukatpally,Standalone Own Building,4188,4,3,1,0.5,1,7,17830,74672000
+410,Jubilee Hills,Villa/Apt,2150,3,3,13,4.7,6,6,35610,76562000
+411,Banjara Hills,Standalone Own Building,3206,4,4,4,5.6,3,6,48440,155299000
+412,Jubilee Hills,Standalone Own Building,3278,5,5,3,2.0,4,6,53690,175996000
+413,Gachibowli,Gated Community,3985,4,3,6,6.3,4,1,25030,99745000
+414,Begumpet,Villa/Apt,1494,2,2,8,0.6,3,1,20270,30283000
+415,Kukatpally,Villa/Apt,1035,2,2,13,7.2,3,4,11580,11985000
+416,Gachibowli,Gated Community,2901,3,3,1,3.1,4,6,26920,78095000
+417,Madhapur,Gated Community,1648,2,3,1,2.6,2,7,28640,47199000
+418,Begumpet,Villa/Apt,2287,4,4,8,4.1,5,5,22110,50566000
+419,Kukatpally,Standalone Own Building,4476,4,4,5,3.0,7,6,17930,80255000
+420,Jubilee Hills,Villa/Apt,1963,4,4,5,2.6,3,7,40040,78599000
+421,Gachibowli,Gated Community,3367,5,5,9,3.9,3,2,24440,82289000
+422,Banjara Hills,Gated Community,2905,4,3,16,1.9,3,5,34880,101326000
+423,Madhapur,Gated Community,1809,3,3,8,6.8,1,6,25280,45732000
+424,Gachibowli,Standalone Own Building,1163,3,3,1,3.6,3,5,34190,39763000
+425,Begumpet,Villa/Apt,1839,3,2,5,3.1,5,3,21020,38656000
+426,Madhapur,Standalone Own Building,4217,4,3,8,3.2,7,6,34080,143715000
+427,Kukatpally,Standalone Own Building,4968,5,5,0,3.4,6,3,18640,92604000
+428,Kukatpally,Standalone Own Building,2143,4,5,1,3.5,5,7,18980,40674000
+429,Banjara Hills,Gated Community,2374,3,3,4,1.8,2,5,37700,89500000
+430,Kukatpally,Gated Community,1795,2,2,2,3.2,8,2,15010,26943000
+431,Jubilee Hills,Gated Community,2006,4,5,2,2.1,3,6,41260,82768000
+432,Jubilee Hills,Gated Community,3445,5,5,3,1.8,6,3,44490,153268000
+433,Jubilee Hills,Standalone Own Building,6073,5,6,37,5.0,8,3,39450,239580000
+434,Madhapur,Villa/Apt,1609,3,3,3,3.4,4,1,27550,44328000
+435,Banjara Hills,Gated Community,2042,3,2,5,3.6,4,7,38420,78454000
+436,Gachibowli,Gated Community,1883,4,4,9,6.2,4,4,24600,46322000
+437,Banjara Hills,Villa/Apt,1305,2,3,17,4.8,2,4,30720,40090000
+438,Banjara Hills,Standalone Own Building,1869,3,3,28,2.6,8,1,40050,74853000
+439,Madhapur,Standalone Own Building,1786,3,2,45,1.6,1,2,28620,51115000
+440,Gachibowli,Standalone Own Building,1271,3,3,18,5.4,2,1,30630,38931000
+441,Gachibowli,Gated Community,3367,4,4,5,3.2,7,5,27710,93300000
+442,Banjara Hills,Standalone Own Building,3372,4,5,5,1.7,4,5,50470,170185000
+443,Kukatpally,Villa/Apt,2707,4,4,17,2.4,8,5,11210,30345000
+444,Jubilee Hills,Standalone Own Building,3621,5,5,0,4.6,8,1,55100,199517000
+445,Gachibowli,Standalone Own Building,1668,3,4,10,2.7,4,7,35700,59548000
+446,Kukatpally,Gated Community,1709,2,2,2,2.1,6,6,15150,25891000
+447,Begumpet,Gated Community,2537,3,3,2,4.7,4,3,23450,59493000
+448,Jubilee Hills,Standalone Own Building,2402,3,2,43,3.2,5,6,43320,104055000
+449,Gachibowli,Standalone Own Building,2673,4,4,3,2.9,3,4,34710,92780000
+450,Banjara Hills,Gated Community,3001,5,5,12,3.5,6,3,34800,104435000
+451,Banjara Hills,Standalone Own Building,2805,4,4,2,1.6,2,2,50700,142214000
+452,Banjara Hills,Gated Community,2709,4,3,0,1.5,4,7,38490,104269000
+453,Madhapur,Villa/Apt,1013,3,3,1,2.5,2,4,26540,26885000
+454,Begumpet,Villa/Apt,2169,4,4,6,3.7,1,4,21170,45918000
+455,Gachibowli,Villa/Apt,908,1,1,8,6.9,1,4,23600,21429000
+456,Madhapur,Gated Community,3196,4,4,16,2.1,7,2,26880,85908000
+457,Gachibowli,Standalone Own Building,2475,4,3,10,9.0,8,6,31470,77888000
+458,Gachibowli,Gated Community,1701,3,3,2,6.6,8,6,26040,44294000
+459,Kukatpally,Villa/Apt,2319,4,3,3,4.6,5,2,12590,29196000
+460,Gachibowli,Standalone Own Building,1806,3,2,13,3.5,2,4,34050,61494000
+461,Begumpet,Gated Community,2172,4,4,0,4.4,6,1,24730,53714000
+462,Gachibowli,Standalone Own Building,1869,3,3,9,2.6,8,6,34780,65004000
+463,Kukatpally,Standalone Own Building,2919,4,4,15,2.3,7,5,17970,52454000
+464,Banjara Hills,Villa/Apt,3516,4,4,0,3.0,5,2,36670,128932000
+465,Madhapur,Gated Community,3383,5,4,24,0.9,7,5,25770,87180000
+466,Jubilee Hills,Standalone Own Building,2794,4,4,0,4.0,3,2,50790,141907000
+467,Gachibowli,Standalone Own Building,4402,5,5,4,7.6,6,2,31740,139719000
+468,Kukatpally,Gated Community,3292,4,4,19,4.2,4,4,12360,40689000
+469,Banjara Hills,Villa/Apt,2813,4,4,10,3.7,2,7,33140,93223000
+470,Madhapur,Standalone Own Building,1868,4,3,9,3.1,6,5,34700,64820000
+471,Gachibowli,Standalone Own Building,1253,3,3,45,3.4,6,5,26010,32591000
+472,Banjara Hills,Villa/Apt,2663,4,5,4,3.3,2,3,33030,87959000
+473,Gachibowli,Villa/Apt,3641,5,5,6,3.2,7,3,26020,94739000
+474,Kukatpally,Gated Community,1484,3,2,2,5.1,7,1,13700,20331000
+475,Kukatpally,Gated Community,2887,4,3,26,0.6,2,6,12050,34788000
+476,Kukatpally,Standalone Own Building,2643,3,2,1,6.0,2,2,16460,43504000
+477,Begumpet,Standalone Own Building,2300,3,3,45,2.0,6,6,26380,60674000
+478,Kukatpally,Standalone Own Building,2663,3,4,1,6.1,2,4,17120,45591000
+479,Madhapur,Villa/Apt,2745,4,3,7,1.3,3,6,27460,75378000
+480,Gachibowli,Gated Community,4608,5,5,3,2.9,4,7,26620,122665000
+481,Madhapur,Gated Community,2323,3,3,5,1.5,1,7,27480,63836000
+482,Madhapur,Gated Community,1912,4,3,2,5.9,4,3,28460,54416000
+483,Madhapur,Gated Community,3128,5,5,0,2.2,5,4,28410,88866000
+484,Madhapur,Gated Community,2060,3,3,2,5.6,5,3,28470,58648000
+485,Jubilee Hills,Gated Community,1636,3,3,3,3.6,6,1,41300,67567000
+486,Jubilee Hills,Standalone Own Building,4658,6,6,9,5.1,3,1,49740,231689000
+487,Madhapur,Standalone Own Building,2266,3,2,3,4.3,6,5,36930,83683000
+488,Gachibowli,Gated Community,1606,2,1,4,3.5,4,4,27560,44261000
+489,Gachibowli,Villa/Apt,1642,2,2,2,5.9,5,7,22810,37454000
+490,Madhapur,Villa/Apt,3042,5,4,7,1.8,1,3,24990,76020000
+491,Jubilee Hills,Standalone Own Building,4641,6,6,2,4.8,4,7,54370,252331000
+492,Jubilee Hills,Gated Community,1912,4,4,16,2.5,3,5,39270,75084000
+493,Begumpet,Gated Community,1741,3,3,5,1.8,6,3,24800,43177000
+494,Jubilee Hills,Gated Community,2865,4,3,3,2.3,7,6,43140,123596000
+495,Gachibowli,Gated Community,3757,5,4,18,4.6,3,1,23240,87313000
+496,Banjara Hills,Gated Community,1685,2,2,9,5.4,7,5,36020,60694000
+497,Kukatpally,Villa/Apt,2402,3,3,6,4.0,3,6,12650,30385000
+498,Jubilee Hills,Villa/Apt,2944,3,4,2,4.3,6,3,38930,114610000
+499,Banjara Hills,Gated Community,3150,5,5,12,1.8,8,7,37530,118220000
+500,Kukatpally,Gated Community,3538,4,3,10,4.3,2,7,13280,46985000
+501,Madhapur,Gated Community,3456,5,5,0,6.3,7,5,30310,104751000
+502,Begumpet,Standalone Own Building,2370,3,3,3,2.6,7,6,32490,77001000
+503,Jubilee Hills,Gated Community,2823,4,3,22,3.9,8,6,36540,103152000
+504,Begumpet,Standalone Own Building,1469,2,2,1,1.5,7,5,31410,46141000
+505,Gachibowli,Gated Community,2394,4,4,3,4.9,6,3,26160,62627000
+506,Begumpet,Villa/Apt,2379,3,3,0,7.0,7,2,20580,48960000
+507,Kukatpally,Standalone Own Building,914,1,1,6,6.5,2,1,17190,15712000
+508,Madhapur,Gated Community,2047,4,4,7,6.6,7,1,27310,55904000
+509,Jubilee Hills,Standalone Own Building,1563,3,3,2,4.7,4,6,51480,80463000
+510,Banjara Hills,Standalone Own Building,4025,4,4,0,3.3,1,5,51740,208254000
+511,Begumpet,Gated Community,2939,3,3,0,6.1,2,2,23370,68684000
+512,Madhapur,Standalone Own Building,4191,5,5,19,2.2,2,6,32660,136878000
+513,Begumpet,Standalone Own Building,1181,3,2,45,7.2,1,7,22910,27057000
+514,Jubilee Hills,Gated Community,1539,2,2,3,5.9,6,5,41150,63330000
+515,Kukatpally,Standalone Own Building,3828,5,5,11,6.4,8,6,17890,68483000
+516,Kukatpally,Standalone Own Building,2436,3,3,0,6.5,6,5,17850,43483000
+517,Kukatpally,Standalone Own Building,2795,3,2,1,6.3,8,3,17030,47599000
+518,Banjara Hills,Villa/Apt,3607,5,5,12,5.8,6,6,35140,126750000
+519,Kukatpally,Standalone Own Building,2819,4,4,5,5.1,7,5,16930,47726000
+520,Gachibowli,Gated Community,1932,3,4,1,3.8,3,2,27300,52744000
+521,Begumpet,Standalone Own Building,3815,4,4,7,4.8,8,6,31110,118685000
+522,Gachibowli,Gated Community,2820,4,4,4,7.2,2,7,24270,68441000
+523,Madhapur,Standalone Own Building,1888,4,4,4,1.3,2,3,35260,66571000
+524,Jubilee Hills,Standalone Own Building,3541,5,5,4,5.1,1,6,47660,168764000
+525,Gachibowli,Gated Community,2312,3,3,0,6.0,3,2,23850,55141000
+526,Kukatpally,Standalone Own Building,1633,2,2,2,4.2,8,5,18150,29639000
+527,Jubilee Hills,Villa/Apt,1701,2,2,5,4.6,5,5,38550,65574000
+528,Gachibowli,Standalone Own Building,1603,3,3,3,6.2,1,1,32170,51569000
+529,Madhapur,Gated Community,1514,2,2,1,6.6,2,4,27250,41256000
+530,Gachibowli,Gated Community,2009,4,4,1,8.4,3,1,24360,48939000
+531,Jubilee Hills,Gated Community,3334,5,6,9,4.0,6,6,37780,125959000
+532,Madhapur,Standalone Own Building,3999,4,3,0,3.1,8,5,41340,165319000
+533,Gachibowli,Gated Community,1930,3,3,3,2.2,4,7,26750,51628000
+534,Banjara Hills,Gated Community,2275,4,4,2,5.8,1,5,39250,89294000
+535,Madhapur,Gated Community,2345,3,2,2,2.7,1,6,29700,69646000
+536,Banjara Hills,Gated Community,3571,5,5,7,5.3,6,3,38380,137055000
+537,Banjara Hills,Villa/Apt,1266,2,2,5,3.0,7,3,33510,42424000
+538,Gachibowli,Villa/Apt,1179,3,3,1,5.0,2,5,24310,28661000
+539,Madhapur,Standalone Own Building,2099,3,3,8,6.5,8,5,37100,77873000
+540,Gachibowli,Villa/Apt,2497,4,4,1,2.4,2,1,24020,59978000
+541,Madhapur,Gated Community,2747,3,3,5,7.3,5,3,26070,71614000
+542,Begumpet,Gated Community,2725,3,3,5,4.6,1,2,20850,56816000
+543,Madhapur,Standalone Own Building,4314,4,3,5,5.0,6,2,35820,154527000
+544,Jubilee Hills,Gated Community,2175,4,5,4,2.6,6,6,42290,91981000
+545,Gachibowli,Villa/Apt,845,2,2,3,2.6,8,5,24650,20829000
+546,Madhapur,Gated Community,1962,3,3,0,1.1,8,4,29570,58016000
+547,Madhapur,Gated Community,1541,3,2,0,0.7,6,7,29960,46168000
+548,Banjara Hills,Standalone Own Building,2788,4,4,5,1.2,3,3,52570,146565000
+549,Gachibowli,Standalone Own Building,1722,2,1,14,8.8,2,2,31040,53451000
+550,Begumpet,Gated Community,3023,4,4,3,3.8,7,3,22980,69469000
+551,Begumpet,Standalone Own Building,2949,4,4,7,2.1,5,3,28890,85197000
+552,Begumpet,Gated Community,2537,3,2,19,3.0,6,4,21640,54901000
+553,Begumpet,Gated Community,1729,3,3,3,6.6,5,3,22340,38626000
+554,Begumpet,Gated Community,1742,2,1,14,5.8,8,3,20930,36460000
+555,Kukatpally,Gated Community,1942,4,3,2,3.7,5,1,13590,26392000
+556,Begumpet,Standalone Own Building,1819,3,3,5,4.4,5,2,29500,53660000
+557,Kukatpally,Villa/Apt,1175,3,4,2,6.3,5,2,12110,14229000
+558,Begumpet,Gated Community,4013,5,5,16,2.3,1,7,22690,91055000
+559,Begumpet,Standalone Own Building,4274,5,4,4,2.3,4,6,31780,135828000
+560,Begumpet,Gated Community,3074,5,5,9,3.4,5,5,22400,68858000
+561,Kukatpally,Gated Community,2767,3,3,1,0.7,5,2,13980,38683000
+562,Gachibowli,Standalone Own Building,2523,3,2,8,8.2,7,2,33240,83865000
+563,Gachibowli,Gated Community,2307,4,3,7,6.6,7,7,26550,61251000
+564,Gachibowli,Villa/Apt,1841,4,5,7,6.1,7,5,23240,42785000
+565,Gachibowli,Gated Community,4207,5,4,11,5.4,1,4,25200,106016000
+566,Madhapur,Gated Community,3664,4,4,4,0.7,4,5,29330,107465000
+567,Kukatpally,Gated Community,2785,3,3,7,7.3,4,7,11980,33364000
+568,Banjara Hills,Standalone Own Building,2588,4,3,6,2.6,7,5,47070,121817000
+569,Gachibowli,Gated Community,2553,3,4,6,7.4,1,1,23860,60915000
+570,Banjara Hills,Standalone Own Building,2027,3,4,6,2.5,2,1,48280,97864000
+571,Madhapur,Gated Community,4425,4,4,14,6.0,3,5,24720,109386000
+572,Begumpet,Standalone Own Building,5199,5,5,22,2.2,5,2,27180,141309000
+573,Kukatpally,Gated Community,2714,4,4,3,5.6,5,6,13730,37263000
+574,Banjara Hills,Standalone Own Building,1759,3,3,12,3.0,5,5,49100,86367000
+575,Madhapur,Villa/Apt,2395,4,4,17,6.0,3,7,22540,53983000
+576,Madhapur,Gated Community,3172,4,5,18,2.0,7,4,25900,82155000
+577,Jubilee Hills,Standalone Own Building,3647,4,5,16,1.1,1,7,49520,180599000
+578,Banjara Hills,Standalone Own Building,1308,2,2,15,2.7,4,1,46210,60443000
+579,Jubilee Hills,Standalone Own Building,2016,3,3,18,1.4,4,2,47420,95599000
+580,Madhapur,Villa/Apt,1531,3,4,6,3.1,4,6,26240,40173000
+581,Kukatpally,Standalone Own Building,3367,4,4,11,6.3,8,1,15600,52525000
+582,Begumpet,Standalone Own Building,1975,3,2,2,1.1,7,1,30000,59250000
+583,Gachibowli,Standalone Own Building,2038,3,4,5,5.1,6,4,32190,65603000
+584,Begumpet,Standalone Own Building,3705,5,5,0,5.2,6,2,32010,118597000
+585,Jubilee Hills,Villa/Apt,960,2,2,1,1.7,2,3,39350,37776000
+586,Banjara Hills,Standalone Own Building,2501,4,4,1,2.4,1,4,49280,123249000
+587,Kukatpally,Standalone Own Building,2560,3,4,30,6.1,1,5,13470,34483000
+588,Banjara Hills,Standalone Own Building,2260,4,4,19,5.2,3,6,41790,94445000
+589,Banjara Hills,Gated Community,1275,3,3,7,4.8,7,3,38640,49266000
+590,Kukatpally,Standalone Own Building,2816,4,4,43,1.9,5,5,14500,40832000
+591,Banjara Hills,Gated Community,2666,3,3,2,3.9,7,5,39500,105307000
+592,Madhapur,Gated Community,2547,3,2,4,2.5,1,7,26480,67445000
+593,Jubilee Hills,Gated Community,1747,3,4,7,1.5,6,6,42100,73549000
+594,Kukatpally,Gated Community,1698,3,3,5,5.0,6,2,13270,22532000
+595,Madhapur,Standalone Own Building,2778,3,3,1,5.3,2,7,36420,101175000
+596,Jubilee Hills,Standalone Own Building,1877,4,4,6,1.5,7,4,54500,102296000
+597,Madhapur,Standalone Own Building,1747,2,2,1,2.2,6,5,38340,66980000
+598,Begumpet,Gated Community,3480,5,4,7,2.3,5,2,22500,78300000
+599,Begumpet,Standalone Own Building,3773,5,5,36,7.3,3,4,21820,82327000
+600,Kukatpally,Gated Community,2871,3,3,24,6.9,6,4,11580,33246000
+601,Kukatpally,Gated Community,2412,3,3,3,7.0,2,2,12930,31187000
+602,Jubilee Hills,Gated Community,1555,3,3,3,2.8,5,5,43970,68373000
+603,Jubilee Hills,Standalone Own Building,1799,3,2,9,5.3,7,5,52680,94771000
+604,Gachibowli,Gated Community,1592,3,3,1,4.9,6,1,26060,41488000
+605,Madhapur,Standalone Own Building,1701,3,3,14,0.7,2,6,35590,60539000
+606,Gachibowli,Standalone Own Building,3165,4,4,8,3.3,4,5,34670,109731000
+607,Banjara Hills,Standalone Own Building,3264,5,5,4,4.0,8,5,50510,164865000
+608,Banjara Hills,Gated Community,2813,4,4,6,2.0,4,1,38900,109426000
+609,Begumpet,Gated Community,1860,3,3,5,4.8,2,2,22850,42501000
+610,Kukatpally,Villa/Apt,1072,3,4,2,4.9,1,3,11850,12703000
+611,Kukatpally,Standalone Own Building,2170,3,4,2,1.3,3,4,18640,40449000
+612,Jubilee Hills,Standalone Own Building,4043,4,5,8,2.8,1,7,53510,216341000
+613,Begumpet,Standalone Own Building,936,2,3,0,6.3,7,3,30270,28333000
+614,Jubilee Hills,Villa/Apt,1441,3,2,5,2.1,4,2,36240,52222000
+615,Madhapur,Gated Community,1572,3,3,5,4.0,3,1,27850,43780000
+616,Banjara Hills,Gated Community,2396,4,4,4,1.4,4,5,37550,89970000
+617,Jubilee Hills,Standalone Own Building,1175,2,1,5,3.6,3,1,50330,59138000
+618,Gachibowli,Standalone Own Building,2009,3,3,11,3.6,2,7,32150,64589000
+619,Jubilee Hills,Villa/Apt,2787,3,3,1,1.4,5,1,39640,110477000
+620,Banjara Hills,Gated Community,4007,5,4,5,3.4,2,1,36460,146095000
+621,Jubilee Hills,Gated Community,2964,3,3,0,5.5,3,6,39930,118353000
+622,Begumpet,Villa/Apt,1394,2,2,14,1.6,8,1,21810,30403000
+623,Jubilee Hills,Standalone Own Building,4125,5,6,4,1.3,1,6,52440,216315000
+624,Madhapur,Standalone Own Building,4187,4,4,0,3.2,3,6,39990,167438000
+625,Begumpet,Standalone Own Building,1458,2,1,10,5.5,7,2,28590,41684000
+626,Jubilee Hills,Standalone Own Building,2940,3,3,41,2.8,2,5,39310,115571000
+627,Madhapur,Standalone Own Building,1323,3,4,4,3.1,1,2,35570,47059000
+628,Kukatpally,Gated Community,1985,4,3,5,0.5,4,6,14200,28187000
+629,Gachibowli,Standalone Own Building,3456,5,6,2,7.0,3,5,31020,107205000
+630,Gachibowli,Standalone Own Building,3742,5,5,5,5.7,2,2,33200,124234000
+631,Banjara Hills,Villa/Apt,1575,3,3,1,2.8,2,4,36540,57550000
+632,Banjara Hills,Gated Community,2740,4,3,4,1.3,2,2,38500,105490000
+633,Gachibowli,Standalone Own Building,2331,4,5,0,6.2,1,4,35520,82797000
+634,Jubilee Hills,Gated Community,1979,4,4,18,3.7,3,6,35940,71125000
+635,Gachibowli,Standalone Own Building,3460,4,4,2,3.2,2,1,33890,117259000
+636,Begumpet,Gated Community,2324,4,3,25,5.1,8,1,19520,45364000
+637,Jubilee Hills,Villa/Apt,3465,4,4,21,1.0,5,2,36110,125121000
+638,Banjara Hills,Gated Community,1378,3,2,4,6.0,2,6,37540,51730000
+639,Banjara Hills,Standalone Own Building,5144,5,4,12,2.5,8,7,50360,259052000
+640,Begumpet,Villa/Apt,1818,4,4,8,0.5,5,3,22210,40378000
+641,Madhapur,Standalone Own Building,1761,3,2,7,0.6,4,5,37290,65668000
+642,Madhapur,Gated Community,2164,3,3,1,4.2,7,6,29470,63773000
+643,Gachibowli,Villa/Apt,1583,2,3,4,5.5,1,2,21950,34747000
+644,Kukatpally,Standalone Own Building,1428,3,3,30,6.8,4,7,14630,20892000
+645,Banjara Hills,Gated Community,1913,3,3,4,5.3,3,4,38490,73631000
+646,Madhapur,Standalone Own Building,3542,5,5,3,0.5,6,3,38820,137500000
+647,Jubilee Hills,Gated Community,3613,4,4,10,2.3,5,5,40650,146868000
+648,Banjara Hills,Villa/Apt,3185,5,4,3,1.5,7,2,34190,108895000
+649,Kukatpally,Standalone Own Building,3526,4,4,20,1.2,7,4,17340,61141000
+650,Madhapur,Standalone Own Building,2754,3,3,14,1.1,1,1,34570,95206000
+651,Madhapur,Gated Community,3534,4,4,4,6.4,7,2,27360,96690000
+652,Madhapur,Villa/Apt,2515,4,5,5,4.1,1,4,25200,63378000
+653,Jubilee Hills,Gated Community,1913,4,5,2,1.4,3,1,41410,79217000
+654,Madhapur,Standalone Own Building,2293,3,3,3,5.6,1,4,33640,77137000
+655,Gachibowli,Standalone Own Building,3893,5,6,8,5.2,1,6,33100,128858000
+656,Kukatpally,Standalone Own Building,4404,4,3,3,2.2,6,4,18840,82971000
+657,Madhapur,Standalone Own Building,3799,5,6,3,5.1,3,6,35740,135776000
+658,Banjara Hills,Standalone Own Building,6385,6,6,7,2.5,4,7,47960,306225000
+659,Kukatpally,Gated Community,1593,2,1,3,7.0,7,3,12810,20406000
+660,Kukatpally,Gated Community,2205,3,4,9,1.5,2,6,14830,32700000
+661,Begumpet,Gated Community,2598,3,2,1,0.5,5,2,24490,63625000
+662,Kukatpally,Standalone Own Building,4495,4,4,2,3.0,4,4,16540,74347000
+663,Begumpet,Standalone Own Building,1865,3,3,0,6.3,2,6,29670,55335000
+664,Madhapur,Gated Community,1832,3,3,5,1.8,7,6,29840,54667000
+665,Jubilee Hills,Standalone Own Building,1878,4,4,15,5.7,3,6,48980,91984000
+666,Banjara Hills,Standalone Own Building,4533,5,4,12,3.0,2,3,44970,203849000
+667,Begumpet,Standalone Own Building,2469,3,2,6,1.2,8,4,31500,77774000
+668,Gachibowli,Gated Community,3359,4,4,2,3.1,2,7,26180,87939000
+669,Gachibowli,Standalone Own Building,3481,4,5,15,4.7,7,6,32470,113028000
+670,Begumpet,Gated Community,1840,3,3,6,5.0,3,7,23050,42412000
+671,Kukatpally,Gated Community,2763,3,3,7,0.9,3,7,13690,37825000
+672,Jubilee Hills,Standalone Own Building,1179,3,3,9,4.3,7,6,51190,60353000
+673,Begumpet,Standalone Own Building,5713,6,6,39,1.0,8,4,24190,138197000
+674,Madhapur,Standalone Own Building,5175,5,5,8,5.0,5,6,36430,188525000
+675,Jubilee Hills,Villa/Apt,2124,4,4,1,3.8,5,1,37240,79098000
+676,Gachibowli,Villa/Apt,1901,3,3,18,4.2,4,2,21230,40358000
+677,Banjara Hills,Gated Community,2105,4,4,3,4.9,6,6,39620,83400000
+678,Madhapur,Standalone Own Building,2548,4,4,21,3.8,6,5,32830,83651000
+679,Kukatpally,Gated Community,2872,3,3,4,4.2,1,7,13670,39260000
+680,Banjara Hills,Standalone Own Building,5401,5,5,0,1.2,3,6,53350,288143000
+681,Jubilee Hills,Gated Community,1827,3,3,2,2.2,5,4,47120,86088000
+682,Madhapur,Villa/Apt,1836,3,3,23,4.6,5,3,22500,41310000
+683,Gachibowli,Gated Community,4111,5,5,1,7.9,4,1,24700,101542000
+684,Madhapur,Gated Community,2000,4,4,4,0.7,2,4,27610,55220000
+685,Madhapur,Gated Community,2563,4,4,17,0.7,6,5,27410,70252000
+686,Jubilee Hills,Gated Community,2866,4,4,4,6.0,7,5,40260,115385000
+687,Madhapur,Gated Community,2834,3,3,4,6.4,8,7,29310,83065000
+688,Begumpet,Gated Community,2618,4,4,19,5.1,8,6,20080,52569000
+689,Kukatpally,Standalone Own Building,2079,3,2,3,6.7,8,1,16910,35156000
+690,Kukatpally,Gated Community,2024,4,3,2,4.5,1,6,13460,27243000
+691,Kukatpally,Gated Community,1854,4,4,4,0.8,6,3,15110,28014000
+692,Madhapur,Standalone Own Building,5443,6,6,12,2.1,4,3,34250,186423000
+693,Begumpet,Gated Community,2350,3,3,0,1.0,6,6,25010,58774000
+694,Gachibowli,Gated Community,1543,3,2,6,8.9,8,4,26510,40905000
+695,Begumpet,Standalone Own Building,2245,4,4,2,3.5,6,3,30640,68787000
+696,Madhapur,Gated Community,3188,5,5,8,5.5,3,2,25320,80720000
+697,Begumpet,Standalone Own Building,2265,3,3,1,2.3,5,2,29230,66206000
+698,Kukatpally,Standalone Own Building,2629,3,4,5,1.3,2,1,17800,46796000
+699,Begumpet,Villa/Apt,988,2,2,4,2.3,3,2,21760,21499000
+700,Begumpet,Standalone Own Building,4743,5,4,19,4.8,7,2,27080,128440000
+701,Kukatpally,Gated Community,2439,4,4,14,5.6,4,3,11910,29048000
+702,Banjara Hills,Standalone Own Building,4636,5,4,3,2.1,1,7,50260,233005000
+703,Banjara Hills,Gated Community,2807,4,4,2,3.6,1,1,38970,109389000
+704,Kukatpally,Gated Community,1970,4,4,2,3.8,1,4,14000,27580000
+705,Banjara Hills,Standalone Own Building,4795,6,6,5,4.4,4,4,45310,217261000
+706,Kukatpally,Standalone Own Building,3596,4,4,7,3.6,8,4,17920,64440000
+707,Kukatpally,Standalone Own Building,2589,4,4,10,6.9,6,4,16620,43029000
+708,Madhapur,Gated Community,2161,4,4,1,2.9,6,3,30140,65133000
+709,Kukatpally,Standalone Own Building,1768,2,3,8,4.1,1,7,17030,30109000
+710,Gachibowli,Villa/Apt,2042,3,2,4,8.6,3,7,23160,47293000
+711,Jubilee Hills,Standalone Own Building,1701,3,2,4,3.5,3,6,54080,91990000
+712,Gachibowli,Gated Community,2599,4,3,9,6.9,2,2,23420,60869000
+713,Banjara Hills,Gated Community,2561,4,4,14,3.9,1,2,36610,93758000
+714,Gachibowli,Gated Community,3326,4,5,1,4.9,4,4,26790,89104000
+715,Begumpet,Standalone Own Building,4680,5,4,2,3.3,2,7,31560,147701000
+716,Gachibowli,Standalone Own Building,2346,4,4,4,7.2,7,5,32240,75635000
+717,Kukatpally,Standalone Own Building,1819,3,3,2,0.8,7,7,19970,36325000
+718,Begumpet,Gated Community,1993,4,4,6,2.0,3,3,24270,48370000
+719,Banjara Hills,Standalone Own Building,2513,4,3,15,2.1,7,2,44710,112356000
+720,Kukatpally,Gated Community,3147,5,5,9,2.4,6,7,14430,45411000
+721,Kukatpally,Standalone Own Building,2196,3,3,6,3.5,2,4,17250,37881000
+722,Banjara Hills,Standalone Own Building,1908,4,3,6,4.0,3,5,48690,92901000
+723,Banjara Hills,Gated Community,3299,4,4,11,3.4,4,2,36690,121040000
+724,Banjara Hills,Gated Community,1798,3,3,1,5.4,8,2,38960,70050000
+725,Kukatpally,Gated Community,3556,5,6,3,5.7,3,1,13060,46441000
+726,Kukatpally,Standalone Own Building,3064,4,3,32,1.6,6,7,15150,46420000
+727,Banjara Hills,Gated Community,2750,3,4,4,3.8,4,4,39160,107690000
+728,Madhapur,Standalone Own Building,2320,4,4,0,4.6,3,6,36500,84680000
+729,Begumpet,Standalone Own Building,2524,3,3,3,5.6,2,7,31550,79632000
+730,Begumpet,Villa/Apt,2903,4,4,2,3.2,1,5,20230,58728000
+731,Begumpet,Standalone Own Building,1684,3,2,1,1.9,3,5,31110,52389000
+732,Gachibowli,Gated Community,3142,4,4,2,7.4,6,7,25140,78990000
+733,Jubilee Hills,Villa/Apt,2937,4,4,4,5.9,6,6,37060,108845000
+734,Jubilee Hills,Villa/Apt,1442,2,2,3,5.7,5,7,38600,55661000
+735,Begumpet,Standalone Own Building,2559,4,3,34,6.9,1,2,22650,57961000
+736,Banjara Hills,Standalone Own Building,5010,5,5,5,4.0,6,4,49140,246191000
+737,Banjara Hills,Standalone Own Building,3480,4,5,10,1.4,6,1,48340,168223000
+738,Begumpet,Standalone Own Building,3114,4,4,1,4.5,4,5,29700,92486000
+739,Madhapur,Standalone Own Building,4620,5,4,2,5.8,4,5,35930,165997000
+740,Kukatpally,Standalone Own Building,2422,3,4,26,1.8,5,1,15390,37275000
+741,Gachibowli,Villa/Apt,3249,4,4,13,7.6,2,2,20270,65857000
+742,Gachibowli,Gated Community,1949,3,2,6,3.8,7,6,27240,53091000
+743,Begumpet,Gated Community,2318,4,3,1,2.4,3,4,23630,54774000
+744,Gachibowli,Villa/Apt,2241,3,4,0,3.5,4,4,24380,54636000
+745,Gachibowli,Gated Community,3015,5,5,0,5.0,3,3,26490,79867000
+746,Gachibowli,Standalone Own Building,3251,4,4,3,6.2,6,5,34370,111737000
+747,Banjara Hills,Gated Community,4270,5,4,14,1.5,5,4,36180,154489000
+748,Begumpet,Gated Community,2313,3,3,4,2.6,6,3,25300,58519000
+749,Begumpet,Villa/Apt,1830,3,2,5,4.9,1,6,20320,37186000
+750,Jubilee Hills,Standalone Own Building,2598,3,2,11,3.5,1,1,49470,128523000
+751,Jubilee Hills,Gated Community,2437,3,2,17,2.2,6,3,38680,94263000
+752,Banjara Hills,Villa/Apt,2161,4,5,2,4.1,3,1,34910,75441000
+753,Kukatpally,Standalone Own Building,2591,4,3,2,1.8,3,1,17820,46172000
+754,Kukatpally,Standalone Own Building,2036,4,5,2,0.9,3,4,19030,38745000
+755,Jubilee Hills,Villa/Apt,2448,3,2,7,4.1,8,4,36110,88397000
+756,Banjara Hills,Villa/Apt,1558,3,3,11,5.6,6,4,33380,52006000
+757,Madhapur,Standalone Own Building,5216,5,5,15,6.0,1,1,29950,156219000
+758,Gachibowli,Villa/Apt,1632,3,3,3,8.2,2,6,21220,34631000
+759,Gachibowli,Standalone Own Building,2310,3,3,5,4.4,8,2,35190,81289000
+760,Jubilee Hills,Villa/Apt,2039,3,2,21,2.1,5,1,33720,68755000
+761,Banjara Hills,Standalone Own Building,2687,3,3,0,4.0,3,3,51420,138166000
+762,Jubilee Hills,Standalone Own Building,6135,5,5,6,1.2,2,7,55590,341045000
+763,Madhapur,Standalone Own Building,5610,5,6,45,1.7,7,7,28850,161848000
+764,Gachibowli,Gated Community,2569,4,4,1,2.7,3,7,27880,71624000
+765,Jubilee Hills,Standalone Own Building,1093,3,2,14,3.5,6,3,48710,53240000
+766,Gachibowli,Gated Community,1570,2,2,17,4.0,2,6,25310,39737000
+767,Banjara Hills,Villa/Apt,1442,3,3,8,4.3,5,7,34430,49648000
+768,Jubilee Hills,Villa/Apt,2499,4,3,3,4.1,4,3,36910,92238000
+769,Kukatpally,Gated Community,2417,3,3,7,3.3,4,5,13940,33693000
+770,Kukatpally,Gated Community,1504,3,3,1,2.0,5,3,14250,21432000
+771,Kukatpally,Standalone Own Building,2916,4,4,2,3.9,1,4,18270,53275000
+772,Gachibowli,Gated Community,3246,4,5,5,4.7,1,6,26810,87025000
+773,Gachibowli,Gated Community,1844,4,4,0,7.4,8,6,28540,52628000
+774,Begumpet,Standalone Own Building,1839,4,3,27,1.6,7,7,25300,46527000
+775,Kukatpally,Gated Community,1832,3,3,0,4.7,3,5,13350,24457000
+776,Kukatpally,Villa/Apt,3160,5,4,0,2.5,6,4,13190,41680000
+777,Gachibowli,Standalone Own Building,3156,4,4,9,8.1,2,1,30290,95595000
+778,Gachibowli,Villa/Apt,3128,4,4,2,2.3,3,7,24920,77950000
+779,Kukatpally,Villa/Apt,3170,4,5,2,4.3,4,7,12950,41052000
+780,Begumpet,Villa/Apt,2687,3,3,3,2.7,7,6,20760,55782000
+781,Begumpet,Standalone Own Building,1791,2,1,0,5.1,5,4,28550,51133000
+782,Kukatpally,Villa/Apt,2344,3,2,12,4.1,1,6,11860,27800000
+783,Gachibowli,Villa/Apt,2092,3,3,5,8.3,3,4,22970,48053000
+784,Gachibowli,Villa/Apt,2737,4,4,2,6.7,4,4,24230,66318000
+785,Gachibowli,Gated Community,1790,3,3,1,2.0,8,5,27120,48545000
+786,Begumpet,Gated Community,1714,2,3,1,4.7,4,5,24200,41479000
+787,Kukatpally,Gated Community,1962,3,3,4,1.7,3,5,13890,27252000
+788,Banjara Hills,Villa/Apt,2680,4,3,19,1.7,4,4,31500,84420000
+789,Gachibowli,Standalone Own Building,1790,3,3,15,5.9,6,1,31560,56492000
+790,Banjara Hills,Standalone Own Building,5891,5,5,1,4.6,7,2,48330,284712000
+791,Madhapur,Gated Community,1882,4,3,11,4.0,8,3,26240,49384000
+792,Madhapur,Gated Community,1659,3,2,0,4.1,4,5,28040,46518000
+793,Gachibowli,Standalone Own Building,5937,6,6,3,2.7,8,3,35270,209398000
+794,Jubilee Hills,Gated Community,2878,3,3,4,2.4,3,3,39620,114026000
+795,Madhapur,Standalone Own Building,2892,4,4,7,3.9,8,7,37930,109694000
+796,Banjara Hills,Standalone Own Building,2774,3,3,3,4.4,3,4,47090,130628000
+797,Banjara Hills,Gated Community,2378,3,3,0,3.8,7,1,38210,90863000
+798,Kukatpally,Standalone Own Building,4842,6,5,2,3.4,3,4,18050,87398000
+799,Begumpet,Standalone Own Building,1329,3,3,5,5.7,1,6,30340,40322000
+800,Kukatpally,Villa/Apt,2612,3,3,1,6.7,2,3,12220,31919000
+801,Banjara Hills,Standalone Own Building,5868,6,6,45,5.2,1,1,38550,226211000
+802,Banjara Hills,Villa/Apt,2113,4,4,10,4.5,1,5,31290,66116000
+803,Banjara Hills,Gated Community,3017,5,4,4,1.0,3,2,37270,112444000
+804,Banjara Hills,Gated Community,1604,3,2,12,5.1,8,3,36490,58530000
+805,Jubilee Hills,Standalone Own Building,2102,4,4,20,5.8,7,4,47910,100707000
+806,Madhapur,Villa/Apt,1587,3,2,6,2.1,8,2,24860,39453000
+807,Jubilee Hills,Gated Community,4163,5,5,2,3.7,1,2,40910,170308000
+808,Kukatpally,Standalone Own Building,3885,5,6,26,6.0,2,1,14770,57381000
+809,Gachibowli,Standalone Own Building,2614,4,3,6,5.4,5,7,32860,85896000
+810,Jubilee Hills,Villa/Apt,2833,3,4,8,3.1,1,2,35750,101280000
+811,Jubilee Hills,Villa/Apt,2215,3,3,4,5.3,1,7,37430,82907000
+812,Jubilee Hills,Gated Community,2603,3,3,10,1.1,5,7,41360,107660000
+813,Begumpet,Villa/Apt,1068,3,2,2,4.2,6,1,22800,24350000
+814,Kukatpally,Standalone Own Building,1959,4,4,24,5.4,8,3,15370,30110000
+815,Madhapur,Gated Community,3114,4,3,1,6.3,3,2,26390,82178000
+816,Begumpet,Villa/Apt,2765,3,2,7,2.5,3,2,20460,56572000
+817,Begumpet,Villa/Apt,2893,4,5,9,4.6,5,7,21600,62489000
+818,Begumpet,Villa/Apt,1941,3,3,0,7.0,3,1,21110,40975000
+819,Banjara Hills,Gated Community,2176,4,4,0,3.0,5,7,38750,84320000
+820,Madhapur,Standalone Own Building,3096,5,5,21,6.9,2,5,30880,95604000
+821,Begumpet,Villa/Apt,1033,2,1,8,4.9,6,4,19950,20608000
+822,Gachibowli,Gated Community,3273,4,5,5,7.7,1,1,24130,78977000
+823,Kukatpally,Standalone Own Building,4582,6,6,3,2.6,6,1,18010,82522000
+824,Banjara Hills,Gated Community,3484,4,4,1,2.6,8,3,39920,139081000
+825,Begumpet,Gated Community,2066,3,4,1,4.5,7,3,24170,49935000
+826,Banjara Hills,Gated Community,3167,4,4,10,1.4,1,7,38310,121328000
+827,Begumpet,Gated Community,2315,4,4,1,7.5,5,6,21920,50745000
+828,Madhapur,Standalone Own Building,1426,2,2,14,4.2,7,1,33450,47700000
+829,Jubilee Hills,Gated Community,1577,3,2,15,3.1,5,3,37820,59642000
+830,Madhapur,Villa/Apt,780,2,3,0,1.0,3,1,26750,20865000
+831,Madhapur,Standalone Own Building,879,2,1,10,6.9,3,3,33940,29833000
+832,Madhapur,Standalone Own Building,3383,4,4,3,3.6,1,2,36260,122668000
+833,Jubilee Hills,Gated Community,1805,4,3,3,2.2,5,6,41530,74962000
+834,Jubilee Hills,Villa/Apt,3067,4,4,0,3.0,4,5,40540,124336000
+835,Jubilee Hills,Standalone Own Building,1706,3,3,12,2.2,8,5,54790,93472000
+836,Gachibowli,Standalone Own Building,2481,4,5,7,5.2,8,4,33250,82493000
+837,Gachibowli,Villa/Apt,928,2,2,1,5.0,3,3,24510,22745000
+838,Kukatpally,Standalone Own Building,5255,5,4,3,0.6,8,5,19500,102472000
+839,Jubilee Hills,Standalone Own Building,2134,3,2,5,2.1,5,3,54250,115770000
+840,Jubilee Hills,Villa/Apt,3130,4,4,2,3.1,2,6,39720,124324000
+841,Begumpet,Standalone Own Building,3218,4,3,5,1.8,6,5,30900,99436000
+842,Banjara Hills,Gated Community,2760,4,4,12,3.8,2,5,35750,98670000
+843,Kukatpally,Gated Community,3469,4,3,0,2.5,1,7,14020,48635000
+844,Kukatpally,Standalone Own Building,2984,3,3,2,1.3,3,7,18360,54786000
+845,Gachibowli,Standalone Own Building,4514,5,6,22,5.7,6,5,28420,128288000
+846,Madhapur,Gated Community,2871,3,2,3,4.3,4,3,27500,78952000
+847,Jubilee Hills,Gated Community,1787,3,3,3,3.5,4,7,40050,71569000
+848,Kukatpally,Gated Community,2002,4,4,1,2.2,5,7,14780,29590000
+849,Gachibowli,Gated Community,3678,4,4,0,2.0,8,1,27390,100740000
+850,Kukatpally,Standalone Own Building,1752,3,3,12,1.6,4,7,17140,30029000
+851,Kukatpally,Gated Community,2737,3,3,0,4.0,5,5,14530,39769000
+852,Gachibowli,Gated Community,2209,4,5,1,4.7,4,5,28010,61874000
+853,Begumpet,Standalone Own Building,5395,5,5,0,6.7,7,2,30800,166166000
+854,Begumpet,Villa/Apt,1531,3,3,1,7.4,8,5,22020,33713000
+855,Begumpet,Standalone Own Building,1620,2,1,0,6.9,1,1,30540,49475000
+856,Gachibowli,Standalone Own Building,2271,4,4,14,5.1,8,4,29480,66949000
+857,Kukatpally,Standalone Own Building,3612,4,4,24,4.7,2,1,14760,53313000
+858,Begumpet,Gated Community,2005,3,3,7,2.5,3,5,22760,45634000
+859,Kukatpally,Standalone Own Building,3673,4,4,18,3.2,4,6,16300,59870000
+860,Gachibowli,Standalone Own Building,4304,4,4,2,3.7,8,4,33620,144700000
+861,Kukatpally,Standalone Own Building,1091,3,3,0,4.7,3,2,19190,20936000
+862,Kukatpally,Villa/Apt,2905,4,4,10,4.1,7,1,12350,35877000
+863,Begumpet,Standalone Own Building,3995,5,5,6,5.4,6,1,28940,115615000
+864,Banjara Hills,Gated Community,3834,5,5,2,1.9,5,1,40200,154127000
+865,Banjara Hills,Gated Community,2277,4,3,0,2.2,8,1,39410,89737000
+866,Jubilee Hills,Standalone Own Building,1818,4,3,4,2.4,2,2,53010,96372000
+867,Begumpet,Villa/Apt,1734,3,3,13,3.5,3,1,20960,36345000
+868,Gachibowli,Villa/Apt,1505,2,2,1,5.9,2,3,24040,36180000
+869,Gachibowli,Gated Community,1697,2,2,8,4.7,3,4,25000,42425000
+870,Begumpet,Villa/Apt,1855,3,3,6,1.2,6,3,21830,40495000
+871,Gachibowli,Gated Community,2107,4,4,9,8.9,5,3,23580,49683000
+872,Begumpet,Standalone Own Building,2472,3,3,18,0.5,2,1,29400,72677000
+873,Gachibowli,Gated Community,1748,2,2,7,4.8,8,2,27470,48018000
+874,Gachibowli,Gated Community,1437,3,3,0,4.1,3,7,25950,37290000
+875,Madhapur,Standalone Own Building,4900,5,5,6,6.6,6,3,33810,165669000
+876,Madhapur,Gated Community,2458,3,3,16,1.0,6,7,27220,66907000
+877,Begumpet,Gated Community,2881,3,2,6,6.9,1,1,21660,62402000
+878,Kukatpally,Standalone Own Building,1669,2,1,0,7.5,8,4,17500,29208000
+879,Begumpet,Gated Community,2211,4,4,2,1.8,1,6,23660,52312000
+880,Jubilee Hills,Gated Community,2062,4,3,1,3.0,2,5,44190,91120000
+881,Jubilee Hills,Standalone Own Building,1483,2,1,1,4.8,5,5,51500,76374000
+882,Madhapur,Standalone Own Building,3022,4,4,3,5.6,2,5,35070,105982000
+883,Madhapur,Standalone Own Building,1801,4,4,2,3.6,1,5,37310,67195000
+884,Madhapur,Standalone Own Building,3171,5,5,9,1.4,1,2,32930,104421000
+885,Madhapur,Standalone Own Building,3333,5,5,25,7.3,2,2,28260,94191000
+886,Madhapur,Gated Community,3584,4,5,5,6.0,8,6,28500,102144000
+887,Banjara Hills,Villa/Apt,860,2,2,5,4.5,6,2,33370,28698000
+888,Banjara Hills,Standalone Own Building,3325,4,4,7,3.1,1,5,49400,164255000
+889,Kukatpally,Gated Community,1337,2,2,20,5.3,4,5,11430,15282000
+890,Madhapur,Villa/Apt,2831,4,4,1,0.4,2,1,25060,70945000
+891,Banjara Hills,Gated Community,3223,5,5,9,4.1,3,2,36200,116673000
+892,Madhapur,Villa/Apt,3339,5,5,0,1.5,7,3,27840,92958000
+893,Kukatpally,Standalone Own Building,3666,5,5,23,1.1,6,6,15160,55577000
+894,Gachibowli,Standalone Own Building,3239,4,4,1,4.3,5,1,32610,105624000
+895,Banjara Hills,Standalone Own Building,1114,3,2,13,5.4,2,4,45100,50241000
+896,Gachibowli,Villa/Apt,2845,3,3,10,4.4,1,5,24410,69446000
+897,Begumpet,Villa/Apt,1734,2,2,7,5.0,1,4,18700,32426000
+898,Begumpet,Gated Community,1544,3,3,5,4.2,2,6,22290,34416000
+899,Madhapur,Standalone Own Building,2480,3,3,0,6.3,7,4,35290,87519000
+900,Madhapur,Gated Community,2066,3,4,8,7.3,3,4,24360,50328000
+901,Jubilee Hills,Villa/Apt,1744,2,2,11,2.8,5,4,37530,65452000
+902,Begumpet,Gated Community,1557,2,2,2,7.5,3,7,22610,35204000
+903,Jubilee Hills,Gated Community,2239,3,3,14,3.1,2,4,39120,87590000
+904,Jubilee Hills,Gated Community,1170,3,2,7,1.2,1,4,40330,47186000
+905,Banjara Hills,Gated Community,2314,3,2,6,3.1,5,4,35890,83049000
+906,Kukatpally,Gated Community,3579,4,4,6,1.1,7,3,14520,51967000
+907,Banjara Hills,Gated Community,2247,4,4,19,5.5,1,6,33260,74735000
+908,Kukatpally,Villa/Apt,1546,3,3,2,0.4,1,4,12900,19943000
+909,Jubilee Hills,Villa/Apt,2459,3,3,6,5.8,6,5,34320,84393000
+910,Jubilee Hills,Villa/Apt,3261,5,5,0,3.6,6,2,39120,127570000
+911,Banjara Hills,Gated Community,3995,4,5,30,3.8,7,1,30890,123406000
+912,Jubilee Hills,Gated Community,2101,3,4,0,4.7,5,1,42310,88893000
+913,Jubilee Hills,Standalone Own Building,3578,5,5,3,2.3,1,5,53820,192568000
+914,Begumpet,Gated Community,3526,4,4,1,3.4,2,2,23480,82790000
+915,Kukatpally,Gated Community,2838,4,3,4,6.0,1,2,12940,36724000
+916,Gachibowli,Standalone Own Building,4839,5,6,8,6.7,6,3,30080,145557000
+917,Kukatpally,Villa/Apt,2886,3,4,19,2.9,1,5,11750,33910000
+918,Jubilee Hills,Villa/Apt,2125,3,3,1,4.3,4,7,37560,79815000
+919,Banjara Hills,Gated Community,2111,3,4,3,1.9,7,2,40630,85770000
+920,Jubilee Hills,Villa/Apt,1573,2,2,2,2.1,2,3,37210,58531000
+921,Banjara Hills,Villa/Apt,1312,3,3,4,2.5,4,3,34700,45526000
+922,Kukatpally,Gated Community,2893,3,4,0,2.9,1,3,14050,40647000
+923,Kukatpally,Villa/Apt,3015,4,4,0,3.8,2,4,12770,38502000
+924,Gachibowli,Standalone Own Building,2741,4,5,5,8.9,2,3,33570,92015000
+925,Banjara Hills,Villa/Apt,2167,4,4,10,5.0,1,4,32580,70601000
+926,Jubilee Hills,Gated Community,2429,3,4,4,5.9,3,3,40430,98204000
+927,Madhapur,Villa/Apt,1728,2,2,4,4.3,1,2,24940,43096000
+928,Jubilee Hills,Villa/Apt,2181,3,3,8,5.8,4,6,35680,77818000
+929,Gachibowli,Villa/Apt,1794,3,3,21,2.1,5,4,21100,37853000
+930,Begumpet,Villa/Apt,854,1,1,0,0.8,2,2,24590,21000000
+931,Banjara Hills,Standalone Own Building,2998,4,3,5,5.5,5,5,49430,148191000
+932,Begumpet,Villa/Apt,1793,3,3,6,2.5,7,2,21180,37976000
+933,Kukatpally,Standalone Own Building,2337,3,3,0,6.9,4,3,17500,40898000
+934,Gachibowli,Standalone Own Building,3478,5,5,13,8.3,8,7,29970,104236000
+935,Madhapur,Gated Community,3073,5,5,11,0.8,4,5,28510,87611000
+936,Jubilee Hills,Villa/Apt,2809,4,4,7,5.7,4,4,37700,105899000
+937,Jubilee Hills,Gated Community,2336,3,3,4,5.9,1,7,41490,96921000
+938,Gachibowli,Gated Community,1716,3,3,1,4.0,7,2,28200,48391000
+939,Gachibowli,Villa/Apt,2467,4,3,9,7.8,6,2,22600,55754000
+940,Jubilee Hills,Gated Community,3142,4,4,0,5.0,7,1,42220,132655000
+941,Banjara Hills,Standalone Own Building,2244,4,5,18,3.5,6,4,42610,95617000
+942,Madhapur,Gated Community,2160,3,3,8,2.8,6,4,27030,58385000
+943,Gachibowli,Gated Community,1325,2,1,0,4.4,8,1,26500,35112000
+944,Madhapur,Gated Community,2194,3,2,4,3.8,2,5,27900,61213000
+945,Gachibowli,Standalone Own Building,3186,5,5,2,5.7,2,4,35090,111797000
+946,Madhapur,Gated Community,1623,2,2,2,0.9,7,4,29430,47765000
+947,Jubilee Hills,Gated Community,2085,4,4,0,3.1,8,5,40500,84442000
+948,Madhapur,Villa/Apt,2169,3,3,0,5.9,5,7,25140,54529000
+949,Kukatpally,Gated Community,2186,3,3,0,0.9,4,2,14000,30604000
+950,Jubilee Hills,Gated Community,4513,6,5,4,3.5,1,1,39750,179392000
+951,Begumpet,Gated Community,2766,3,3,1,6.3,6,6,24260,67103000
+952,Kukatpally,Gated Community,3471,4,4,7,4.9,7,5,13480,46789000
+953,Begumpet,Gated Community,1795,3,4,1,6.2,5,2,22930,41159000
+954,Begumpet,Villa/Apt,2090,3,2,0,3.4,4,4,21130,44162000
+955,Kukatpally,Standalone Own Building,3363,4,3,28,4.1,4,1,14460,48629000
+956,Banjara Hills,Standalone Own Building,1204,2,2,20,4.4,4,1,42430,51086000
+957,Jubilee Hills,Standalone Own Building,4313,4,4,1,5.9,4,1,49620,214011000
+958,Kukatpally,Standalone Own Building,4661,6,6,6,5.5,2,7,17930,83572000
+959,Gachibowli,Standalone Own Building,2732,4,3,2,3.0,4,5,35190,96139000
+960,Kukatpally,Standalone Own Building,4053,5,4,3,6.1,5,7,18090,73319000
+961,Begumpet,Gated Community,2040,3,2,8,5.9,5,4,21920,44717000
+962,Banjara Hills,Gated Community,1920,3,3,1,4.2,3,2,38240,73421000
+963,Jubilee Hills,Gated Community,2620,4,4,3,2.3,1,1,42750,112005000
+964,Kukatpally,Gated Community,2984,3,3,8,5.9,2,3,12210,36435000
+965,Kukatpally,Villa/Apt,2416,4,4,6,5.2,4,7,13010,31432000
+966,Madhapur,Standalone Own Building,5412,6,6,8,0.6,2,7,37760,204357000
+967,Begumpet,Gated Community,2578,3,2,0,5.8,8,6,23210,59835000
+968,Gachibowli,Gated Community,3850,4,4,5,6.2,3,7,26560,102256000
+969,Banjara Hills,Gated Community,1664,3,3,9,2.8,8,5,38940,64796000
+970,Banjara Hills,Standalone Own Building,2196,4,3,7,3.0,6,1,49770,109295000
+971,Begumpet,Standalone Own Building,2761,3,3,10,3.8,5,6,30780,84984000
+972,Gachibowli,Villa/Apt,3236,4,3,10,9.0,7,1,22030,71289000
+973,Kukatpally,Standalone Own Building,3295,5,5,13,5.6,8,7,16790,55323000
+974,Kukatpally,Standalone Own Building,5193,5,6,3,4.0,3,6,18550,96330000
+975,Kukatpally,Gated Community,1476,3,3,8,6.0,3,1,13040,19247000
+976,Gachibowli,Gated Community,2811,4,4,0,4.7,4,2,26680,74997000
+977,Begumpet,Standalone Own Building,2832,4,4,7,5.9,6,4,28170,79777000
+978,Banjara Hills,Standalone Own Building,2026,3,4,16,3.2,1,5,46330,93865000
+979,Kukatpally,Standalone Own Building,1377,3,3,5,4.9,7,4,17030,23450000
+980,Jubilee Hills,Gated Community,2344,4,5,13,4.6,8,3,39200,91885000
+981,Jubilee Hills,Gated Community,2990,4,4,5,5.0,7,2,40520,121155000
+982,Kukatpally,Standalone Own Building,5274,6,6,0,1.5,6,3,19010,100259000
+983,Banjara Hills,Villa/Apt,2683,3,3,10,4.2,4,3,29900,80222000
+984,Madhapur,Standalone Own Building,2412,3,3,1,7.0,6,1,34960,84324000
+985,Jubilee Hills,Standalone Own Building,2272,4,3,0,2.4,3,5,55550,126210000
+986,Jubilee Hills,Gated Community,2653,3,3,3,1.6,1,2,41620,110418000
+987,Jubilee Hills,Standalone Own Building,5878,6,6,8,5.2,1,6,50160,294840000
+988,Jubilee Hills,Villa/Apt,2072,3,3,3,5.4,4,6,37320,77327000
+989,Gachibowli,Standalone Own Building,3792,5,5,2,5.9,1,5,34390,130407000
+990,Banjara Hills,Gated Community,2737,3,3,1,4.9,4,6,35480,97109000
+991,Jubilee Hills,Villa/Apt,1899,4,4,3,2.3,1,2,38320,72770000
+992,Banjara Hills,Gated Community,1938,3,3,1,4.1,8,4,39070,75718000
+993,Banjara Hills,Villa/Apt,2022,3,2,3,1.9,5,5,34820,70406000
+994,Madhapur,Villa/Apt,1807,4,5,1,6.1,2,4,24410,44109000
+995,Kukatpally,Gated Community,2143,3,3,9,4.4,5,2,12790,27409000
+996,Jubilee Hills,Standalone Own Building,3076,5,5,12,2.7,4,1,50920,156630000
+997,Kukatpally,Standalone Own Building,4559,6,6,17,3.2,4,2,16120,73491000
+998,Madhapur,Gated Community,2593,4,5,13,6.6,6,3,25600,66381000
+999,Kukatpally,Gated Community,3169,4,4,7,1.5,3,4,12990,41165000
+1000,Jubilee Hills,Standalone Own Building,3826,4,4,1,5.0,1,3,49630,189884000
+1001,Madhapur,Gated Community,4462,4,3,22,6.4,2,6,23320,104054000
+1002,Begumpet,Standalone Own Building,2592,4,4,1,3.0,5,4,33320,86365000
+1003,Madhapur,Villa/Apt,2615,3,4,8,6.5,5,6,24120,63074000
+1004,Begumpet,Standalone Own Building,2501,4,3,0,6.0,4,3,30190,75505000
+1005,Kukatpally,Gated Community,3462,4,3,2,3.9,7,2,13940,48260000
+1006,Kukatpally,Gated Community,2698,4,3,0,6.6,8,7,14570,39310000
+1007,Gachibowli,Villa/Apt,1624,2,2,5,4.6,2,7,22880,37157000
+1008,Begumpet,Villa/Apt,1570,3,3,17,7.5,7,1,18150,28496000
+1009,Banjara Hills,Standalone Own Building,2863,3,2,11,2.5,4,7,50470,144496000
+1010,Jubilee Hills,Standalone Own Building,2688,3,3,2,3.5,1,6,55510,149211000
+1011,Banjara Hills,Gated Community,1572,3,3,4,3.6,5,7,39910,62739000
+1012,Madhapur,Standalone Own Building,5877,5,6,9,4.3,4,2,34800,204520000
+1013,Gachibowli,Gated Community,4727,5,5,7,3.2,6,6,26310,124367000
+1014,Gachibowli,Gated Community,1567,3,2,5,5.9,2,5,25720,40303000
+1015,Begumpet,Standalone Own Building,2788,3,2,11,6.2,3,1,26900,74997000
+1016,Begumpet,Standalone Own Building,3620,4,4,6,2.2,6,3,29400,106428000
+1017,Kukatpally,Standalone Own Building,3904,4,3,3,4.6,5,7,18680,72927000
+1018,Begumpet,Standalone Own Building,1719,2,2,9,6.1,3,6,28470,48940000
+1019,Banjara Hills,Standalone Own Building,1995,4,4,6,3.1,7,6,45880,91531000
+1020,Jubilee Hills,Gated Community,3131,4,5,2,3.3,7,6,40460,126680000
+1021,Jubilee Hills,Gated Community,2579,3,3,5,1.9,2,5,42540,109711000
+1022,Kukatpally,Gated Community,2275,3,3,16,5.1,5,2,12870,29279000
+1023,Banjara Hills,Villa/Apt,3360,4,5,2,5.2,8,1,34640,116390000
+1024,Gachibowli,Gated Community,3257,4,4,1,4.4,7,4,25110,81783000
+1025,Banjara Hills,Standalone Own Building,1316,3,4,1,5.7,2,2,47210,62128000
+1026,Madhapur,Gated Community,3448,4,4,7,4.5,7,4,27880,96130000
+1027,Madhapur,Standalone Own Building,2478,4,5,6,6.2,2,1,33250,82394000
+1028,Banjara Hills,Standalone Own Building,1440,2,2,12,4.7,2,3,44020,63389000
+1029,Madhapur,Standalone Own Building,1833,4,4,1,3.2,6,5,36480,66868000
+1030,Madhapur,Standalone Own Building,3970,4,4,4,3.9,6,2,35390,140498000
+1031,Banjara Hills,Gated Community,1833,3,3,8,5.1,3,4,34450,63147000
+1032,Jubilee Hills,Gated Community,3020,4,5,0,5.9,1,5,41160,124303000
+1033,Kukatpally,Standalone Own Building,2802,3,3,13,3.1,3,3,16780,47018000
+1034,Madhapur,Villa/Apt,1039,2,1,7,1.1,3,5,25120,26100000
+1035,Begumpet,Standalone Own Building,2787,3,3,6,2.6,4,7,29890,83303000
+1036,Gachibowli,Gated Community,3285,4,4,1,4.0,8,4,26540,87184000
+1037,Madhapur,Gated Community,4038,4,4,10,4.3,2,4,25860,104423000
+1038,Jubilee Hills,Standalone Own Building,2374,4,3,2,4.5,5,3,56390,133870000
+1039,Gachibowli,Standalone Own Building,2659,4,5,0,5.6,2,7,33700,89608000
+1040,Madhapur,Standalone Own Building,2396,4,4,5,2.4,6,7,38820,93013000
+1041,Begumpet,Gated Community,2270,4,4,4,2.0,4,3,23470,53277000
+1042,Madhapur,Villa/Apt,2672,3,3,9,2.8,6,6,24530,65544000
+1043,Jubilee Hills,Gated Community,2330,3,3,0,4.7,7,4,42190,98303000
+1044,Madhapur,Gated Community,1745,3,3,1,1.5,4,1,27950,48773000
+1045,Gachibowli,Standalone Own Building,4532,5,5,5,7.1,3,5,32570,147607000
+1046,Madhapur,Gated Community,3236,4,4,4,6.3,7,2,28650,92711000
+1047,Madhapur,Villa/Apt,2870,4,4,9,4.4,6,4,23820,68363000
+1048,Jubilee Hills,Standalone Own Building,1546,3,4,0,4.6,7,1,52050,80469000
+1049,Kukatpally,Standalone Own Building,4051,4,4,17,2.3,5,3,17280,70001000
+1050,Kukatpally,Gated Community,2537,3,2,3,1.1,5,4,14380,36482000
+1051,Banjara Hills,Standalone Own Building,3608,5,4,0,1.4,4,5,50950,183828000
+1052,Madhapur,Standalone Own Building,2957,4,5,27,2.7,3,4,31660,93619000
+1053,Begumpet,Gated Community,2093,3,3,1,4.6,2,3,22710,47532000
+1054,Jubilee Hills,Gated Community,1417,2,2,12,4.8,1,3,35220,49907000
+1055,Madhapur,Gated Community,3597,4,5,23,6.7,2,4,23450,84350000
+1056,Gachibowli,Standalone Own Building,1111,2,2,9,8.4,4,6,31700,35219000
+1057,Gachibowli,Standalone Own Building,6205,6,6,17,6.8,4,1,28890,179262000
+1058,Kukatpally,Standalone Own Building,3460,4,3,23,4.1,4,7,15660,54184000
+1059,Gachibowli,Standalone Own Building,2666,3,3,10,8.8,7,1,31760,84672000
+1060,Madhapur,Standalone Own Building,1324,2,2,2,5.4,6,6,35590,47121000
+1061,Banjara Hills,Standalone Own Building,3883,4,4,8,2.8,5,3,48520,188403000
+1062,Madhapur,Villa/Apt,2744,3,3,7,0.9,2,3,26500,72716000
+1063,Banjara Hills,Gated Community,2962,4,3,0,2.9,3,4,40550,120109000
+1064,Madhapur,Villa/Apt,1788,3,2,1,0.5,8,7,27110,48473000
+1065,Begumpet,Standalone Own Building,2100,3,3,3,6.6,8,1,31700,66570000
+1066,Madhapur,Gated Community,1637,3,4,10,6.7,4,1,25450,41662000
+1067,Banjara Hills,Standalone Own Building,1730,3,3,20,4.7,1,4,42140,72902000
+1068,Banjara Hills,Standalone Own Building,3618,4,4,4,2.3,4,2,50350,182166000
+1069,Madhapur,Gated Community,1990,3,3,8,5.7,5,1,23830,47422000
+1070,Jubilee Hills,Gated Community,2672,3,3,4,3.8,5,2,41180,110033000
+1071,Banjara Hills,Standalone Own Building,5734,6,5,5,1.9,3,2,48200,276379000
+1072,Kukatpally,Villa/Apt,2285,3,3,2,6.9,3,6,11540,26369000
+1073,Jubilee Hills,Standalone Own Building,4375,4,4,6,5.1,4,1,51560,225575000
+1074,Begumpet,Villa/Apt,3345,4,3,2,2.7,5,6,22570,75497000
+1075,Gachibowli,Standalone Own Building,4089,5,5,6,2.2,7,3,34190,139803000
+1076,Gachibowli,Gated Community,2346,4,4,8,8.6,4,7,23910,56093000
+1077,Begumpet,Villa/Apt,2331,4,3,25,6.6,5,1,17870,41655000
+1078,Begumpet,Standalone Own Building,2391,4,5,7,7.5,1,3,28550,68263000
+1079,Gachibowli,Standalone Own Building,2563,3,3,22,8.2,3,5,26780,68637000
+1080,Gachibowli,Gated Community,1756,2,1,10,8.4,5,1,23150,40651000
+1081,Madhapur,Gated Community,2397,3,4,8,6.8,7,3,26940,64575000
+1082,Begumpet,Standalone Own Building,1632,2,1,7,4.9,7,3,29810,48650000
+1083,Banjara Hills,Standalone Own Building,3875,5,5,0,4.1,4,3,49420,191502000
+1084,Banjara Hills,Gated Community,2107,3,3,23,5.8,7,2,31540,66455000
+1085,Jubilee Hills,Gated Community,2763,3,3,1,3.4,7,4,40980,113228000
+1086,Madhapur,Gated Community,2833,3,3,2,0.5,1,6,30270,85755000
+1087,Kukatpally,Villa/Apt,3419,4,5,6,4.9,3,7,11880,40618000
+1088,Begumpet,Standalone Own Building,4503,5,5,5,1.7,8,1,29700,133739000
+1089,Gachibowli,Gated Community,3450,5,4,2,4.0,8,7,27350,94358000
+1090,Begumpet,Standalone Own Building,1553,3,4,19,6.4,5,2,26050,40456000
+1091,Gachibowli,Gated Community,2594,3,3,3,2.9,3,4,25430,65965000
+1092,Kukatpally,Villa/Apt,1824,4,3,6,3.2,2,6,12350,22526000
+1093,Jubilee Hills,Gated Community,2336,4,4,7,3.3,6,2,40330,94211000
+1094,Madhapur,Gated Community,2259,3,3,4,6.4,4,7,26360,59547000
+1095,Banjara Hills,Gated Community,2962,3,3,8,5.9,3,3,35340,104677000
+1096,Jubilee Hills,Gated Community,2740,3,4,3,5.8,8,3,42710,117025000
+1097,Gachibowli,Gated Community,3547,5,6,13,8.8,5,6,24300,86192000
+1098,Madhapur,Standalone Own Building,3812,4,4,2,6.6,8,6,35830,136584000
+1099,Madhapur,Gated Community,2317,3,3,5,5.0,3,6,29800,69047000
+1100,Begumpet,Standalone Own Building,2499,3,2,4,2.3,7,4,32440,81068000
+1101,Madhapur,Standalone Own Building,4024,4,4,26,2.6,8,5,31020,124824000
+1102,Kukatpally,Villa/Apt,2361,3,4,1,1.8,1,4,13040,30787000
+1103,Kukatpally,Villa/Apt,1180,3,4,0,2.9,6,4,12320,14538000
+1104,Madhapur,Gated Community,3078,4,3,5,0.6,5,1,29060,89447000
+1105,Begumpet,Gated Community,3172,5,6,7,1.5,4,6,24890,78951000
+1106,Madhapur,Standalone Own Building,3602,5,5,4,6.2,7,4,34120,122900000
+1107,Jubilee Hills,Gated Community,3370,4,4,0,4.6,1,2,40860,137698000
+1108,Banjara Hills,Standalone Own Building,3551,4,4,24,2.0,5,3,45690,162245000
+1109,Banjara Hills,Gated Community,2332,4,4,3,4.9,4,7,35520,82833000
+1110,Banjara Hills,Villa/Apt,1628,3,3,5,2.8,6,2,34030,55401000
+1111,Gachibowli,Gated Community,4223,4,4,22,8.1,6,2,22700,95862000
+1112,Banjara Hills,Gated Community,2576,3,3,8,3.4,1,3,38400,98918000
+1113,Kukatpally,Standalone Own Building,3982,4,3,15,3.1,6,6,17640,70242000
+1114,Gachibowli,Standalone Own Building,2472,4,3,35,5.9,7,7,27190,67214000
+1115,Madhapur,Standalone Own Building,2192,4,3,19,5.0,6,1,30770,67448000
+1116,Gachibowli,Standalone Own Building,4430,4,4,8,3.7,7,1,32860,145570000
+1117,Begumpet,Villa/Apt,1684,2,2,5,2.4,6,4,22830,38446000
+1118,Madhapur,Gated Community,2865,3,3,5,0.6,8,7,30130,86322000
+1119,Begumpet,Standalone Own Building,2343,3,3,4,1.4,4,3,32000,74976000
+1120,Madhapur,Standalone Own Building,2929,4,3,3,2.8,3,3,35990,105415000
+1121,Jubilee Hills,Villa/Apt,3928,5,6,6,4.7,3,7,38190,150010000
+1122,Gachibowli,Standalone Own Building,4415,5,5,4,3.1,6,3,35120,155055000
+1123,Begumpet,Standalone Own Building,890,2,2,21,2.7,2,2,25210,22437000
+1124,Jubilee Hills,Standalone Own Building,3297,4,4,6,1.1,8,7,59210,195215000
+1125,Begumpet,Standalone Own Building,1707,2,2,9,6.4,1,3,27860,47557000
+1126,Jubilee Hills,Gated Community,3827,4,4,19,4.7,1,3,35100,134328000
+1127,Banjara Hills,Gated Community,1671,3,3,4,1.7,3,4,36730,61376000
+1128,Kukatpally,Gated Community,3054,4,4,8,3.6,7,3,13300,40618000
+1129,Banjara Hills,Gated Community,1542,3,3,12,4.2,7,7,37700,58133000
+1130,Banjara Hills,Gated Community,2135,3,3,4,4.1,4,6,39440,84204000
+1131,Madhapur,Gated Community,3645,4,4,8,4.5,4,3,27940,101841000
+1132,Begumpet,Standalone Own Building,4016,5,6,0,4.6,4,5,30080,120801000
+1133,Madhapur,Gated Community,1673,3,3,8,6.8,3,7,26360,44100000
+1134,Begumpet,Villa/Apt,1621,2,2,3,4.4,3,3,21200,34365000
+1135,Banjara Hills,Villa/Apt,1644,3,2,19,1.5,6,6,34620,56915000
+1136,Banjara Hills,Gated Community,3543,4,5,5,4.2,6,3,36490,129284000
+1137,Begumpet,Villa/Apt,3565,5,4,10,3.3,7,1,19660,70088000
+1138,Banjara Hills,Gated Community,2451,3,3,1,5.4,6,6,41520,101766000
+1139,Madhapur,Gated Community,1337,2,1,6,0.7,8,5,30830,41220000
+1140,Jubilee Hills,Villa/Apt,1688,2,3,3,5.8,6,7,39030,65883000
+1141,Begumpet,Standalone Own Building,5194,6,6,5,1.8,4,2,29010,150678000
+1142,Jubilee Hills,Standalone Own Building,2330,4,5,32,4.3,8,6,41590,96905000
+1143,Madhapur,Gated Community,3152,4,4,2,7.2,1,6,27290,86018000
+1144,Kukatpally,Gated Community,2017,4,5,3,7.1,4,6,13690,27613000
+1145,Kukatpally,Villa/Apt,2138,3,4,3,4.2,2,5,12650,27046000
+1146,Madhapur,Gated Community,1488,3,3,5,1.3,8,2,29830,44387000
+1147,Banjara Hills,Villa/Apt,1477,2,1,0,4.9,3,7,34250,50587000
+1148,Madhapur,Standalone Own Building,2314,3,4,2,5.6,1,6,33990,78653000
+1149,Kukatpally,Standalone Own Building,6054,5,4,2,6.1,5,5,17340,104976000
+1150,Banjara Hills,Standalone Own Building,3997,4,3,0,1.2,1,7,51480,205766000
+1151,Kukatpally,Standalone Own Building,3917,4,4,3,5.7,2,2,16790,65766000
+1152,Begumpet,Standalone Own Building,2518,4,4,4,7.1,2,1,28920,72821000
+1153,Jubilee Hills,Gated Community,2560,4,4,0,4.0,7,3,41670,106675000
+1154,Kukatpally,Villa/Apt,1959,4,3,4,3.1,3,4,12750,24977000
+1155,Banjara Hills,Villa/Apt,1395,3,3,7,2.6,4,5,33930,47332000
+1156,Jubilee Hills,Gated Community,1410,2,2,0,1.9,5,5,42120,59389000
+1157,Madhapur,Standalone Own Building,5374,5,6,6,5.9,7,4,34180,183683000
+1158,Begumpet,Standalone Own Building,3647,5,4,5,3.9,2,5,29980,109337000
+1159,Kukatpally,Standalone Own Building,2124,3,3,4,6.0,5,5,17760,37722000
+1160,Kukatpally,Gated Community,1885,4,4,0,5.3,6,2,14270,26899000
+1161,Begumpet,Gated Community,2900,3,2,2,4.2,4,5,21640,62756000
+1162,Gachibowli,Standalone Own Building,2230,3,4,10,3.1,5,4,31970,71293000
+1163,Gachibowli,Standalone Own Building,4379,5,5,4,3.3,6,5,35040,153440000
+1164,Begumpet,Standalone Own Building,1491,3,3,15,0.6,7,6,31100,46370000
+1165,Banjara Hills,Gated Community,3344,4,4,0,1.7,7,2,39490,132055000
+1166,Madhapur,Villa/Apt,2478,3,4,0,3.5,5,3,26650,66039000
+1167,Madhapur,Gated Community,2308,3,2,6,3.4,7,1,27470,63401000
+1168,Jubilee Hills,Standalone Own Building,3553,5,5,12,6.0,7,4,50770,180386000
+1169,Jubilee Hills,Villa/Apt,1812,4,3,3,3.8,6,4,39170,70976000
+1170,Madhapur,Gated Community,1517,2,2,0,6.5,6,2,27470,41672000
+1171,Madhapur,Standalone Own Building,1526,2,1,3,4.0,1,2,36720,56035000
+1172,Kukatpally,Gated Community,2768,3,3,3,6.4,3,7,13700,37922000
+1173,Begumpet,Standalone Own Building,1721,3,3,3,5.5,6,6,30100,51802000
+1174,Gachibowli,Standalone Own Building,4025,4,4,5,6.0,3,4,32220,129686000
+1175,Jubilee Hills,Gated Community,2354,3,4,1,1.1,8,5,45640,107437000
+1176,Madhapur,Gated Community,2104,3,3,6,0.7,3,2,28820,60637000
+1177,Jubilee Hills,Standalone Own Building,4749,6,6,12,3.8,4,2,48340,229567000
+1178,Jubilee Hills,Gated Community,2470,3,4,1,1.7,6,6,41980,103691000
+1179,Gachibowli,Villa/Apt,1535,3,3,3,8.6,4,4,23260,35704000
+1180,Gachibowli,Gated Community,2999,4,5,2,4.1,8,4,27280,81813000
+1181,Jubilee Hills,Villa/Apt,1122,3,2,5,5.2,8,7,36360,40796000
+1182,Kukatpally,Gated Community,3726,4,5,4,3.9,7,7,13630,50785000
+1183,Begumpet,Gated Community,4540,5,4,12,3.1,7,2,22550,102377000
+1184,Begumpet,Gated Community,1880,4,3,13,0.7,4,4,22970,43184000
+1185,Banjara Hills,Villa/Apt,1927,3,3,4,2.0,3,5,34960,67368000
+1186,Gachibowli,Standalone Own Building,1666,2,2,7,2.5,6,3,33500,55811000
+1187,Banjara Hills,Villa/Apt,1918,3,3,8,1.8,1,2,34380,65941000
+1188,Kukatpally,Gated Community,3610,4,4,3,3.3,8,5,13900,50179000
+1189,Jubilee Hills,Standalone Own Building,3883,4,4,2,1.4,7,6,55720,216361000
+1190,Jubilee Hills,Gated Community,2196,4,5,3,5.0,2,4,42560,93462000
+1191,Jubilee Hills,Standalone Own Building,1915,3,3,4,3.2,5,3,53680,102797000
+1192,Madhapur,Gated Community,2869,4,4,0,2.7,3,7,30670,87992000
+1193,Kukatpally,Gated Community,4464,4,5,8,2.9,6,3,13140,58657000
+1194,Banjara Hills,Gated Community,2579,3,3,6,2.0,4,3,40620,104759000
+1195,Begumpet,Villa/Apt,2053,4,4,8,1.8,3,5,19970,40998000
+1196,Madhapur,Standalone Own Building,3891,5,5,5,6.4,6,2,33580,130660000
+1197,Madhapur,Gated Community,1814,3,4,6,7.4,2,6,25410,46094000
+1198,Begumpet,Standalone Own Building,4133,4,4,6,2.8,6,7,29080,120188000
+1199,Gachibowli,Villa/Apt,1644,3,2,6,6.7,8,7,24760,40705000
+1200,Gachibowli,Villa/Apt,2616,3,3,0,3.5,8,7,25770,67414000
+1201,Kukatpally,Villa/Apt,2107,4,5,6,0.5,3,7,13100,27602000
+1202,Begumpet,Gated Community,2705,4,5,0,5.1,6,7,25270,68355000
+1203,Banjara Hills,Standalone Own Building,3454,4,4,18,2.6,2,7,47780,165032000
+1204,Madhapur,Gated Community,3420,5,6,0,3.4,8,1,28580,97744000
+1205,Banjara Hills,Standalone Own Building,2753,4,4,5,1.5,7,6,52640,144918000
+1206,Kukatpally,Standalone Own Building,2348,4,3,10,3.1,3,1,17460,40996000
+1207,Madhapur,Standalone Own Building,2866,3,3,11,0.4,6,5,36960,105927000
+1208,Madhapur,Standalone Own Building,3648,4,4,32,2.8,6,6,30720,112067000
+1209,Begumpet,Gated Community,1158,3,3,2,6.3,8,5,23620,27352000
+1210,Banjara Hills,Villa/Apt,2089,3,3,5,2.0,5,6,36820,76917000
+1211,Madhapur,Gated Community,3219,5,4,12,3.4,3,7,27260,87750000
+1212,Jubilee Hills,Gated Community,1566,2,2,13,4.2,8,2,38870,60870000
+1213,Banjara Hills,Gated Community,1942,4,4,1,5.3,5,7,38080,73951000
+1214,Gachibowli,Standalone Own Building,3631,4,4,2,5.8,2,3,32600,118371000
+1215,Banjara Hills,Gated Community,2424,4,5,9,4.0,7,7,37960,92015000
+1216,Gachibowli,Villa/Apt,2213,4,3,0,8.6,2,3,22130,48974000
+1217,Kukatpally,Standalone Own Building,4482,4,5,13,1.5,2,2,16740,75029000
+1218,Jubilee Hills,Standalone Own Building,4642,5,5,1,2.9,4,3,54950,255078000
+1219,Begumpet,Standalone Own Building,1989,4,4,0,2.3,3,3,31020,61699000
+1220,Kukatpally,Standalone Own Building,1739,3,3,8,5.8,2,4,16330,28398000
+1221,Jubilee Hills,Gated Community,2326,4,4,15,5.7,6,2,38810,90272000
+1222,Kukatpally,Gated Community,3867,4,4,3,1.9,4,2,14830,57348000
+1223,Madhapur,Gated Community,2049,3,2,10,7.4,7,2,25520,52290000
+1224,Banjara Hills,Standalone Own Building,3581,5,5,2,4.8,3,7,50330,180232000
+1225,Banjara Hills,Gated Community,3680,4,4,5,2.0,6,1,35790,131707000
+1226,Madhapur,Gated Community,1713,3,2,0,3.3,8,3,29220,50054000
+1227,Kukatpally,Gated Community,3033,4,5,4,6.3,7,1,13710,41582000
+1228,Madhapur,Gated Community,2222,3,3,9,1.2,1,1,27980,62172000
+1229,Gachibowli,Standalone Own Building,4940,5,4,3,8.7,1,6,32280,159463000
+1230,Madhapur,Gated Community,2321,4,4,10,2.2,7,7,25650,59534000
+1231,Madhapur,Standalone Own Building,2156,3,3,1,4.3,8,1,37920,81756000
+1232,Gachibowli,Standalone Own Building,5203,6,6,10,7.9,3,2,30160,156922000
+1233,Kukatpally,Gated Community,1937,3,4,9,4.4,1,7,13390,25936000
+1234,Gachibowli,Standalone Own Building,1552,3,4,11,3.7,6,5,32890,51045000
+1235,Kukatpally,Villa/Apt,2728,3,3,20,3.8,2,6,11320,30881000
+1236,Gachibowli,Gated Community,4639,5,5,12,4.5,2,6,24700,114583000
+1237,Madhapur,Gated Community,1205,3,3,3,1.6,3,7,29960,36102000
+1238,Kukatpally,Gated Community,3977,4,4,4,6.1,2,1,12440,49474000
+1239,Jubilee Hills,Gated Community,4182,4,3,0,4.9,5,3,39790,166402000
+1240,Begumpet,Villa/Apt,2007,4,4,10,1.2,2,2,18710,37551000
+1241,Gachibowli,Gated Community,4038,4,5,1,7.1,5,4,24950,100748000
+1242,Madhapur,Gated Community,2657,4,4,0,6.4,1,1,27670,73519000
+1243,Gachibowli,Villa/Apt,1565,2,2,0,7.3,2,7,23440,36684000
+1244,Gachibowli,Standalone Own Building,2318,4,3,10,8.4,4,6,30990,71835000
+1245,Jubilee Hills,Villa/Apt,2486,4,4,3,1.2,4,3,38670,96134000
+1246,Madhapur,Gated Community,3771,4,4,12,6.0,2,2,25100,94652000
+1247,Madhapur,Gated Community,3486,5,5,2,6.0,5,3,27300,95168000
+1248,Jubilee Hills,Standalone Own Building,2619,4,3,2,5.8,3,6,51160,133988000
+1249,Banjara Hills,Villa/Apt,1316,3,3,0,1.2,7,6,39040,51377000
+1250,Banjara Hills,Gated Community,2470,3,3,15,5.6,7,3,35340,87290000
+1251,Kukatpally,Villa/Apt,1274,3,3,13,6.7,2,7,11820,15059000
+1252,Gachibowli,Gated Community,2958,3,3,2,5.5,8,2,26010,76938000
+1253,Banjara Hills,Standalone Own Building,2848,4,4,7,5.5,2,1,48280,137501000
+1254,Jubilee Hills,Standalone Own Building,2373,4,5,0,1.1,5,1,52510,124606000
+1255,Jubilee Hills,Standalone Own Building,3286,4,3,21,2.0,6,4,45180,148461000
+1256,Jubilee Hills,Villa/Apt,1263,3,2,3,4.7,5,5,36490,46087000
+1257,Gachibowli,Villa/Apt,3109,4,3,4,2.7,7,7,23990,74585000
+1258,Banjara Hills,Gated Community,4070,5,5,5,5.3,1,4,35530,144607000
+1259,Jubilee Hills,Gated Community,1588,3,3,2,1.6,5,4,45310,71952000
+1260,Gachibowli,Gated Community,2669,3,2,8,2.9,6,3,25170,67179000
+1261,Jubilee Hills,Gated Community,2390,4,4,6,4.6,6,7,41950,100260000
+1262,Gachibowli,Gated Community,2097,4,4,1,2.0,2,7,27120,56871000
+1263,Madhapur,Villa/Apt,2545,3,3,4,6.1,7,7,25380,64592000
+1264,Begumpet,Gated Community,3004,4,4,1,3.4,8,3,23680,71135000
+1265,Begumpet,Standalone Own Building,1808,4,5,11,2.4,1,1,27640,49973000
+1266,Kukatpally,Gated Community,2924,4,5,5,3.4,4,1,14090,41199000
+1267,Jubilee Hills,Gated Community,1745,2,1,2,2.9,8,5,42820,74721000
+1268,Begumpet,Standalone Own Building,3908,4,3,1,7.3,7,6,29670,115950000
+1269,Jubilee Hills,Gated Community,2669,3,3,2,5.6,6,3,40220,107347000
+1270,Gachibowli,Gated Community,3414,4,4,16,3.2,7,7,26320,89856000
+1271,Kukatpally,Villa/Apt,2062,3,3,9,1.0,1,2,12200,25156000
+1272,Madhapur,Villa/Apt,2372,4,3,13,6.2,6,1,23610,56003000
+1273,Banjara Hills,Gated Community,2195,4,4,14,1.1,6,5,39170,85978000
+1274,Madhapur,Villa/Apt,2211,4,4,7,5.5,8,3,22820,50455000
+1275,Banjara Hills,Standalone Own Building,1910,4,4,1,1.6,1,4,46990,89751000
+1276,Banjara Hills,Gated Community,1711,3,4,19,3.2,2,2,31810,54427000
+1277,Gachibowli,Standalone Own Building,4262,4,4,6,5.9,7,2,34030,145036000
+1278,Kukatpally,Gated Community,2566,3,3,18,7.5,4,6,11950,30664000
+1279,Gachibowli,Villa/Apt,2504,4,4,0,2.8,5,7,25260,63251000
+1280,Jubilee Hills,Villa/Apt,2807,3,2,23,2.5,2,7,31460,88308000
+1281,Kukatpally,Gated Community,1593,2,2,1,6.0,2,5,13550,21585000
+1282,Banjara Hills,Gated Community,1634,2,1,11,5.6,7,1,33950,55474000
+1283,Madhapur,Gated Community,4535,5,4,7,6.3,4,6,26110,118409000
+1284,Madhapur,Villa/Apt,2017,4,5,11,2.5,4,3,22990,46371000
+1285,Begumpet,Standalone Own Building,2234,4,3,3,3.1,4,3,32580,72784000
+1286,Banjara Hills,Villa/Apt,1892,4,4,1,1.7,8,7,36250,68585000
+1287,Gachibowli,Gated Community,2036,3,3,17,2.7,5,7,24900,50696000
+1288,Begumpet,Standalone Own Building,5759,5,6,3,7.1,1,4,28070,161655000
+1289,Jubilee Hills,Gated Community,2570,4,4,12,3.2,3,5,39360,101155000
+1290,Begumpet,Standalone Own Building,4827,6,5,9,0.8,3,5,31670,152871000
+1291,Begumpet,Villa/Apt,1877,3,3,4,3.5,3,2,19760,37090000
+1292,Madhapur,Standalone Own Building,4059,4,5,7,2.0,3,6,34560,140279000
+1293,Madhapur,Standalone Own Building,4547,5,5,1,3.2,8,3,38020,172877000
+1294,Kukatpally,Standalone Own Building,2292,3,3,14,5.7,7,6,16440,37680000
+1295,Banjara Hills,Gated Community,4090,5,5,6,5.7,2,3,37810,154643000
+1296,Gachibowli,Villa/Apt,2952,3,3,3,3.0,3,1,24780,73151000
+1297,Jubilee Hills,Gated Community,1374,3,3,5,1.3,2,2,40730,55963000
+1298,Kukatpally,Standalone Own Building,1545,3,3,13,4.9,3,5,17150,26497000
+1299,Begumpet,Standalone Own Building,2477,4,3,4,1.2,2,1,29400,72824000
+1300,Banjara Hills,Gated Community,2983,3,3,3,5.8,8,4,38880,115979000
+1301,Jubilee Hills,Standalone Own Building,4039,4,4,21,2.5,5,6,48660,196538000
+1302,Banjara Hills,Standalone Own Building,3062,4,4,8,2.0,6,2,46190,141434000
+1303,Jubilee Hills,Villa/Apt,2850,3,2,9,4.1,1,5,36970,105364000
+1304,Madhapur,Gated Community,3258,4,4,1,7.2,8,1,28470,92755000
+1305,Gachibowli,Villa/Apt,1131,3,2,2,5.6,7,2,24870,28128000
+1306,Kukatpally,Gated Community,2291,4,3,9,4.7,8,6,13740,31478000
+1307,Gachibowli,Standalone Own Building,4780,5,6,10,6.8,3,2,32620,155924000
+1308,Madhapur,Gated Community,1676,2,3,4,3.3,1,3,28670,48051000
+1309,Madhapur,Gated Community,2356,4,3,17,4.5,4,4,26370,62128000
+1310,Gachibowli,Villa/Apt,1367,2,2,2,7.5,5,5,22000,30074000
+1311,Jubilee Hills,Gated Community,2524,4,5,6,3.2,2,2,41310,104266000
+1312,Kukatpally,Standalone Own Building,2442,3,2,2,3.8,3,1,16360,39951000
+1313,Banjara Hills,Gated Community,2027,4,5,0,2.1,5,3,39580,80229000
+1314,Begumpet,Gated Community,3764,4,5,0,0.7,6,1,24060,90562000
+1315,Madhapur,Standalone Own Building,4156,5,4,4,0.4,1,6,37450,155642000
+1316,Jubilee Hills,Gated Community,2582,4,5,3,4.8,7,4,40460,104468000
+1317,Banjara Hills,Standalone Own Building,3410,4,5,0,5.7,4,7,52030,177422000
+1318,Gachibowli,Gated Community,3146,5,5,2,5.4,7,3,26050,81953000
+1319,Jubilee Hills,Gated Community,3222,4,3,0,3.1,2,5,40150,129363000
+1320,Begumpet,Gated Community,1999,4,4,5,1.0,8,5,24710,49395000
+1321,Gachibowli,Gated Community,3828,4,4,19,3.2,5,2,24260,92867000
+1322,Madhapur,Gated Community,2184,3,3,1,3.3,5,2,29130,63620000
+1323,Banjara Hills,Gated Community,1895,4,4,0,5.6,5,5,38480,72920000
+1324,Madhapur,Villa/Apt,3027,5,5,0,1.7,7,2,26670,80730000
+1325,Madhapur,Standalone Own Building,2481,4,4,16,1.4,4,5,34830,86413000
+1326,Banjara Hills,Standalone Own Building,3596,5,5,3,3.7,4,2,49830,179189000
+1327,Banjara Hills,Gated Community,3259,4,4,0,4.0,7,2,40030,130458000
+1328,Kukatpally,Standalone Own Building,2303,4,3,5,3.0,1,1,17440,40164000
+1329,Begumpet,Standalone Own Building,3269,4,4,6,1.8,1,1,31420,102712000
+1330,Gachibowli,Villa/Apt,1561,3,4,6,8.1,7,5,24180,37745000
+1331,Banjara Hills,Standalone Own Building,3135,4,4,3,3.7,7,4,51020,159948000
+1332,Jubilee Hills,Gated Community,2978,3,2,4,2.4,6,7,40840,121622000
+1333,Banjara Hills,Villa/Apt,2486,4,4,7,5.7,8,5,33610,83554000
+1334,Jubilee Hills,Gated Community,2374,4,4,11,4.3,7,2,38830,92182000
+1335,Banjara Hills,Standalone Own Building,2564,3,4,3,2.3,4,2,48480,124303000
+1336,Madhapur,Standalone Own Building,3433,4,4,17,0.6,8,2,36350,124790000
+1337,Gachibowli,Gated Community,3316,4,4,0,7.1,6,3,25910,85918000
+1338,Begumpet,Villa/Apt,2723,4,4,3,4.6,1,3,21730,59171000
+1339,Gachibowli,Standalone Own Building,2069,4,4,7,4.8,3,7,32220,66663000
+1340,Banjara Hills,Gated Community,3331,4,4,0,3.3,3,6,38580,128510000
+1341,Jubilee Hills,Gated Community,3363,4,4,0,1.4,2,1,41980,141179000
+1342,Madhapur,Gated Community,3227,5,5,0,1.6,7,2,29850,96326000
+1343,Madhapur,Villa/Apt,1450,3,3,27,1.4,5,7,22730,32958000
+1344,Kukatpally,Gated Community,2431,4,4,5,0.7,7,6,14000,34034000
+1345,Banjara Hills,Gated Community,1299,2,2,1,2.0,1,5,41590,54025000
+1346,Banjara Hills,Standalone Own Building,1892,4,4,12,2.3,4,5,47160,89227000
+1347,Begumpet,Standalone Own Building,2231,3,3,11,4.9,4,7,27960,62379000
+1348,Gachibowli,Standalone Own Building,2326,4,4,7,6.8,1,5,31950,74316000
+1349,Kukatpally,Standalone Own Building,3691,5,5,15,5.5,5,1,16520,60975000
+1350,Madhapur,Standalone Own Building,5605,6,5,1,4.6,1,3,35870,201051000
+1351,Gachibowli,Standalone Own Building,4296,5,5,17,3.5,8,5,31220,134121000
+1352,Jubilee Hills,Gated Community,4058,5,6,6,2.9,2,2,39260,159317000
+1353,Madhapur,Gated Community,2039,3,3,2,6.2,8,3,29810,60783000
+1354,Madhapur,Villa/Apt,2962,4,4,0,2.2,1,4,26670,78997000
+1355,Banjara Hills,Standalone Own Building,1914,4,4,19,5.7,3,4,43880,83986000
+1356,Jubilee Hills,Standalone Own Building,2535,4,4,13,3.5,3,5,48850,123835000
+1357,Jubilee Hills,Standalone Own Building,4536,5,5,8,5.9,4,5,49770,225757000
+1358,Banjara Hills,Standalone Own Building,3717,4,3,19,3.9,4,1,40850,151839000
+1359,Gachibowli,Gated Community,3656,4,4,16,2.8,3,1,24060,87963000
+1360,Banjara Hills,Gated Community,1928,4,4,2,5.3,2,4,36510,70391000
+1361,Begumpet,Standalone Own Building,2133,3,3,21,2.1,1,4,27290,58210000
+1362,Kukatpally,Gated Community,3181,4,4,1,7.4,4,1,12960,41226000
+1363,Jubilee Hills,Standalone Own Building,2633,3,3,1,4.8,1,2,52490,138206000
+1364,Jubilee Hills,Gated Community,3153,4,3,5,3.0,7,6,40740,128453000
+1365,Banjara Hills,Villa/Apt,2665,3,3,0,5.2,5,1,37120,98925000
+1366,Jubilee Hills,Standalone Own Building,1302,3,3,1,2.1,2,2,52830,68785000
+1367,Madhapur,Gated Community,4181,5,5,7,7.1,5,3,25210,105403000
+1368,Banjara Hills,Standalone Own Building,3228,5,5,7,3.6,8,6,49570,160012000
+1369,Kukatpally,Villa/Apt,2517,4,4,6,5.1,2,1,11920,30003000
+1370,Banjara Hills,Gated Community,2326,4,4,4,4.1,1,7,36610,85155000
+1371,Kukatpally,Gated Community,1849,3,3,3,1.6,5,6,13770,25461000
+1372,Kukatpally,Gated Community,2963,4,3,1,4.2,7,1,12980,38460000
+1373,Jubilee Hills,Standalone Own Building,4239,5,5,30,5.1,3,3,41470,175791000
+1374,Madhapur,Gated Community,2642,3,3,0,6.2,7,3,27530,72734000
+1375,Gachibowli,Gated Community,2058,4,4,0,2.0,4,7,26910,55381000
+1376,Kukatpally,Villa/Apt,1853,4,3,4,1.3,4,4,12590,23329000
+1377,Gachibowli,Standalone Own Building,2580,3,3,10,8.4,2,3,30000,77400000
+1378,Jubilee Hills,Standalone Own Building,4608,6,6,1,3.2,1,5,53690,247404000
+1379,Jubilee Hills,Gated Community,3660,4,4,1,5.0,3,6,40130,146876000
+1380,Gachibowli,Standalone Own Building,2460,4,4,5,5.6,4,5,33360,82066000
+1381,Kukatpally,Gated Community,1540,3,2,20,4.1,5,1,12910,19881000
+1382,Begumpet,Gated Community,2088,3,3,12,6.0,1,2,20940,43723000
+1383,Banjara Hills,Gated Community,1765,2,2,3,4.6,8,4,38250,67511000
+1384,Gachibowli,Gated Community,3637,4,4,2,3.4,6,7,27970,101727000
+1385,Kukatpally,Gated Community,2933,3,3,2,3.2,1,6,13880,40710000
+1386,Jubilee Hills,Villa/Apt,1759,3,4,6,4.2,5,6,37030,65136000
+1387,Madhapur,Gated Community,1293,2,2,4,6.6,7,7,28190,36450000
+1388,Madhapur,Standalone Own Building,2316,3,3,0,4.1,6,4,38550,89282000
+1389,Kukatpally,Standalone Own Building,1738,3,3,8,1.7,5,4,18220,31666000
+1390,Banjara Hills,Standalone Own Building,2393,3,2,1,4.6,7,4,45960,109982000
+1391,Begumpet,Standalone Own Building,2000,4,3,8,4.4,6,5,31270,62540000
+1392,Begumpet,Villa/Apt,1251,3,2,6,5.5,6,1,20190,25258000
+1393,Jubilee Hills,Villa/Apt,1389,2,2,11,1.4,7,4,37390,51935000
+1394,Begumpet,Standalone Own Building,2389,4,4,17,1.1,1,4,30610,73127000
+1395,Madhapur,Gated Community,3391,4,3,12,6.2,1,2,24620,83486000
+1396,Begumpet,Gated Community,1923,4,4,0,2.6,6,3,24820,47729000
+1397,Kukatpally,Gated Community,2645,4,3,3,2.1,2,2,13150,34782000
+1398,Banjara Hills,Gated Community,2007,3,3,2,2.3,3,5,42040,84374000
+1399,Kukatpally,Gated Community,2854,4,4,3,4.9,7,1,13310,37987000
+1400,Madhapur,Villa/Apt,2032,4,4,40,4.5,2,3,18220,37023000
+1401,Banjara Hills,Villa/Apt,1586,3,3,1,5.9,2,5,35100,55669000
+1402,Madhapur,Gated Community,2647,4,4,3,6.5,8,2,28230,74725000
+1403,Madhapur,Villa/Apt,2331,4,5,1,1.5,4,6,27190,63380000
+1404,Kukatpally,Standalone Own Building,980,1,2,11,3.2,4,6,16590,16258000
+1405,Banjara Hills,Villa/Apt,3862,4,3,2,3.3,4,2,34490,133200000
+1406,Jubilee Hills,Standalone Own Building,4147,5,5,4,5.5,7,5,51690,214358000
+1407,Madhapur,Standalone Own Building,2783,4,4,4,4.2,8,7,36390,101273000
+1408,Jubilee Hills,Gated Community,1469,2,2,0,1.1,2,7,46290,68000000
+1409,Jubilee Hills,Gated Community,1857,4,4,6,6.0,6,7,41080,76286000
+1410,Banjara Hills,Villa/Apt,1110,3,3,2,1.5,7,4,36780,40826000
+1411,Madhapur,Gated Community,3215,4,3,0,2.8,2,6,29220,93942000
+1412,Banjara Hills,Standalone Own Building,1796,3,2,7,4.0,7,3,47810,85867000
+1413,Banjara Hills,Gated Community,1870,4,4,4,3.2,3,5,37420,69975000
+1414,Kukatpally,Standalone Own Building,3947,5,5,3,3.7,6,6,18260,72072000
+1415,Kukatpally,Standalone Own Building,5239,6,6,18,2.9,8,7,16020,83929000
+1416,Madhapur,Gated Community,3542,5,5,2,1.6,7,5,32800,116178000
+1417,Kukatpally,Gated Community,3861,5,5,0,6.5,2,3,13750,53089000
+1418,Jubilee Hills,Standalone Own Building,5157,5,5,3,4.3,2,7,51140,263729000
+1419,Begumpet,Gated Community,3758,4,3,3,5.5,4,2,21330,80158000
+1420,Jubilee Hills,Standalone Own Building,2769,4,3,11,5.7,1,1,49440,136899000
+1421,Madhapur,Standalone Own Building,1963,4,4,13,3.5,8,3,35720,70118000
+1422,Jubilee Hills,Standalone Own Building,2257,3,3,0,1.9,8,6,59290,133818000
+1423,Kukatpally,Gated Community,4140,4,4,19,6.5,4,2,11400,47196000
+1424,Gachibowli,Standalone Own Building,3373,5,5,7,6.8,5,6,32940,111107000
+1425,Banjara Hills,Gated Community,1960,4,5,12,3.0,3,1,36310,71168000
+1426,Jubilee Hills,Gated Community,1699,3,2,2,2.1,1,7,41070,69778000
+1427,Banjara Hills,Gated Community,1919,4,4,5,4.2,4,6,39680,76146000
+1428,Begumpet,Villa/Apt,2020,3,3,1,4.9,6,2,21460,43349000
+1429,Gachibowli,Villa/Apt,2132,4,4,5,5.1,4,2,23220,49505000
+1430,Banjara Hills,Gated Community,2075,3,4,1,2.6,8,2,39380,81714000
+1431,Kukatpally,Villa/Apt,1644,2,2,10,0.6,1,1,12650,20797000
+1432,Madhapur,Gated Community,2361,4,3,3,3.9,6,2,28830,68068000
+1433,Madhapur,Standalone Own Building,3902,4,5,20,2.4,3,2,31900,124474000
+1434,Gachibowli,Standalone Own Building,2577,3,3,1,7.9,8,5,34830,89757000
+1435,Kukatpally,Gated Community,3572,4,4,1,6.2,3,5,14810,52901000
+1436,Gachibowli,Gated Community,2901,3,3,2,8.1,4,2,24090,69885000
+1437,Banjara Hills,Standalone Own Building,2158,4,3,1,3.7,2,7,50980,110015000
+1438,Kukatpally,Gated Community,2043,4,4,3,4.4,2,7,14040,28684000
+1439,Gachibowli,Villa/Apt,2292,4,4,1,2.5,1,5,24870,57002000
+1440,Madhapur,Gated Community,2451,3,3,7,2.3,3,3,29040,71177000
+1441,Banjara Hills,Standalone Own Building,3725,4,3,23,2.4,5,6,43190,160883000
+1442,Jubilee Hills,Gated Community,2484,3,3,3,4.6,5,3,41760,103732000
+1443,Kukatpally,Gated Community,3346,5,4,1,3.9,5,7,15010,50223000
+1444,Banjara Hills,Gated Community,2606,4,4,5,1.1,6,3,37970,98950000
+1445,Gachibowli,Standalone Own Building,2813,3,3,7,5.3,7,4,34420,96823000
+1446,Gachibowli,Gated Community,2512,3,4,5,3.3,6,7,27060,67975000
+1447,Begumpet,Gated Community,2971,3,3,11,1.5,7,1,22770,67650000
+1448,Gachibowli,Gated Community,2234,4,3,2,7.0,2,7,25310,56543000
+1449,Madhapur,Gated Community,2925,4,4,2,1.7,4,3,29040,84942000
+1450,Jubilee Hills,Standalone Own Building,2084,4,3,27,5.8,4,4,41300,86069000
+1451,Banjara Hills,Villa/Apt,2115,4,4,1,3.7,4,6,35160,74363000
+1452,Begumpet,Gated Community,2271,3,3,1,3.0,7,5,24120,54777000
+1453,Gachibowli,Villa/Apt,1059,3,2,6,6.1,7,1,23770,25172000
+1454,Begumpet,Standalone Own Building,2499,4,4,2,6.1,7,5,30870,77144000
+1455,Banjara Hills,Gated Community,1548,2,2,4,3.0,7,1,37440,57957000
+1456,Jubilee Hills,Gated Community,4097,5,4,0,5.7,3,7,42980,176089000
+1457,Banjara Hills,Villa/Apt,1804,4,5,3,4.9,6,2,36580,65990000
+1458,Gachibowli,Gated Community,3802,4,3,14,7.8,4,6,23880,90792000
+1459,Madhapur,Standalone Own Building,1476,3,3,1,6.8,3,7,35030,51704000
+1460,Kukatpally,Villa/Apt,2161,3,3,13,2.4,3,3,12470,26948000
+1461,Begumpet,Standalone Own Building,2219,3,2,19,4.5,2,7,27130,60201000
+1462,Kukatpally,Gated Community,2770,3,4,3,4.3,6,5,15140,41938000
+1463,Kukatpally,Standalone Own Building,2130,4,3,6,3.8,4,2,18140,38638000
+1464,Jubilee Hills,Standalone Own Building,2470,3,3,34,1.7,5,2,44020,108729000
+1465,Madhapur,Gated Community,3092,4,4,11,1.9,6,5,26210,81041000
+1466,Banjara Hills,Standalone Own Building,3064,4,4,0,4.7,5,6,48730,149309000
+1467,Madhapur,Standalone Own Building,4823,5,5,0,4.1,5,5,37710,181875000
+1468,Jubilee Hills,Gated Community,1144,3,3,11,3.2,1,6,39140,44776000
+1469,Gachibowli,Gated Community,3381,4,4,8,2.5,4,1,25680,86824000
+1470,Gachibowli,Gated Community,3200,4,5,23,5.5,6,3,22950,73440000
+1471,Banjara Hills,Standalone Own Building,2099,4,4,3,1.4,2,1,48590,101990000
+1472,Kukatpally,Standalone Own Building,2124,4,5,45,6.1,6,6,13260,28164000
+1473,Jubilee Hills,Villa/Apt,2697,4,3,14,5.1,6,2,32990,88974000
+1474,Madhapur,Gated Community,2620,4,5,6,2.9,4,5,27290,71500000
+1475,Banjara Hills,Standalone Own Building,2209,3,2,8,2.6,1,3,48530,107203000
+1476,Jubilee Hills,Gated Community,1307,3,2,22,5.0,6,7,36600,47836000
+1477,Kukatpally,Standalone Own Building,3246,5,5,16,6.6,2,5,15290,49631000
+1478,Gachibowli,Gated Community,3314,5,6,0,4.5,2,6,26000,86164000
+1479,Kukatpally,Standalone Own Building,3983,5,5,2,4.8,2,7,17420,69384000
+1480,Begumpet,Villa/Apt,3468,4,5,9,6.7,1,6,19910,69048000
+1481,Gachibowli,Villa/Apt,1631,3,3,1,8.4,2,3,22470,36649000
+1482,Jubilee Hills,Gated Community,1995,3,3,6,1.6,6,4,44140,88059000
+1483,Jubilee Hills,Gated Community,1582,2,2,3,1.7,4,1,39300,62173000
+1484,Begumpet,Gated Community,2810,4,4,3,5.6,4,4,21600,60696000
+1485,Jubilee Hills,Gated Community,1741,3,3,4,1.7,7,5,42930,74741000
+1486,Madhapur,Villa/Apt,1203,2,3,0,6.6,6,4,24180,29089000
+1487,Jubilee Hills,Standalone Own Building,4819,6,6,16,2.3,4,3,47730,230011000
+1488,Gachibowli,Gated Community,2545,4,4,1,3.4,3,2,25750,65534000
+1489,Gachibowli,Standalone Own Building,3024,5,5,12,3.0,1,6,31130,94137000
+1490,Banjara Hills,Standalone Own Building,2795,3,3,12,5.5,8,1,45380,126837000
+1491,Jubilee Hills,Gated Community,1809,3,3,7,4.5,2,3,38560,69755000
+1492,Begumpet,Standalone Own Building,4622,5,5,1,4.5,4,1,31770,146841000
+1493,Kukatpally,Gated Community,3912,4,3,0,2.1,2,5,14300,55942000
+1494,Madhapur,Standalone Own Building,1357,2,2,8,2.9,8,1,34250,46477000
+1495,Madhapur,Gated Community,2346,4,3,1,1.0,5,6,30480,71506000
+1496,Jubilee Hills,Villa/Apt,1148,3,3,13,6.0,3,3,33680,38665000
+1497,Madhapur,Standalone Own Building,2279,4,5,0,5.8,1,2,34420,78443000
+1498,Begumpet,Villa/Apt,2617,4,3,4,5.8,4,2,20220,52916000
+1499,Madhapur,Standalone Own Building,1071,2,1,18,2.2,8,7,35200,37699000
+1500,Begumpet,Standalone Own Building,1076,2,1,1,0.9,4,6,31520,33916000
+1501,Begumpet,Gated Community,3857,4,4,8,0.8,3,3,22440,86551000
+1502,Madhapur,Gated Community,3313,5,5,5,3.9,3,2,28250,93592000
+1503,Jubilee Hills,Standalone Own Building,5331,5,6,1,5.1,5,5,52040,277425000
+1504,Gachibowli,Standalone Own Building,3312,4,4,0,2.5,1,2,36010,119265000
+1505,Begumpet,Standalone Own Building,3270,5,5,5,4.1,5,1,29180,95419000
+1506,Banjara Hills,Standalone Own Building,3475,4,3,4,1.4,4,1,47570,165306000
+1507,Madhapur,Gated Community,1938,4,4,10,3.2,2,7,28770,55756000
+1508,Kukatpally,Villa/Apt,2023,3,3,12,7.2,1,7,11210,22678000
+1509,Madhapur,Standalone Own Building,2500,4,3,10,4.6,3,4,34930,87325000
+1510,Gachibowli,Gated Community,1867,4,5,1,3.3,4,6,26460,49401000
+1511,Banjara Hills,Gated Community,4123,4,4,20,4.5,3,3,34490,142202000
+1512,Madhapur,Villa/Apt,2418,4,4,7,2.4,8,2,25160,60837000
+1513,Madhapur,Standalone Own Building,4382,4,4,9,1.6,6,6,37790,165596000
+1514,Jubilee Hills,Standalone Own Building,2513,3,4,0,4.3,8,3,52030,130751000
+1515,Madhapur,Gated Community,2993,3,3,1,0.5,1,6,31020,92843000
+1516,Gachibowli,Gated Community,3035,4,4,0,6.8,4,3,27140,82370000
+1517,Madhapur,Gated Community,2529,4,4,2,1.3,1,7,28310,71596000
+1518,Banjara Hills,Standalone Own Building,1710,3,3,18,5.2,2,2,44650,76352000
+1519,Madhapur,Gated Community,2971,4,4,17,0.4,5,5,27920,82950000
+1520,Banjara Hills,Villa/Apt,3189,5,6,1,1.7,1,6,36080,115059000
+1521,Gachibowli,Gated Community,3321,4,5,12,2.1,7,1,25550,84852000
+1522,Gachibowli,Gated Community,3046,4,4,5,3.6,5,5,25990,79166000
+1523,Madhapur,Villa/Apt,1518,2,2,1,3.2,5,1,25720,39043000
+1524,Banjara Hills,Villa/Apt,1033,3,4,4,1.7,3,3,36460,37663000
+1525,Madhapur,Gated Community,3494,5,5,12,4.6,2,2,26140,91333000
+1526,Kukatpally,Gated Community,2124,4,4,2,2.8,1,3,13340,28334000
+1527,Kukatpally,Villa/Apt,1928,3,4,12,2.1,8,7,12700,24486000
+1528,Gachibowli,Gated Community,1842,4,4,13,5.0,5,4,24690,45479000
+1529,Banjara Hills,Standalone Own Building,2767,4,4,17,4.6,7,3,44540,123242000
+1530,Begumpet,Standalone Own Building,4921,5,5,5,1.5,7,1,30140,148319000
+1531,Jubilee Hills,Gated Community,3340,4,5,6,4.4,5,2,39120,130661000
+1532,Kukatpally,Gated Community,2192,4,4,10,0.6,7,7,13590,29789000
+1533,Banjara Hills,Standalone Own Building,3119,5,5,0,3.1,1,6,49620,154765000
+1534,Gachibowli,Gated Community,2499,4,4,6,8.2,7,4,25190,62950000
+1535,Madhapur,Gated Community,1348,3,4,7,0.6,5,5,30140,40629000
+1536,Kukatpally,Villa/Apt,1749,3,4,0,6.4,8,6,13340,23332000
+1537,Madhapur,Gated Community,2371,4,4,9,3.6,4,6,29710,70442000
+1538,Gachibowli,Villa/Apt,1428,3,3,7,6.7,2,4,22060,31502000
+1539,Kukatpally,Gated Community,3246,5,4,0,6.1,3,5,14580,47327000
+1540,Madhapur,Gated Community,1363,2,2,5,4.1,2,6,27270,37169000
+1541,Kukatpally,Gated Community,2294,4,5,0,1.5,6,6,14470,33194000
+1542,Gachibowli,Standalone Own Building,4204,4,4,2,6.6,8,7,33570,141128000
+1543,Madhapur,Villa/Apt,3199,4,4,8,6.1,8,7,24110,77128000
+1544,Banjara Hills,Gated Community,1679,2,2,24,2.2,5,4,34470,57875000
+1545,Madhapur,Standalone Own Building,2247,3,2,0,5.2,7,7,37140,83454000
+1546,Kukatpally,Gated Community,1940,4,4,7,4.8,6,3,14370,27878000
+1547,Banjara Hills,Gated Community,3240,5,4,4,1.4,8,2,40110,129956000
+1548,Begumpet,Standalone Own Building,4638,6,6,12,3.5,2,3,26940,124948000
+1549,Gachibowli,Standalone Own Building,4465,4,4,22,5.5,7,3,28300,126360000
+1550,Begumpet,Villa/Apt,1384,3,4,2,3.0,2,5,22000,30448000
+1551,Kukatpally,Villa/Apt,2650,3,2,25,2.8,7,5,10970,29070000
+1552,Begumpet,Gated Community,1922,4,5,0,6.5,2,3,23600,45359000
+1553,Begumpet,Standalone Own Building,2103,3,3,0,3.3,3,5,31160,65529000
+1554,Gachibowli,Standalone Own Building,4490,4,4,20,7.2,8,2,29500,132455000
+1555,Gachibowli,Gated Community,2381,3,3,8,8.3,7,1,23930,56977000
+1556,Madhapur,Standalone Own Building,2890,4,4,26,4.8,1,1,29170,84301000
+1557,Jubilee Hills,Gated Community,1831,3,3,18,3.2,6,6,38450,70402000
+1558,Begumpet,Villa/Apt,1464,3,3,3,2.9,6,3,22860,33467000
+1559,Begumpet,Standalone Own Building,2957,4,3,9,2.0,5,6,27340,80844000
+1560,Gachibowli,Standalone Own Building,3361,4,4,5,4.5,5,4,35090,117937000
+1561,Madhapur,Standalone Own Building,1804,4,5,2,3.2,6,6,40210,72539000
+1562,Madhapur,Gated Community,1461,3,2,3,6.3,6,2,28690,41916000
+1563,Jubilee Hills,Gated Community,2257,4,5,7,2.7,8,6,40190,90709000
+1564,Banjara Hills,Standalone Own Building,1945,3,2,2,1.6,7,2,50970,99137000
+1565,Begumpet,Standalone Own Building,4567,6,6,20,5.2,7,4,26300,120112000
+1566,Begumpet,Villa/Apt,1797,3,2,1,0.9,7,1,22990,41313000
+1567,Kukatpally,Gated Community,2536,4,4,11,5.2,4,4,13130,33298000
+1568,Madhapur,Villa/Apt,1545,2,2,4,6.7,4,5,25600,39552000
+1569,Gachibowli,Gated Community,2147,3,3,0,8.2,4,7,25720,55221000
+1570,Jubilee Hills,Gated Community,2752,3,3,3,4.5,6,1,42900,118061000
+1571,Kukatpally,Gated Community,3301,4,5,5,6.2,7,5,13670,45125000
+1572,Jubilee Hills,Gated Community,2224,4,4,10,4.4,4,7,40190,89383000
+1573,Gachibowli,Gated Community,1756,3,2,4,6.5,7,2,26050,45744000
+1574,Gachibowli,Villa/Apt,1237,3,2,0,3.3,2,4,25440,31469000
+1575,Madhapur,Standalone Own Building,3864,4,4,1,2.8,4,4,36970,142852000
+1576,Begumpet,Standalone Own Building,4455,4,4,10,1.7,8,6,30160,134363000
+1577,Jubilee Hills,Gated Community,4559,5,5,5,5.6,1,1,37350,170279000
+1578,Madhapur,Gated Community,2023,3,3,0,4.3,5,2,27420,55471000
+1579,Begumpet,Villa/Apt,1427,2,2,0,2.9,8,1,22360,31908000
+1580,Begumpet,Villa/Apt,2162,4,5,16,7.3,8,5,19610,42397000
+1581,Madhapur,Standalone Own Building,1503,3,4,4,6.7,5,5,34090,51237000
+1582,Begumpet,Standalone Own Building,4616,6,6,30,6.4,8,3,24260,111984000
+1583,Begumpet,Standalone Own Building,1927,3,3,14,3.9,5,7,26000,50102000
+1584,Madhapur,Standalone Own Building,3246,4,5,7,4.3,7,5,33950,110202000
+1585,Madhapur,Villa/Apt,1821,4,5,10,5.0,1,3,23720,43194000
+1586,Begumpet,Villa/Apt,3500,5,5,0,3.1,4,6,22380,78330000
+1587,Madhapur,Standalone Own Building,2843,4,4,2,4.2,5,3,37710,107210000
+1588,Begumpet,Gated Community,3823,4,3,5,5.9,4,2,21690,82921000
+1589,Gachibowli,Gated Community,1655,2,1,33,4.7,4,4,21230,35136000
+1590,Jubilee Hills,Gated Community,1930,3,3,10,5.0,1,4,38070,73475000
+1591,Gachibowli,Villa/Apt,1622,3,3,6,3.9,4,5,22570,36609000
+1592,Kukatpally,Gated Community,3945,5,5,13,5.1,8,4,12750,50299000
+1593,Kukatpally,Villa/Apt,1654,2,2,0,5.4,8,2,12180,20146000
+1594,Gachibowli,Villa/Apt,1999,4,3,3,8.0,1,3,21290,42559000
+1595,Banjara Hills,Standalone Own Building,2162,4,4,3,4.8,7,1,47050,101722000
+1596,Gachibowli,Gated Community,3139,5,5,0,8.5,6,4,26070,81834000
+1597,Gachibowli,Gated Community,3721,4,3,17,8.4,1,6,21550,80188000
+1598,Gachibowli,Standalone Own Building,4235,4,3,7,3.1,5,6,33160,140433000
+1599,Gachibowli,Standalone Own Building,3578,4,4,7,3.9,5,4,33130,118539000
+1600,Banjara Hills,Villa/Apt,1612,3,3,9,2.2,1,4,33820,54518000
+1601,Kukatpally,Villa/Apt,3203,4,4,1,7.0,6,6,13370,42824000
+1602,Banjara Hills,Gated Community,1732,3,3,2,1.4,6,2,40440,70042000
+1603,Gachibowli,Gated Community,2470,3,2,2,3.0,8,1,27500,67925000
+1604,Banjara Hills,Gated Community,2396,3,3,0,4.9,7,5,38760,92869000
+1605,Banjara Hills,Villa/Apt,2380,3,3,3,5.7,8,1,35310,84038000
+1606,Banjara Hills,Gated Community,3596,5,5,1,5.4,1,5,36550,131434000
+1607,Begumpet,Gated Community,3550,4,3,2,3.6,6,7,25430,90276000
+1608,Madhapur,Gated Community,3508,4,4,13,4.3,1,1,27910,97908000
+1609,Jubilee Hills,Gated Community,4627,6,5,9,3.0,7,4,38810,179574000
+1610,Begumpet,Standalone Own Building,5106,5,5,7,2.1,6,1,29810,152210000
+1611,Banjara Hills,Gated Community,3462,5,6,7,2.9,7,1,37560,130033000
+1612,Begumpet,Standalone Own Building,3153,4,4,10,2.0,5,1,30980,97680000
+1613,Kukatpally,Gated Community,3790,4,3,0,6.6,3,2,13080,49573000
+1614,Jubilee Hills,Gated Community,1267,2,2,0,3.3,7,4,42500,53848000
+1615,Madhapur,Gated Community,1505,3,2,0,3.5,7,2,30650,46128000
+1616,Gachibowli,Standalone Own Building,1899,3,2,1,6.8,5,1,31840,60464000
+1617,Begumpet,Villa/Apt,1497,3,2,16,4.1,4,2,19620,29371000
+1618,Gachibowli,Standalone Own Building,2642,4,4,4,2.8,4,6,34940,92311000
+1619,Gachibowli,Standalone Own Building,3527,4,4,8,5.4,8,4,31780,112088000
+1620,Madhapur,Gated Community,1389,3,2,1,4.3,5,2,30050,41739000
+1621,Banjara Hills,Gated Community,3157,5,4,1,5.1,5,5,36270,114504000
+1622,Begumpet,Standalone Own Building,3357,4,3,7,4.7,8,7,31060,104268000
+1623,Gachibowli,Villa/Apt,1700,2,3,14,2.2,2,7,21890,37213000
+1624,Banjara Hills,Standalone Own Building,2280,3,3,12,5.9,1,6,47620,108574000
+1625,Begumpet,Gated Community,3214,5,4,7,6.4,1,5,21470,69005000
+1626,Jubilee Hills,Gated Community,2964,3,3,1,2.7,7,6,39490,117048000
+1627,Gachibowli,Standalone Own Building,1926,3,2,8,7.5,1,7,33130,63808000
+1628,Banjara Hills,Gated Community,2093,4,4,2,2.4,7,7,41040,85897000
+1629,Madhapur,Standalone Own Building,3671,4,4,2,4.3,7,5,36300,133257000
+1630,Banjara Hills,Standalone Own Building,2192,3,3,17,5.6,4,7,47670,104493000
+1631,Madhapur,Gated Community,1877,3,3,9,5.8,3,1,26590,49909000
+1632,Banjara Hills,Villa/Apt,2067,4,3,4,3.7,8,2,34820,71973000
+1633,Gachibowli,Villa/Apt,3299,5,6,0,2.3,8,6,25530,84223000
+1634,Gachibowli,Villa/Apt,3070,4,4,14,5.2,4,2,21690,66588000
+1635,Kukatpally,Villa/Apt,2479,3,2,9,7.2,3,7,12180,30194000
+1636,Banjara Hills,Standalone Own Building,3301,4,4,34,4.4,7,3,39380,129993000
+1637,Banjara Hills,Gated Community,2888,4,5,2,1.8,6,6,41200,118986000
+1638,Kukatpally,Gated Community,2304,3,4,14,2.0,8,6,13040,30044000
+1639,Gachibowli,Standalone Own Building,2343,4,4,5,5.8,6,5,33760,79100000
+1640,Kukatpally,Gated Community,2459,4,4,6,3.1,1,3,13260,32606000
+1641,Kukatpally,Standalone Own Building,5550,5,5,3,4.9,1,1,17510,97180000
+1642,Begumpet,Standalone Own Building,3169,4,4,4,2.7,1,3,30290,95989000
+1643,Banjara Hills,Standalone Own Building,4061,4,4,13,1.3,7,3,47260,191923000
+1644,Jubilee Hills,Gated Community,2863,3,4,4,1.3,1,5,44220,126602000
+1645,Madhapur,Villa/Apt,974,1,1,0,5.4,6,3,26600,25908000
+1646,Jubilee Hills,Standalone Own Building,3879,5,5,8,2.1,2,7,52580,203958000
+1647,Madhapur,Villa/Apt,1769,3,3,15,3.2,6,7,24230,42863000
+1648,Begumpet,Standalone Own Building,1843,3,3,0,6.5,6,5,30850,56857000
+1649,Madhapur,Gated Community,1456,3,3,7,6.3,4,3,25480,37099000
+1650,Begumpet,Standalone Own Building,1127,3,4,10,2.0,4,6,30800,34712000
+1651,Banjara Hills,Villa/Apt,1612,3,4,3,2.8,8,1,35440,57129000
+1652,Madhapur,Gated Community,2805,3,3,1,7.0,1,2,26030,73014000
+1653,Jubilee Hills,Standalone Own Building,4014,4,5,3,4.5,3,3,53910,216395000
+1654,Banjara Hills,Gated Community,2464,3,3,6,2.1,5,7,39160,96490000
+1655,Madhapur,Standalone Own Building,4677,5,5,38,4.6,1,5,28080,131330000
+1656,Gachibowli,Standalone Own Building,4272,4,4,0,8.0,6,6,36650,156569000
+1657,Gachibowli,Standalone Own Building,2888,3,3,4,6.0,2,1,32610,94178000
+1658,Madhapur,Standalone Own Building,4890,5,4,2,6.9,4,4,34520,168803000
+1659,Begumpet,Gated Community,3178,5,5,5,6.9,5,4,23530,74778000
+1660,Madhapur,Standalone Own Building,3582,4,3,21,2.8,4,3,32110,115018000
+1661,Banjara Hills,Gated Community,1645,2,1,1,2.7,2,7,42330,69633000
+1662,Begumpet,Gated Community,3038,4,4,5,3.6,7,7,24750,75190000
+1663,Gachibowli,Villa/Apt,1514,2,2,13,4.6,8,2,21410,32415000
+1664,Jubilee Hills,Gated Community,3300,5,4,2,4.2,4,3,41510,136983000
+1665,Jubilee Hills,Villa/Apt,1610,3,3,7,1.3,6,3,40480,65173000
+1666,Kukatpally,Standalone Own Building,2640,3,4,19,7.0,8,1,14680,38755000
+1667,Jubilee Hills,Standalone Own Building,3166,5,6,3,4.5,6,6,53230,168526000
+1668,Gachibowli,Gated Community,2225,4,4,8,3.7,2,6,26900,59852000
+1669,Begumpet,Gated Community,3256,4,4,8,6.0,5,5,21960,71502000
+1670,Jubilee Hills,Gated Community,1865,4,4,0,1.9,7,3,44770,83496000
+1671,Banjara Hills,Villa/Apt,1885,4,5,0,3.4,4,6,37310,70329000
+1672,Gachibowli,Standalone Own Building,5023,5,5,19,8.9,1,5,27570,138484000
+1673,Banjara Hills,Gated Community,1553,2,1,5,3.1,3,4,37800,58703000
+1674,Jubilee Hills,Gated Community,2897,3,3,0,1.4,8,2,44640,129322000
+1675,Kukatpally,Gated Community,2628,4,4,1,2.8,6,2,13930,36608000
+1676,Jubilee Hills,Gated Community,3029,5,5,3,5.2,2,3,39570,119858000
+1677,Gachibowli,Gated Community,3657,5,4,3,5.3,5,3,27590,100897000
+1678,Madhapur,Gated Community,1386,3,2,10,5.7,8,4,27710,38406000
+1679,Jubilee Hills,Standalone Own Building,5279,6,6,2,1.7,3,1,53390,281846000
+1680,Jubilee Hills,Gated Community,1969,4,4,3,5.9,5,1,37740,74310000
+1681,Banjara Hills,Gated Community,2240,4,4,4,1.2,2,7,38130,85411000
+1682,Banjara Hills,Gated Community,2977,3,3,14,5.1,3,1,35080,104433000
+1683,Banjara Hills,Standalone Own Building,3331,4,5,6,4.0,3,1,46560,155091000
+1684,Madhapur,Gated Community,3292,4,4,2,4.5,8,2,29350,96620000
+1685,Gachibowli,Standalone Own Building,1775,3,2,2,5.0,1,6,35420,62870000
+1686,Banjara Hills,Gated Community,2620,3,4,0,5.3,8,4,40910,107184000
+1687,Gachibowli,Standalone Own Building,4112,4,5,0,5.4,1,3,32560,133887000
+1688,Gachibowli,Standalone Own Building,4070,5,6,4,5.5,7,5,34850,141840000
+1689,Gachibowli,Gated Community,2292,4,5,6,5.3,5,3,24770,56773000
+1690,Madhapur,Standalone Own Building,1673,2,2,17,2.6,3,3,31740,53101000
+1691,Banjara Hills,Standalone Own Building,1724,2,2,0,1.7,7,6,54340,93682000
+1692,Madhapur,Gated Community,2623,3,3,0,1.9,7,6,30440,79844000
+1693,Banjara Hills,Villa/Apt,1211,3,3,2,4.2,4,1,35320,42773000
+1694,Jubilee Hills,Standalone Own Building,2482,4,4,6,2.0,3,1,51320,127376000
+1695,Gachibowli,Villa/Apt,1297,2,2,1,6.0,6,3,23570,30570000
+1696,Gachibowli,Standalone Own Building,1860,4,5,2,2.8,2,5,36420,67741000
+1697,Gachibowli,Gated Community,3060,5,4,1,2.5,2,6,28000,85680000
+1698,Begumpet,Standalone Own Building,4363,5,5,14,1.6,4,5,28980,126440000
+1699,Jubilee Hills,Gated Community,3732,5,5,3,4.8,3,4,42140,157266000
+1700,Jubilee Hills,Gated Community,2757,3,3,0,1.2,1,1,45810,126298000
+1701,Gachibowli,Gated Community,1992,3,2,0,4.1,5,4,28350,56473000
+1702,Gachibowli,Villa/Apt,1789,3,3,0,3.3,4,4,24300,43473000
+1703,Banjara Hills,Villa/Apt,2990,3,2,10,2.6,2,4,33490,100135000
+1704,Banjara Hills,Standalone Own Building,2135,3,3,3,1.9,5,6,52250,111554000
+1705,Gachibowli,Gated Community,3964,4,4,11,6.1,5,5,23770,94224000
+1706,Gachibowli,Gated Community,3726,4,3,2,3.6,4,2,25410,94678000
+1707,Banjara Hills,Gated Community,1982,3,4,3,1.1,4,1,38900,77100000
+1708,Madhapur,Standalone Own Building,1262,3,2,9,4.8,5,5,34020,42933000
+1709,Madhapur,Standalone Own Building,2321,4,3,45,0.6,3,4,27100,62899000
+1710,Gachibowli,Standalone Own Building,1837,3,4,4,6.0,2,3,33490,61521000
+1711,Gachibowli,Standalone Own Building,2304,3,2,0,8.6,5,6,34550,79603000
+1712,Banjara Hills,Standalone Own Building,1855,3,2,29,1.4,8,2,42680,79171000
+1713,Gachibowli,Standalone Own Building,2129,3,3,3,4.2,8,3,34950,74409000
+1714,Jubilee Hills,Gated Community,2257,3,3,15,2.5,5,4,38950,87910000
+1715,Kukatpally,Standalone Own Building,2184,4,4,8,2.5,7,6,17590,38417000
+1716,Kukatpally,Gated Community,2551,3,3,10,7.1,2,7,13540,34541000
+1717,Kukatpally,Villa/Apt,768,1,1,0,7.3,5,7,12890,9900000
+1718,Gachibowli,Standalone Own Building,3077,4,3,4,4.7,5,6,34260,105418000
+1719,Begumpet,Gated Community,4535,6,6,7,1.1,8,6,23130,104895000
+1720,Kukatpally,Gated Community,3029,5,5,12,3.6,7,7,13970,42315000
+1721,Kukatpally,Villa/Apt,3528,4,4,0,1.4,5,7,13470,47522000
+1722,Banjara Hills,Gated Community,1442,2,2,1,4.6,2,6,37620,54248000
+1723,Begumpet,Standalone Own Building,3903,4,3,43,2.9,4,1,24000,93672000
+1724,Gachibowli,Villa/Apt,3472,4,4,5,8.5,7,7,21900,76037000
+1725,Jubilee Hills,Standalone Own Building,3451,5,5,8,4.2,1,3,51830,178865000
+1726,Begumpet,Standalone Own Building,1798,2,3,44,2.4,5,5,25350,45579000
+1727,Madhapur,Villa/Apt,2789,4,4,2,5.4,1,5,25100,70004000
+1728,Jubilee Hills,Standalone Own Building,3098,4,4,1,3.8,1,5,51740,160291000
+1729,Kukatpally,Gated Community,3095,5,5,0,5.0,4,1,14670,45404000
+1730,Gachibowli,Standalone Own Building,5181,5,5,32,7.7,7,6,26740,138540000
+1731,Kukatpally,Gated Community,2589,4,3,1,5.0,1,5,13860,35884000
+1732,Banjara Hills,Standalone Own Building,2919,3,3,28,1.6,5,2,42000,122598000
+1733,Begumpet,Gated Community,1671,3,3,2,6.7,1,2,22330,37313000
+1734,Madhapur,Gated Community,2078,4,4,2,0.8,7,2,29820,61966000
+1735,Madhapur,Gated Community,2259,3,3,3,7.4,2,2,25240,57017000
+1736,Madhapur,Standalone Own Building,3585,5,6,45,2.3,7,4,28580,102459000
+1737,Banjara Hills,Gated Community,3692,5,5,0,2.9,1,2,36730,135607000
+1738,Madhapur,Standalone Own Building,5208,6,6,7,5.4,4,3,36140,188217000
+1739,Kukatpally,Gated Community,1943,4,5,0,7.0,3,3,13810,26833000
+1740,Kukatpally,Standalone Own Building,5610,5,5,5,2.6,7,7,18680,104795000
+1741,Begumpet,Villa/Apt,2939,3,3,4,0.6,1,6,21550,63335000
+1742,Banjara Hills,Villa/Apt,1165,3,2,0,4.6,7,4,36380,42383000
+1743,Banjara Hills,Villa/Apt,1901,4,4,5,2.5,5,5,37520,71326000
+1744,Madhapur,Gated Community,2264,4,4,0,2.7,6,5,29410,66584000
+1745,Banjara Hills,Villa/Apt,2544,3,2,7,3.2,7,4,34370,87437000
+1746,Madhapur,Gated Community,2313,3,3,0,6.6,2,6,28680,66337000
+1747,Begumpet,Standalone Own Building,3987,4,4,21,4.3,6,7,25350,101070000
+1748,Kukatpally,Villa/Apt,1923,3,3,29,4.8,4,3,10520,20230000
+1749,Kukatpally,Standalone Own Building,2434,3,4,6,5.0,3,6,17050,41500000
+1750,Madhapur,Gated Community,2161,4,4,2,1.4,7,2,31280,67596000
+1751,Begumpet,Standalone Own Building,2194,3,3,5,5.5,2,7,28220,61915000
+1752,Madhapur,Villa/Apt,3152,5,5,14,2.0,7,3,25820,81385000
+1753,Begumpet,Gated Community,4240,4,4,4,3.1,6,3,24320,103117000
+1754,Kukatpally,Gated Community,3166,4,4,2,0.4,5,2,14500,45907000
+1755,Begumpet,Standalone Own Building,3305,4,4,4,2.2,4,1,30870,102025000
+1756,Gachibowli,Standalone Own Building,2634,4,4,5,2.4,5,4,33780,88977000
+1757,Gachibowli,Standalone Own Building,2069,3,3,7,8.6,2,2,32290,66808000
+1758,Madhapur,Gated Community,2541,4,3,0,5.1,1,2,28610,72698000
+1759,Jubilee Hills,Gated Community,2463,3,4,0,5.8,6,6,39590,97510000
+1760,Kukatpally,Gated Community,2400,4,5,1,1.7,8,1,14360,34464000
+1761,Madhapur,Gated Community,3272,4,4,20,4.7,8,1,25510,83469000
+1762,Kukatpally,Villa/Apt,1993,3,2,13,2.1,1,3,12350,24614000
+1763,Gachibowli,Gated Community,3486,4,4,4,8.6,6,7,25530,88998000
+1764,Begumpet,Standalone Own Building,2388,3,3,20,2.7,4,5,27300,65192000
+1765,Jubilee Hills,Standalone Own Building,4399,4,4,6,4.6,3,2,49440,217487000
+1766,Begumpet,Gated Community,2027,3,2,9,4.5,4,6,23350,47330000
+1767,Begumpet,Gated Community,2560,4,4,3,0.9,2,6,24020,61491000
+1768,Kukatpally,Standalone Own Building,1609,2,2,7,3.0,3,6,17620,28351000
+1769,Gachibowli,Gated Community,4203,4,5,2,2.2,7,2,26810,112682000
+1770,Gachibowli,Standalone Own Building,1680,3,3,1,4.1,7,2,36310,61001000
+1771,Gachibowli,Standalone Own Building,4978,6,6,8,2.5,4,1,32850,163527000
+1772,Madhapur,Standalone Own Building,2899,3,3,3,4.5,8,6,35780,103726000
+1773,Banjara Hills,Standalone Own Building,2283,3,4,7,3.8,6,3,47940,109447000
+1774,Begumpet,Villa/Apt,1208,3,3,10,4.5,6,4,20520,24788000
+1775,Gachibowli,Gated Community,2335,3,3,25,4.6,8,5,23330,54476000
+1776,Kukatpally,Gated Community,2130,4,3,0,5.3,7,5,14020,29863000
+1777,Gachibowli,Standalone Own Building,3038,4,5,1,2.0,7,6,36380,110522000
+1778,Banjara Hills,Gated Community,3881,4,4,34,4.7,1,6,29450,114295000
+1779,Banjara Hills,Standalone Own Building,3900,4,4,3,5.1,7,2,47760,186264000
+1780,Jubilee Hills,Gated Community,1651,3,3,11,4.1,5,3,39320,64917000
+1781,Madhapur,Gated Community,4436,5,5,0,0.6,6,6,32800,145501000
+1782,Begumpet,Standalone Own Building,3185,5,6,2,4.1,6,1,31980,101856000
+1783,Jubilee Hills,Standalone Own Building,2106,4,4,11,2.3,5,5,48400,101930000
+1784,Jubilee Hills,Standalone Own Building,2507,4,3,10,5.3,4,3,46820,117378000
+1785,Gachibowli,Standalone Own Building,5435,5,5,1,7.7,6,7,33410,181583000
+1786,Kukatpally,Villa/Apt,1379,3,3,5,6.5,4,4,11890,16396000
+1787,Begumpet,Villa/Apt,2139,4,4,5,1.5,1,4,20950,44812000
+1788,Gachibowli,Gated Community,1408,3,3,5,7.2,8,2,26030,36650000
+1789,Kukatpally,Standalone Own Building,3319,4,5,13,4.7,8,7,17230,57186000
+1790,Madhapur,Standalone Own Building,1279,2,3,9,0.9,2,4,34660,44330000
+1791,Jubilee Hills,Gated Community,2608,3,3,2,4.9,8,3,40360,105259000
+1792,Kukatpally,Gated Community,2972,3,3,0,6.4,4,4,13850,41162000
+1793,Kukatpally,Standalone Own Building,5106,6,6,6,5.6,8,3,16720,85372000
+1794,Gachibowli,Villa/Apt,3402,5,5,1,4.1,8,3,23910,81342000
+1795,Madhapur,Gated Community,3130,5,4,0,6.0,6,1,26490,82914000
+1796,Madhapur,Standalone Own Building,2227,4,5,24,3.9,5,2,31280,69661000
+1797,Madhapur,Villa/Apt,2700,4,3,4,6.4,4,5,26060,70362000
+1798,Kukatpally,Standalone Own Building,4331,5,4,6,5.2,7,5,17460,75619000
+1799,Kukatpally,Gated Community,2368,3,3,2,6.0,2,1,14120,33436000
+1800,Madhapur,Standalone Own Building,2079,4,3,35,7.3,3,6,27410,56985000
+1801,Begumpet,Gated Community,2209,4,3,2,2.4,6,7,23920,52839000
+1802,Jubilee Hills,Gated Community,3574,4,4,0,3.2,2,6,42480,151824000
+1803,Kukatpally,Villa/Apt,2705,4,5,3,7.1,3,2,12400,33542000
+1804,Begumpet,Gated Community,3468,5,5,6,3.2,6,4,24580,85243000
+1805,Jubilee Hills,Gated Community,1901,3,3,0,3.9,8,2,42530,80850000
+1806,Banjara Hills,Gated Community,2724,3,3,10,4.6,1,3,37580,102368000
+1807,Banjara Hills,Villa/Apt,3131,5,5,8,4.2,7,5,35380,110775000
+1808,Kukatpally,Gated Community,2137,3,4,0,5.3,1,1,13260,28337000
+1809,Gachibowli,Standalone Own Building,2265,3,3,10,7.7,3,7,32210,72956000
+1810,Jubilee Hills,Gated Community,2935,4,3,11,3.6,4,4,38940,114289000
+1811,Jubilee Hills,Standalone Own Building,3013,5,5,8,3.7,5,4,50060,150831000
+1812,Begumpet,Gated Community,1995,3,3,4,0.4,6,1,25090,50055000
+1813,Banjara Hills,Standalone Own Building,5241,6,6,1,3.2,2,2,51490,269859000
+1814,Kukatpally,Villa/Apt,1736,2,3,0,7.2,8,3,12600,21874000
+1815,Banjara Hills,Standalone Own Building,4837,6,5,9,5.0,7,7,47020,227436000
+1816,Gachibowli,Villa/Apt,2010,4,5,1,3.2,6,2,24250,48742000
+1817,Kukatpally,Gated Community,2232,3,2,3,4.8,5,7,13610,30378000
+1818,Begumpet,Gated Community,4059,4,4,5,6.2,6,1,22550,91530000
+1819,Kukatpally,Villa/Apt,2485,4,4,11,3.8,6,6,12420,30864000
+1820,Banjara Hills,Gated Community,3015,4,4,1,2.5,4,4,40470,122017000
+1821,Gachibowli,Standalone Own Building,4296,5,6,1,6.5,5,7,33080,142112000
+1822,Begumpet,Standalone Own Building,3596,5,5,30,6.4,6,5,24960,89756000
+1823,Begumpet,Standalone Own Building,2900,4,3,4,2.6,8,2,30490,88421000
+1824,Madhapur,Gated Community,1755,3,3,13,3.5,7,4,26700,46858000
+1825,Gachibowli,Villa/Apt,2486,4,4,5,2.8,8,6,25800,64139000
+1826,Begumpet,Standalone Own Building,1662,3,3,3,2.4,2,4,29740,49428000
+1827,Madhapur,Villa/Apt,2231,3,3,10,2.5,4,3,24600,54883000
+1828,Kukatpally,Standalone Own Building,2182,4,4,21,4.9,5,7,16160,35261000
+1829,Jubilee Hills,Gated Community,1854,3,3,2,4.2,8,6,41460,76867000
+1830,Jubilee Hills,Standalone Own Building,3046,4,4,27,4.6,6,5,45920,139872000
+1831,Begumpet,Standalone Own Building,4355,4,4,31,5.7,4,5,23310,101515000
+1832,Gachibowli,Gated Community,2786,3,3,1,3.0,5,3,27440,76448000
+1833,Gachibowli,Gated Community,1669,3,3,9,7.6,6,1,24350,40640000
+1834,Madhapur,Villa/Apt,1184,3,4,2,6.5,7,2,25260,29908000
+1835,Madhapur,Standalone Own Building,1355,2,2,2,4.7,6,3,39240,53170000
+1836,Banjara Hills,Standalone Own Building,1650,2,1,6,2.8,3,1,46320,76428000
+1837,Banjara Hills,Standalone Own Building,918,1,1,2,6.0,4,6,50200,46084000
+1838,Madhapur,Standalone Own Building,2431,3,3,14,1.9,6,7,35430,86130000
+1839,Kukatpally,Villa/Apt,2502,4,5,5,4.9,8,4,12860,32176000
+1840,Madhapur,Gated Community,1958,3,2,4,3.6,7,3,29710,58172000
+1841,Gachibowli,Villa/Apt,2240,4,4,4,6.4,3,2,23360,52326000
+1842,Begumpet,Villa/Apt,3517,5,6,10,2.2,3,2,20200,71043000
+1843,Jubilee Hills,Gated Community,3470,5,5,3,2.5,6,4,44720,155178000
+1844,Jubilee Hills,Gated Community,4505,5,4,1,4.6,3,4,39490,177902000
+1845,Gachibowli,Standalone Own Building,3116,4,4,8,7.1,1,5,31220,97282000
+1846,Gachibowli,Standalone Own Building,3083,4,4,13,7.8,5,6,31130,95974000
+1847,Banjara Hills,Gated Community,2246,3,4,5,2.8,4,4,36880,82832000
+1848,Madhapur,Villa/Apt,2198,4,3,5,6.0,7,2,25070,55104000
+1849,Madhapur,Gated Community,3213,5,5,1,3.2,3,2,27600,88679000
+1850,Begumpet,Standalone Own Building,3125,4,3,7,4.7,3,7,30100,94062000
+1851,Begumpet,Standalone Own Building,3347,4,4,8,5.9,3,1,28550,95557000
+1852,Begumpet,Villa/Apt,2585,4,4,8,3.1,7,5,20960,54182000
+1853,Madhapur,Standalone Own Building,2743,3,4,7,2.9,7,7,35710,97953000
+1854,Gachibowli,Gated Community,3163,4,3,2,4.5,4,6,26120,82618000
+1855,Madhapur,Gated Community,1954,4,4,3,6.1,2,2,27960,54634000
+1856,Begumpet,Gated Community,2769,4,4,5,5.7,2,5,22050,61056000
+1857,Banjara Hills,Villa/Apt,1085,2,2,0,2.4,8,5,37210,40373000
+1858,Madhapur,Gated Community,2517,4,4,4,4.7,3,6,26290,66172000
+1859,Banjara Hills,Gated Community,1405,3,3,4,2.3,8,3,37310,52421000
+1860,Jubilee Hills,Gated Community,2772,3,4,1,5.9,7,5,40320,111767000
+1861,Banjara Hills,Gated Community,3001,5,5,3,4.3,4,4,37200,111637000
+1862,Kukatpally,Gated Community,1700,3,3,6,1.4,1,5,13140,22338000
+1863,Jubilee Hills,Villa/Apt,2294,4,3,15,2.0,3,3,34140,78317000
+1864,Begumpet,Gated Community,4525,6,5,1,2.6,2,4,23020,104166000
+1865,Kukatpally,Standalone Own Building,2929,4,3,12,5.7,6,1,16870,49412000
+1866,Madhapur,Standalone Own Building,4135,5,5,15,2.0,1,3,33030,136579000
+1867,Begumpet,Standalone Own Building,3523,4,5,12,5.7,3,2,28770,101357000
+1868,Kukatpally,Gated Community,2939,3,3,0,3.7,4,5,13550,39823000
+1869,Madhapur,Standalone Own Building,2624,3,4,4,4.9,2,2,33090,86828000
+1870,Banjara Hills,Villa/Apt,2528,3,3,0,4.5,5,2,35530,89820000
+1871,Jubilee Hills,Villa/Apt,3665,4,4,8,4.7,3,1,37270,136595000
+1872,Kukatpally,Villa/Apt,1333,2,1,0,4.0,6,7,13360,17809000
+1873,Banjara Hills,Gated Community,1657,2,2,17,3.0,5,6,35510,58840000
+1874,Gachibowli,Standalone Own Building,2154,4,3,6,6.3,3,5,33850,72913000
+1875,Gachibowli,Gated Community,2260,3,2,2,8.2,4,5,24860,56184000
+1876,Banjara Hills,Gated Community,3733,5,4,12,2.5,4,6,35940,134164000
+1877,Banjara Hills,Standalone Own Building,1075,2,2,8,4.2,3,6,47290,50837000
+1878,Kukatpally,Villa/Apt,2900,4,3,5,4.5,7,4,12210,35409000
+1879,Banjara Hills,Villa/Apt,2275,3,3,5,3.0,3,5,34770,79102000
+1880,Banjara Hills,Standalone Own Building,2643,4,3,4,4.5,4,2,49080,129718000
+1881,Begumpet,Villa/Apt,2698,4,3,6,4.9,4,1,19920,53744000
+1882,Gachibowli,Gated Community,4089,4,3,5,2.9,6,3,26540,108522000
+1883,Madhapur,Standalone Own Building,2085,3,3,11,4.1,2,7,33430,69702000
+1884,Gachibowli,Standalone Own Building,4128,4,4,7,5.7,8,1,31260,129041000
+1885,Begumpet,Standalone Own Building,4326,5,6,22,0.7,1,4,27220,117754000
+1886,Banjara Hills,Standalone Own Building,2822,3,3,34,3.8,2,3,38820,109550000
+1887,Kukatpally,Gated Community,3619,4,5,17,6.6,1,1,11910,43102000
+1888,Begumpet,Gated Community,2733,4,3,2,6.2,4,6,23030,62941000
+1889,Kukatpally,Standalone Own Building,4204,4,4,6,7.4,3,5,16950,71258000
+1890,Madhapur,Standalone Own Building,3949,4,3,9,6.3,6,6,35170,138886000
+1891,Kukatpally,Standalone Own Building,5211,6,5,3,5.3,4,6,16910,88118000
+1892,Kukatpally,Gated Community,1829,3,3,2,4.0,8,2,13660,24984000
+1893,Banjara Hills,Villa/Apt,1457,3,2,1,2.8,2,4,35370,51534000
+1894,Banjara Hills,Villa/Apt,844,1,1,1,4.6,6,2,35590,30038000
+1895,Begumpet,Standalone Own Building,2666,3,2,23,1.0,1,1,25010,66677000
+1896,Jubilee Hills,Villa/Apt,2072,4,3,8,4.4,2,5,36620,75877000
+1897,Begumpet,Gated Community,2720,4,3,3,7.2,1,3,23020,62614000
+1898,Jubilee Hills,Standalone Own Building,4821,6,6,12,3.5,8,4,51550,248523000
+1899,Begumpet,Villa/Apt,2334,3,2,4,1.4,6,7,23550,54966000
+1900,Begumpet,Standalone Own Building,1904,4,4,2,1.7,7,7,32910,62661000
+1901,Gachibowli,Gated Community,2073,4,5,1,2.7,8,1,26870,55702000
+1902,Kukatpally,Gated Community,1744,2,2,11,4.9,3,5,12850,22410000
+1903,Banjara Hills,Gated Community,2287,3,3,7,3.8,4,4,35770,81806000
+1904,Gachibowli,Standalone Own Building,3649,5,5,0,8.9,4,1,31830,116148000
+1905,Kukatpally,Standalone Own Building,3271,4,3,4,5.5,6,5,17090,55901000
+1906,Banjara Hills,Standalone Own Building,3532,5,5,9,1.9,3,6,48270,170490000
+1907,Banjara Hills,Gated Community,2784,3,3,9,2.3,3,2,37320,103899000
+1908,Gachibowli,Gated Community,2925,3,4,4,7.8,4,7,24980,73066000
+1909,Gachibowli,Villa/Apt,1443,3,2,1,3.2,5,5,24410,35224000
+1910,Begumpet,Standalone Own Building,3190,4,4,1,3.8,1,2,30680,97869000
+1911,Jubilee Hills,Standalone Own Building,4779,5,4,3,4.0,8,5,52410,250467000
+1912,Gachibowli,Gated Community,3537,4,4,1,6.7,2,7,26360,93235000
+1913,Jubilee Hills,Standalone Own Building,2534,4,3,2,1.0,2,6,53990,136811000
+1914,Gachibowli,Standalone Own Building,1454,3,3,12,8.0,2,6,30380,44173000
+1915,Begumpet,Standalone Own Building,2901,3,3,18,5.7,4,2,26640,77283000
+1916,Madhapur,Gated Community,1632,3,3,7,3.2,4,2,26690,43558000
+1917,Kukatpally,Standalone Own Building,1607,2,2,5,0.6,1,2,17590,28267000
+1918,Begumpet,Standalone Own Building,3934,4,3,3,3.8,5,6,30660,120616000
+1919,Madhapur,Standalone Own Building,3118,4,4,15,5.8,4,3,34110,106355000
+1920,Jubilee Hills,Gated Community,4016,4,5,2,4.2,7,2,44070,176985000
+1921,Kukatpally,Villa/Apt,1179,2,2,14,7.2,1,2,11540,13606000
+1922,Banjara Hills,Villa/Apt,1620,2,1,1,4.5,2,4,35810,58012000
+1923,Banjara Hills,Standalone Own Building,4594,6,6,3,2.6,2,7,50270,230940000
+1924,Banjara Hills,Gated Community,1748,3,3,4,1.1,3,1,40010,69937000
+1925,Kukatpally,Gated Community,1673,3,2,0,5.8,3,7,14330,23974000
+1926,Kukatpally,Villa/Apt,3732,4,5,5,6.2,4,4,12300,45904000
+1927,Gachibowli,Villa/Apt,1143,3,2,0,5.0,1,4,24370,27855000
+1928,Gachibowli,Standalone Own Building,2246,4,3,3,2.3,7,6,34370,77195000
+1929,Gachibowli,Standalone Own Building,3708,5,4,0,2.6,3,7,37400,138679000
+1930,Banjara Hills,Gated Community,1792,2,1,2,1.4,3,7,37640,67451000
+1931,Kukatpally,Gated Community,3011,5,4,1,4.7,4,5,14610,43991000
+1932,Banjara Hills,Gated Community,3958,4,5,2,1.7,7,6,43740,173123000
+1933,Madhapur,Gated Community,1375,2,2,26,2.4,3,4,24160,33220000
+1934,Jubilee Hills,Standalone Own Building,2205,3,4,11,5.7,5,2,51920,114484000
+1935,Madhapur,Gated Community,2015,3,3,0,3.8,7,4,30060,60571000
+1936,Gachibowli,Gated Community,1896,4,4,18,9.0,2,3,22320,42319000
+1937,Kukatpally,Gated Community,1742,3,4,3,3.3,2,5,13730,23918000
+1938,Banjara Hills,Villa/Apt,2974,4,4,8,2.0,8,7,36600,108848000
+1939,Kukatpally,Villa/Apt,2973,4,3,11,4.7,5,2,11940,35498000
+1940,Banjara Hills,Gated Community,2138,3,3,14,5.1,3,3,36070,77118000
+1941,Gachibowli,Villa/Apt,3609,4,4,26,8.9,1,5,18620,67200000
+1942,Gachibowli,Standalone Own Building,2399,3,2,12,5.8,5,4,30820,73937000
+1943,Madhapur,Gated Community,1879,3,4,0,6.7,6,2,28810,54134000
+1944,Gachibowli,Villa/Apt,1737,3,3,0,6.1,5,1,24160,41966000
+1945,Jubilee Hills,Gated Community,3386,4,4,7,2.2,7,5,37990,128634000
+1946,Banjara Hills,Standalone Own Building,1509,3,4,0,2.7,6,4,51370,77517000
+1947,Madhapur,Gated Community,3052,4,3,0,3.5,5,7,30800,94002000
+1948,Jubilee Hills,Standalone Own Building,5153,5,4,21,4.5,6,6,48590,250384000
+1949,Banjara Hills,Gated Community,2853,4,5,2,3.9,4,1,39080,111495000
+1950,Begumpet,Standalone Own Building,1610,3,4,3,3.0,6,3,31610,50892000
+1951,Banjara Hills,Standalone Own Building,2089,3,2,0,4.8,4,4,49020,102403000
+1952,Begumpet,Standalone Own Building,3658,4,3,8,4.3,1,7,29920,109447000
+1953,Gachibowli,Villa/Apt,2258,4,4,0,4.2,1,5,25310,57150000
+1954,Kukatpally,Gated Community,3298,4,3,0,4.4,1,3,14300,47161000
+1955,Banjara Hills,Standalone Own Building,3796,4,4,17,5.3,8,3,42080,159736000
+1956,Gachibowli,Gated Community,3256,5,4,1,6.1,6,4,25740,83809000
+1957,Kukatpally,Standalone Own Building,1952,3,3,8,2.9,7,5,17620,34394000
+1958,Banjara Hills,Standalone Own Building,3611,4,4,1,2.1,1,4,50540,182500000
+1959,Gachibowli,Villa/Apt,1210,2,2,8,4.1,7,5,23350,28254000
+1960,Jubilee Hills,Standalone Own Building,5281,6,6,10,3.6,7,2,49170,259667000
+1961,Gachibowli,Gated Community,3284,5,5,0,4.4,6,2,27220,89390000
+1962,Kukatpally,Villa/Apt,1566,2,2,11,4.3,5,3,11060,17320000
+1963,Gachibowli,Villa/Apt,2345,3,4,0,7.2,8,2,23220,54451000
+1964,Jubilee Hills,Standalone Own Building,4717,5,5,7,4.6,6,4,50030,235992000
+1965,Begumpet,Gated Community,1919,4,4,0,7.5,4,3,21740,41719000
+1966,Jubilee Hills,Standalone Own Building,3754,5,4,2,2.5,6,4,54270,203730000
+1967,Madhapur,Standalone Own Building,3175,5,5,45,2.4,7,7,28540,90614000
+1968,Jubilee Hills,Standalone Own Building,4028,5,5,4,5.7,8,1,52870,212960000
+1969,Gachibowli,Standalone Own Building,1487,2,2,11,6.5,5,7,33040,49130000
+1970,Banjara Hills,Standalone Own Building,2935,4,4,24,4.0,1,5,42350,124297000
+1971,Kukatpally,Standalone Own Building,1485,3,3,1,3.7,3,7,18020,26760000
+1972,Begumpet,Standalone Own Building,3943,4,3,7,1.0,3,2,29830,117620000
+1973,Jubilee Hills,Gated Community,2036,3,3,15,3.7,8,4,38760,78915000
+1974,Banjara Hills,Standalone Own Building,2385,4,4,4,4.3,7,1,47600,113526000
+1975,Banjara Hills,Villa/Apt,2870,3,3,4,5.8,4,1,33540,96260000
+1976,Begumpet,Villa/Apt,3147,4,4,7,7.2,1,2,19730,62090000
+1977,Kukatpally,Standalone Own Building,2646,4,4,4,1.3,2,4,17630,46649000
+1978,Kukatpally,Standalone Own Building,4103,5,4,4,4.7,4,2,17170,70449000
+1979,Banjara Hills,Villa/Apt,1527,3,2,2,3.2,5,4,37390,57095000
+1980,Gachibowli,Standalone Own Building,3212,5,4,20,3.3,7,3,30580,98223000
+1981,Kukatpally,Villa/Apt,1768,3,3,2,6.9,1,4,12280,21711000
+1982,Jubilee Hills,Standalone Own Building,4069,5,5,10,4.8,7,7,51310,208780000
+1983,Madhapur,Gated Community,2431,4,5,6,6.0,6,2,27200,66123000
+1984,Kukatpally,Standalone Own Building,1805,3,3,45,5.1,4,7,13720,24765000
+1985,Banjara Hills,Gated Community,2923,4,4,1,5.1,5,7,36970,108063000
+1986,Begumpet,Standalone Own Building,2680,4,3,11,2.0,5,1,28990,77693000
+1987,Kukatpally,Gated Community,4717,5,4,3,5.6,1,7,14280,67359000
+1988,Gachibowli,Gated Community,3521,5,5,10,6.0,3,6,24480,86194000
+1989,Begumpet,Standalone Own Building,4543,6,6,3,2.6,7,6,30310,137698000
+1990,Jubilee Hills,Gated Community,3043,4,5,6,1.2,5,7,41570,126498000
+1991,Kukatpally,Standalone Own Building,2510,4,4,3,7.2,3,4,16640,41766000
+1992,Kukatpally,Gated Community,1706,2,1,12,5.7,8,5,13130,22400000
+1993,Banjara Hills,Standalone Own Building,1845,4,3,12,4.5,1,5,48960,90331000
+1994,Banjara Hills,Standalone Own Building,2417,4,3,17,4.8,2,4,41390,100040000
+1995,Banjara Hills,Gated Community,4562,5,5,4,2.6,8,1,37060,169068000
+1996,Jubilee Hills,Gated Community,2042,3,3,5,4.5,1,7,35960,73430000
+1997,Banjara Hills,Gated Community,2713,4,4,6,2.4,5,6,38520,104505000
+1998,Madhapur,Gated Community,3842,4,3,5,4.8,6,3,28250,108536000
+1999,Kukatpally,Standalone Own Building,2101,4,4,24,2.5,7,6,16000,33616000
+2000,Kukatpally,Standalone Own Building,3181,5,5,17,6.3,8,2,15860,50451000

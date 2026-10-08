@@ -1,0 +1,102 @@
+{
+  "model_name": "DecisionTreeRegressor",
+  "model_depth": 7,
+  "criterion": "squared_error",
+  "random_state": 42,
+  "dataset_total_records": 2000,
+  "train_records": 1600,
+  "test_records": 400,
+  "r2_score": 0.9419,
+  "accuracy_pct": 92.4,
+  "mae": 8186567.88,
+  "rmse": 11913655.0,
+  "features": [
+    "square_footage",
+    "bedrooms",
+    "bathrooms",
+    "property_age",
+    "metro_distance",
+    "schools_nearby",
+    "hospitals_nearby",
+    "loc_Banjara Hills",
+    "loc_Begumpet",
+    "loc_Gachibowli",
+    "loc_Jubilee Hills",
+    "loc_Kukatpally",
+    "loc_Madhapur",
+    "type_Gated Community",
+    "type_Standalone Own Building",
+    "type_Villa/Apt"
+  ],
+  "feature_importances": {
+    "square_footage": 0.5868378839444196,
+    "loc_Kukatpally": 0.18962597662058636,
+    "loc_Jubilee Hills": 0.08235315372852614,
+    "loc_Banjara Hills": 0.08148642751325345,
+    "type_Standalone Own Building": 0.04931046747985327,
+    "property_age": 0.005780106939112422,
+    "loc_Madhapur": 0.0018501096834640926,
+    "type_Gated Community": 0.0013695100576930515,
+    "metro_distance": 0.0006944105175694034,
+    "schools_nearby": 0.0004110363464533724,
+    "hospitals_nearby": 0.00013975362207061545,
+    "type_Villa/Apt": 0.00010573775719730054,
+    "bedrooms": 3.542578980091203e-05,
+    "bathrooms": 0.0,
+    "loc_Begumpet": 0.0,
+    "loc_Gachibowli": 0.0
+  },
+  "primary_driver": "Square Footage",
+  "location_coordinates": {
+    "Banjara Hills": {
+      "lat": 17.4156,
+      "lng": 78.4357,
+      "tier": "Ultra-Luxury",
+      "pincode": "500034"
+    },
+    "Jubilee Hills": {
+      "lat": 17.4319,
+      "lng": 78.4073,
+      "tier": "Ultra-Luxury",
+      "pincode": "500033"
+    },
+    "Gachibowli": {
+      "lat": 17.4401,
+      "lng": 78.3489,
+      "tier": "Tech-Hub Corridor",
+      "pincode": "500032"
+    },
+    "Madhapur": {
+      "lat": 17.4483,
+      "lng": 78.3915,
+      "tier": "Hitec Cyber Core",
+      "pincode": "500081"
+    },
+    "Kukatpally": {
+      "lat": 17.4933,
+      "lng": 78.3995,
+      "tier": "Urban Growth Hub",
+      "pincode": "500072"
+    },
+    "Begumpet": {
+      "lat": 17.4447,
+      "lng": 78.4664,
+      "tier": "Central Legacy Hub",
+      "pincode": "500016"
+    }
+  },
+  "locations": [
+    "Banjara Hills",
+    "Jubilee Hills",
+    "Gachibowli",
+    "Madhapur",
+    "Kukatpally",
+    "Begumpet"
+  ],
+  "property_types": [
+    "Standalone Own Building",
+    "Gated Community",
+    "Villa/Apt"
+  ],
+  "trained_at": "2026-10-08T22:50:00Z"
+}
